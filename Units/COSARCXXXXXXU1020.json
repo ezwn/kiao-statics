@@ -1,0 +1,322 @@
+{
+  "code" : "COSARCXXXXXXU1020",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Types et offres de cloud",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "3 **types** de **cloud** :",
+                  "attributes" : null,
+                  "ttsText" : "3 types de cloud :",
+                  "ttsKey" : "d9fd12f32733800a46a674618b8e87cf",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.364,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**public** : **mutualisé** pour un **grand nombre de clients**",
+                  "attributes" : null,
+                  "ttsText" : "public : mutualisé pour un grand nombre de clients",
+                  "ttsKey" : "75afbbcd0733a491f36fc31479448e03",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.978,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**privé** : **interne** à une **entreprise**",
+                  "attributes" : null,
+                  "ttsText" : "privé : interne à une entreprise",
+                  "ttsKey" : "e267a961fc0ed3f1dc61509b1ef00dd2",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.745,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**grand public** : pour les **particuliers**",
+                  "attributes" : null,
+                  "ttsText" : "grand public : pour les particuliers",
+                  "ttsKey" : "2308a0200016c87a8ea3a57e09066ae9",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.773,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 1,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "4 **offres** **cloud** :",
+                  "attributes" : null,
+                  "ttsText" : "4 offres cloud :",
+                  "ttsKey" : "ed624e7a3644729cffa85ead31f39f04",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.653,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**IaaS** : **machines** virtuelles, **stockage**, **réseau**. A **gérer soi-même**.",
+                  "attributes" : null,
+                  "ttsText" : "infrastructure as a service : machines virtuelles, stockage, réseau. A gérer soi-même.",
+                  "ttsKey" : "7771c3f6ed7d43c80470d1db2f13f83d",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 6.829,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**PaaS** : **platforme** **gérée** par le fournisseur (exemple : LAMP)",
+                  "attributes" : null,
+                  "ttsText" : "platform as a service : platforme gérée par le fournisseur (exemple : linux, apache, mysql, php)",
+                  "ttsKey" : "4f84c30ddba1ac1080139f326e8dcaae",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 8.178,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**CaaS** : **orchestrateur** de **conteneurs** **géré** par le fournisseur",
+                  "attributes" : null,
+                  "ttsText" : "containers as a service : orchestrateur de conteneurs géré par le fournisseur",
+                  "ttsKey" : "9cb10b855ab3a1796b940372783725b7",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 5.056,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**SaaS** : **logiciel** **prêt à l'emploi** et **configurable**",
+                  "attributes" : null,
+                  "ttsText" : "software as a service : logiciel prêt à lemploi et configurable",
+                  "ttsKey" : "916d0d88c9282bb1cda7b5a04561ef01",
+                  "ttsFolder" : "units/COSARCXXXXXXU1020",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.343,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Types et offres de cloud",
+              "attributes" : null,
+              "ttsText" : "types et offres de cloud",
+              "ttsKey" : "3da8a2399bac71fb6ea29749bb24c8e6",
+              "ttsFolder" : "units/COSARCXXXXXXU1020",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.581,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
