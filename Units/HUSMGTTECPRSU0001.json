@@ -34,6 +34,7 @@
                     "headword" : "concept",
                     "category" : "noun"
                   },
+                  "ttsText" : "concept",
                   "ttsKey" : "1d24e81db9da6c20c50c8cf65908c076",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -61,6 +62,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个概念",
                   "ttsKey" : "7aecf3b6cd8c4a461cef7970a3e441e7",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -89,6 +91,7 @@
                     "headword" : "utiliser",
                     "category" : "verb"
                   },
+                  "ttsText" : "utiliser",
                   "ttsKey" : "41b564319bbf51f9f001fb9d235bc344",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -113,6 +116,7 @@
                     "headword" : "使用",
                     "category" : "verb"
                   },
+                  "ttsText" : "使用",
                   "ttsKey" : "25d79703ef746c08bb62337c9116552f",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -138,6 +142,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Concepts** utilisés par la **prospective** :",
                   "attributes" : null,
+                  "ttsText" : "concepts utilisés par la prospective :",
                   "ttsKey" : "d308b6fbc3ff3201157efc70d7c2f56b",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -159,6 +164,7 @@
                   "orderedListNumber" : null,
                   "rest" : "前瞻性使用的概念:",
                   "attributes" : null,
+                  "ttsText" : "前瞻性使用的概念:",
                   "ttsKey" : "833554b4c40e417e26c4985593beac6c",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -190,6 +196,7 @@
                     "headword" : "fait",
                     "category" : "noun"
                   },
+                  "ttsText" : "fait",
                   "ttsKey" : "7d0211037058cbbed2a0a88c5c055741",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -217,6 +224,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个事实",
                   "ttsKey" : "67db3c937f0ea551afbbc00bbb410dca",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -242,6 +250,7 @@
                   "orderedListNumber" : null,
                   "rest" : "fait",
                   "attributes" : null,
+                  "ttsText" : "fait",
                   "ttsKey" : "7d0211037058cbbed2a0a88c5c055741",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -263,6 +272,7 @@
                   "orderedListNumber" : null,
                   "rest" : "事实",
                   "attributes" : null,
+                  "ttsText" : "事实",
                   "ttsKey" : "e5f5245d426fc6bf5461f77cb4a3f472",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -294,6 +304,7 @@
                     "headword" : "tendance",
                     "category" : "noun"
                   },
+                  "ttsText" : "tendance",
                   "ttsKey" : "9fb47d959014ce847bfb7833b61274a3",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -321,6 +332,7 @@
                     "classifier" : "种",
                     "category" : "noun"
                   },
+                  "ttsText" : "一种趋势",
                   "ttsKey" : "5df9267e3f34b7846d84d90557deaae9",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -346,6 +358,7 @@
                   "orderedListNumber" : null,
                   "rest" : "tendance",
                   "attributes" : null,
+                  "ttsText" : "tendance",
                   "ttsKey" : "9fb47d959014ce847bfb7833b61274a3",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -367,6 +380,7 @@
                   "orderedListNumber" : null,
                   "rest" : "趋势",
                   "attributes" : null,
+                  "ttsText" : "趋势",
                   "ttsKey" : "85c9a93999cc9bf9e3639977e25069b0",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -398,6 +412,7 @@
                     "headword" : "événement",
                     "category" : "noun"
                   },
+                  "ttsText" : "événement",
                   "ttsKey" : "8d3de0ceb9f1e49b0e6ba96b45a72508",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -425,6 +440,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个事件",
                   "ttsKey" : "49a1f1dc5e9df8fd7f0b015fb359c28d",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -450,6 +466,7 @@
                   "orderedListNumber" : null,
                   "rest" : "événement",
                   "attributes" : null,
+                  "ttsText" : "événement",
                   "ttsKey" : "8d3de0ceb9f1e49b0e6ba96b45a72508",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -471,6 +488,7 @@
                   "orderedListNumber" : null,
                   "rest" : "事件",
                   "attributes" : null,
+                  "ttsText" : "事件",
                   "ttsKey" : "a21d2d14ba995efcfba6a5496410a5dc",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -502,6 +520,7 @@
                     "headword" : "signal",
                     "category" : "noun"
                   },
+                  "ttsText" : "signal",
                   "ttsKey" : "ae63c52a1752a2a257b072a5bc0374cd",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -529,6 +548,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个信号",
                   "ttsKey" : "f9b4e292bc8a7d85cbe756058f905872",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -554,6 +574,7 @@
                   "orderedListNumber" : null,
                   "rest" : "signal",
                   "attributes" : null,
+                  "ttsText" : "signal",
                   "ttsKey" : "ae63c52a1752a2a257b072a5bc0374cd",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -575,6 +596,7 @@
                   "orderedListNumber" : null,
                   "rest" : "信号",
                   "attributes" : null,
+                  "ttsText" : "信号",
                   "ttsKey" : "0790a80617614d8d72c88913209b3ff8",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -606,6 +628,7 @@
                     "headword" : "incertitude",
                     "category" : "noun"
                   },
+                  "ttsText" : "incertitude",
                   "ttsKey" : "18b676bfc94b4beb32b05bfdd1c65f03",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -633,6 +656,7 @@
                     "classifier" : "种",
                     "category" : "noun"
                   },
+                  "ttsText" : "一种不确定性",
                   "ttsKey" : "ce8f83c4774c7a576e4a05eaebeef37e",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -658,6 +682,7 @@
                   "orderedListNumber" : null,
                   "rest" : "incertitude",
                   "attributes" : null,
+                  "ttsText" : "incertitude",
                   "ttsKey" : "18b676bfc94b4beb32b05bfdd1c65f03",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -679,6 +704,7 @@
                   "orderedListNumber" : null,
                   "rest" : "不确定性",
                   "attributes" : null,
+                  "ttsText" : "不确定性",
                   "ttsKey" : "d126011e8853da6f4c705db010c9b7da",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -710,6 +736,7 @@
                     "headword" : "structure",
                     "category" : "noun"
                   },
+                  "ttsText" : "structure",
                   "ttsKey" : "138621e96c9a49076578fcc054c634c4",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -737,6 +764,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个结构",
                   "ttsKey" : "407da05863b6555112e976f91b3d8d91",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -765,6 +793,7 @@
                     "headword" : "constante",
                     "category" : "noun"
                   },
+                  "ttsText" : "constante",
                   "ttsKey" : "091aa600b8aa52031515aef1b7c0e913",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -792,6 +821,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个常量",
                   "ttsKey" : "86255fb10e2aac4b2cf64bc43f34cbad",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -817,6 +847,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**structure** et **constante**",
                   "attributes" : null,
+                  "ttsText" : "structure et constante",
                   "ttsKey" : "c9ebe8957998f604b8f04c694e091b56",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -838,6 +869,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**结构**和**常量**",
                   "attributes" : null,
+                  "ttsText" : "结构和常量",
                   "ttsKey" : "75b47260c5fba8a08c97e6b436bd03ba",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -869,6 +901,7 @@
                     "headword" : "acteur",
                     "category" : "noun"
                   },
+                  "ttsText" : "acteur",
                   "ttsKey" : "e7c45aaa97bc40f875dac4b1e58750f8",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -896,6 +929,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个行为者",
                   "ttsKey" : "535d2fdc12ba375ba09a8ac768e4b7cb",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -921,6 +955,7 @@
                   "orderedListNumber" : null,
                   "rest" : "acteur",
                   "attributes" : null,
+                  "ttsText" : "acteur",
                   "ttsKey" : "e7c45aaa97bc40f875dac4b1e58750f8",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -942,6 +977,7 @@
                   "orderedListNumber" : null,
                   "rest" : "行为者",
                   "attributes" : null,
+                  "ttsText" : "行为者",
                   "ttsKey" : "5ae9f320f64215d023fb360e58b4203c",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -973,6 +1009,7 @@
                     "headword" : "perception",
                     "category" : "noun"
                   },
+                  "ttsText" : "perception",
                   "ttsKey" : "7eaf30cf3188bda21990eae2901db750",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1000,6 +1037,7 @@
                     "classifier" : "种",
                     "category" : "noun"
                   },
+                  "ttsText" : "一种认知",
                   "ttsKey" : "9b3c4134b1236ef68fcad44ecd8c3843",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1028,6 +1066,7 @@
                     "headword" : "schéma interprétatif",
                     "category" : "noun"
                   },
+                  "ttsText" : "schéma interprétatif",
                   "ttsKey" : "ae502f288f85369a9af6f3aed1577143",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1055,6 +1094,7 @@
                     "classifier" : "个",
                     "category" : "noun"
                   },
+                  "ttsText" : "一个解释框架",
                   "ttsKey" : "f6b500b8496f2e71b6e4c39b2a17ae1a",
                   "ttsFolder" : "vocabulary",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1080,6 +1120,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**perception** et **schéma interprétatif**",
                   "attributes" : null,
+                  "ttsText" : "perception et schéma interprétatif",
                   "ttsKey" : "f55e4f07bbe25a851af578f31d60c8e4",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1101,6 +1142,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**认知**和**解释框架**",
                   "attributes" : null,
+                  "ttsText" : "认知和解释框架",
                   "ttsKey" : "609ddc4d89a78aca6d52b17d1a149fba",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1140,6 +1182,7 @@
                       "headword" : "type",
                       "category" : "noun"
                     },
+                    "ttsText" : "type",
                     "ttsKey" : "b95cd9b86471851bb9d676d2b8f5ab30",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1167,6 +1210,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个类型",
                     "ttsKey" : "8a47263da0442a4d8d10524a1d0f4b6f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1195,6 +1239,7 @@
                       "headword" : "cadre",
                       "category" : "noun"
                     },
+                    "ttsText" : "cadre",
                     "ttsKey" : "9750cd9be90638d3eb5ac8b828e03639",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1222,6 +1267,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个框架",
                     "ttsKey" : "e2c127acb096f72bb285daaede26d547",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1250,6 +1296,7 @@
                       "headword" : "selon",
                       "category" : "preposition"
                     },
+                    "ttsText" : "selon",
                     "ttsKey" : "61e50e551b188d3537c7ecc56e79ed29",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1276,6 +1323,7 @@
                       "cefrLevel" : "B1",
                       "category" : "other"
                     },
+                    "ttsText" : "根据",
                     "ttsKey" : "ce429c957712b8d826a02a981fa34003",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1301,6 +1349,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Types** de **faits** selon le cadre STEEP :",
                     "attributes" : null,
+                    "ttsText" : "types de faits selon le cadre STEEP :",
                     "ttsKey" : "5e3fc64a947f80af040bccef066cb73d",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1322,6 +1371,7 @@
                     "orderedListNumber" : null,
                     "rest" : "根据STEEP框架的事实类型:",
                     "attributes" : null,
+                    "ttsText" : "根据STEEP框架的事实类型:",
                     "ttsKey" : "e578f20941d4d5f78ee69759f837b671",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1353,6 +1403,7 @@
                       "headword" : "société",
                       "category" : "noun"
                     },
+                    "ttsText" : "société",
                     "ttsKey" : "8cbc70894942110d751dc17380a45ebf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1380,6 +1431,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个社会",
                     "ttsKey" : "5870c9d224272e90b9261794cd9e36b1",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1408,6 +1460,7 @@
                       "headword" : "démographie",
                       "category" : "noun"
                     },
+                    "ttsText" : "démographie",
                     "ttsKey" : "836d02fa0a8282fa7a1bc7bc105bd576",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1435,6 +1488,7 @@
                       "classifier" : "项",
                       "category" : "noun"
                     },
+                    "ttsText" : "一项人口统计",
                     "ttsKey" : "f13aa08686bb9ec632107fd65ed827e5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1463,6 +1517,7 @@
                       "headword" : "norme culturelle",
                       "category" : "noun"
                     },
+                    "ttsText" : "norme culturelle",
                     "ttsKey" : "456b9f8548d16410b7a814d8062e3532",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1490,6 +1545,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个文化规范",
                     "ttsKey" : "a63a8cd453af6583a198333638d6b4bf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1518,6 +1574,7 @@
                       "headword" : "comportement collectif",
                       "category" : "noun"
                     },
+                    "ttsText" : "comportement collectif",
                     "ttsKey" : "2575a1314e8bf14f5d62c0d63ecb5728",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1545,6 +1602,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种集体行为",
                     "ttsKey" : "96371f712fc1506217f570c3b28a597a",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1570,6 +1628,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**social** : **démographie**, **normes culturelles**, **comportements collectifs**, ...",
                     "attributes" : null,
+                    "ttsText" : "social : démographie, normes culturelles, comportements collectifs, ...",
                     "ttsKey" : "ad459e763e4d3df92940fcf4f1378a36",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1591,6 +1650,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**社会**: **人口统计**、**文化规范**、**集体行为**等",
                     "attributes" : null,
+                    "ttsText" : "社会: 人口统计、文化规范、集体行为等",
                     "ttsKey" : "1bbdff10209395776c1d07182318390c",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1625,6 +1685,7 @@
                       "headword" : "technologie",
                       "category" : "noun"
                     },
+                    "ttsText" : "technologie",
                     "ttsKey" : "167489a3b2fb0e352e2346758455cfbb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1652,6 +1713,7 @@
                       "classifier" : "项",
                       "category" : "noun"
                     },
+                    "ttsText" : "一项技术",
                     "ttsKey" : "bccdfbe46f471b2e1a3d605e140bde49",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1680,6 +1742,7 @@
                       "headword" : "innovation",
                       "category" : "noun"
                     },
+                    "ttsText" : "innovation",
                     "ttsKey" : "1c1cdd2bb94eb9951f1d4997130a48f9",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1707,6 +1770,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个创新",
                     "ttsKey" : "c7e173528f33e8b6425455c1c7c19bdc",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1735,6 +1799,7 @@
                       "headword" : "diffusion",
                       "category" : "noun"
                     },
+                    "ttsText" : "diffusion",
                     "ttsKey" : "52307a299e94e9c49226a44ce8a1363e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1762,6 +1827,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种传播",
                     "ttsKey" : "594a15b043f6362b0189df1addb11257",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1790,6 +1856,7 @@
                       "headword" : "effort",
                       "category" : "noun"
                     },
+                    "ttsText" : "effort",
                     "ttsKey" : "7e08e4c53b3c135ce00e10a8806e9bd6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1817,6 +1884,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个工作",
                     "ttsKey" : "657b03e777c709b5a2b12d035ae02d17",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1845,6 +1913,7 @@
                       "headword" : "recherche",
                       "category" : "noun"
                     },
+                    "ttsText" : "recherche",
                     "ttsKey" : "da943644664f740c73ef8be501f044dd",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1872,6 +1941,7 @@
                       "classifier" : "项",
                       "category" : "noun"
                     },
+                    "ttsText" : "一项研究",
                     "ttsKey" : "9c4988684253becc223385b852f07f1d",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1897,6 +1967,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**technologique** : **innovations**, **diffusion de technologies**, **efforts de recherche**, ...",
                     "attributes" : null,
+                    "ttsText" : "technologique : innovations, diffusion de technologies, efforts de recherche, ...",
                     "ttsKey" : "9e27a315586df657f35ef22c472f81b7",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1918,6 +1989,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**技术**: **创新**、**技术传播**、**研究工作**等",
                     "attributes" : null,
+                    "ttsText" : "技术: 创新、技术传播、研究工作等",
                     "ttsKey" : "9147b3d81583ff2bb2687a20f0bb7cd2",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -1952,6 +2024,7 @@
                       "headword" : "indicateur",
                       "category" : "noun"
                     },
+                    "ttsText" : "indicateur",
                     "ttsKey" : "3b505efc62228fc1929af0a4611719f8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1979,6 +2052,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个指标",
                     "ttsKey" : "5b522302d7face1da8baf0e4a8ebdf53",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2007,6 +2081,7 @@
                       "headword" : "conjoncturel",
                       "category" : "adjective"
                     },
+                    "ttsText" : "conjoncturel",
                     "ttsKey" : "25ddd5a2f483b4ac5ed553ceef48f4ac",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2031,6 +2106,7 @@
                       "headword" : "周期性",
                       "category" : "adjective"
                     },
+                    "ttsText" : "周期性",
                     "ttsKey" : "37273ceafb56aa2ed733ffef9c1fe894",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2059,6 +2135,7 @@
                       "headword" : "économique",
                       "category" : "adjective"
                     },
+                    "ttsText" : "économique",
                     "ttsKey" : "b8101d5d627b5cc75f7b4b4f4ce55580",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2083,6 +2160,7 @@
                       "headword" : "经济",
                       "category" : "adjective"
                     },
+                    "ttsText" : "经济",
                     "ttsKey" : "daab86121ea22218782a305b28bbcb67",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2108,6 +2186,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**économique** : **indicateurs conjoncturels**, ...",
                     "attributes" : null,
+                    "ttsText" : "économique : indicateurs conjoncturels, ...",
                     "ttsKey" : "ca138558270308a5d586cdb95d605cc5",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2129,6 +2208,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**经济**: **周期性指标**等",
                     "attributes" : null,
+                    "ttsText" : "经济: 周期性指标等",
                     "ttsKey" : "c9cba7541fa079ad7b105323f2a350e2",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2163,6 +2243,7 @@
                       "headword" : "environnement",
                       "category" : "noun"
                     },
+                    "ttsText" : "environnement",
                     "ttsKey" : "ee2d4b19f7d9ac89b93cdcbbaa92fd81",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2190,6 +2271,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个环境",
                     "ttsKey" : "7966a8ce1ebc89150b2973ee55c774bd",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2218,6 +2300,7 @@
                       "headword" : "climat",
                       "category" : "noun"
                     },
+                    "ttsText" : "climat",
                     "ttsKey" : "6aaf687207b7ccb2bbe0def8d04df514",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2245,6 +2328,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种气候",
                     "ttsKey" : "81a627b2cb674f63353ed94cc16f67d2",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2273,6 +2357,7 @@
                       "headword" : "ressource",
                       "category" : "noun"
                     },
+                    "ttsText" : "ressource",
                     "ttsKey" : "4b498422efe818c015d2deec8b3dfd0b",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2300,6 +2385,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种资源",
                     "ttsKey" : "27586342b9d61aaeb1fe651671dd9fb3",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2328,6 +2414,7 @@
                       "headword" : "écosystème",
                       "category" : "noun"
                     },
+                    "ttsText" : "écosystème",
                     "ttsKey" : "f7e95072ae50641aed499d45d5b2c557",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2355,6 +2442,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个生态系统",
                     "ttsKey" : "d451e49ba8c57249563d01106ebd51f8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2383,6 +2471,7 @@
                       "headword" : "état",
                       "category" : "noun"
                     },
+                    "ttsText" : "état",
                     "ttsKey" : "e5d95e12a0d1c748118129feb337e4a6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2410,6 +2499,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个状况",
                     "ttsKey" : "a858fd3e6d11589249ec2a7f5e37fd47",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2438,6 +2528,7 @@
                       "headword" : "état des écosystèmes",
                       "category" : "noun"
                     },
+                    "ttsText" : "état des écosystèmes",
                     "ttsKey" : "8b0cecfcad0c19bdbefddaf956f9f66d",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2465,6 +2556,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个生态系统状况",
                     "ttsKey" : "81094cce0ff9fc437ce089795c8552d5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2490,6 +2582,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**environnemental** : **climat**, **ressources**, **état des écosystèmes**, ...",
                     "attributes" : null,
+                    "ttsText" : "environnemental : climat, ressources, état des écosystèmes, ...",
                     "ttsKey" : "b155d4c07acb56ca2899b177b1c44d32",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2511,6 +2604,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**环境**: **气候**、**资源**、**生态系统状况**等",
                     "attributes" : null,
+                    "ttsText" : "环境: 气候、资源、生态系统状况等",
                     "ttsKey" : "380d41517c7729f095a6ee4a0f24cfda",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2545,6 +2639,7 @@
                       "headword" : "politique",
                       "category" : "noun"
                     },
+                    "ttsText" : "politique",
                     "ttsKey" : "7f69ccb2d82a63f8283a150e6eddcbe7",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2572,6 +2667,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种政治",
                     "ttsKey" : "9a1fae34f13ebc0f20934874775ab499",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2600,6 +2696,7 @@
                       "headword" : "décision",
                       "category" : "noun"
                     },
+                    "ttsText" : "décision",
                     "ttsKey" : "80ff99072ada6a3a71c93239b3f71bf2",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2627,6 +2724,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个决策",
                     "ttsKey" : "1e6c892eeee0a6e3c894ccd6790413e7",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2655,6 +2753,7 @@
                       "headword" : "pouvoir",
                       "category" : "noun"
                     },
+                    "ttsText" : "pouvoir",
                     "ttsKey" : "14a15a329e60daa4a83ba9cbf7393bf6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2682,6 +2781,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种权力",
                     "ttsKey" : "6a5d05a23cc850744b086917b4404380",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2710,6 +2810,7 @@
                       "headword" : "changement de pouvoir",
                       "category" : "noun"
                     },
+                    "ttsText" : "changement de pouvoir",
                     "ttsKey" : "0de4e3604f7c9bd3b4220a1774175109",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2737,6 +2838,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种权力变化",
                     "ttsKey" : "6d25c0168b4870e108a7fbd1a4a02ca1",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2765,6 +2867,7 @@
                       "headword" : "conflit",
                       "category" : "noun"
                     },
+                    "ttsText" : "conflit",
                     "ttsKey" : "60127a9a57ecd7e94a14c26d78a42c4e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2792,6 +2895,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个冲突",
                     "ttsKey" : "4ff26762fa19964a95d0595f57b9c83f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2817,6 +2921,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**politique** : **décisions**, **changements de pouvoir** et **conflits**, ...",
                     "attributes" : null,
+                    "ttsText" : "politique : décisions, changements de pouvoir et conflits, ...",
                     "ttsKey" : "1fbd824192007763e2270d8c7d7fc307",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2838,6 +2943,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**政治**: **决策**、**权力变化**和**冲突**等",
                     "attributes" : null,
+                    "ttsText" : "政治: 决策、权力变化和冲突等",
                     "ttsKey" : "dfc79fa5cd6444d0f01b9d5497d9d2dd",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2872,6 +2978,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Tendance** en **prospective** :",
                     "attributes" : null,
+                    "ttsText" : "tendance en prospective :",
                     "ttsKey" : "2b7c0fd2700c963dc340537f86017aaf",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2893,6 +3000,7 @@
                     "orderedListNumber" : null,
                     "rest" : "前瞻性中的趋势:",
                     "attributes" : null,
+                    "ttsText" : "前瞻性中的趋势:",
                     "ttsKey" : "0810bf704bfba300c7999b4e510c5e1c",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2924,6 +3032,7 @@
                       "headword" : "évolution",
                       "category" : "noun"
                     },
+                    "ttsText" : "évolution",
                     "ttsKey" : "0968f170e3b6eaaa5cbb493d8d39c2a5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2951,6 +3060,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个演变",
                     "ttsKey" : "660e297bb8d4b3c7b76b5a484311d8ae",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -2979,6 +3089,7 @@
                       "headword" : "direction",
                       "category" : "noun"
                     },
+                    "ttsText" : "direction",
                     "ttsKey" : "608f88eefc49fa8be287f7ced28d5baf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3006,6 +3117,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个方向",
                     "ttsKey" : "3ec63555555154ff896f50000085f29f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3034,6 +3146,7 @@
                       "headword" : "long terme",
                       "category" : "adjective"
                     },
+                    "ttsText" : "long terme",
                     "ttsKey" : "5edc07ce2bc49f92355757e16107b8c2",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3058,6 +3171,7 @@
                       "headword" : "长期",
                       "category" : "adjective"
                     },
+                    "ttsText" : "长期",
                     "ttsKey" : "e778b4076458bf946ba4a126c0d5c78e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3086,6 +3200,7 @@
                       "headword" : "donné",
                       "category" : "other"
                     },
+                    "ttsText" : "donné",
                     "ttsKey" : "bc3dfb6d4df7e95b7d81062fc0953f1d",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3110,6 +3225,7 @@
                       "headword" : "给定",
                       "category" : "other"
                     },
+                    "ttsText" : "给定",
                     "ttsKey" : "2a2434f4f881d64ce72ec13b97537bd8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3135,6 +3251,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**évolution** **à long terme** **dans une direction donnée**",
                     "attributes" : null,
+                    "ttsText" : "évolution à long terme dans une direction donnée",
                     "ttsKey" : "5b1aeed1773881ef076a0d42755aa9f1",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3156,6 +3273,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**给定方向**上的**长期****演变**",
                     "attributes" : null,
+                    "ttsText" : "给定方向上的长期演变",
                     "ttsKey" : "29dafcd107b2f58ae650c5227b4a49ef",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3190,6 +3308,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Types** de **tendances** :",
                     "attributes" : null,
+                    "ttsText" : "types de tendances :",
                     "ttsKey" : "ffffa90f7ba59ab95beca122a91fe7a4",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3211,6 +3330,7 @@
                     "orderedListNumber" : null,
                     "rest" : "趋势类型:",
                     "attributes" : null,
+                    "ttsText" : "趋势类型:",
                     "ttsKey" : "37d410c2b93c702ff65bad213b204434",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3242,6 +3362,7 @@
                       "headword" : "mégatendance",
                       "category" : "noun"
                     },
+                    "ttsText" : "mégatendance",
                     "ttsKey" : "6becfdd198c42b7ddc3f8533c6338ef5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3269,6 +3390,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个大趋势",
                     "ttsKey" : "87cc1ef845b2d7510627ccc1d38b852a",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3297,6 +3419,7 @@
                       "headword" : "impact",
                       "category" : "noun"
                     },
+                    "ttsText" : "impact",
                     "ttsKey" : "7813de5d7df8e0190250f210120e6d39",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3324,6 +3447,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种影响力",
                     "ttsKey" : "5ac0d7115f9f073752738c76ed7386e6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3352,6 +3476,7 @@
                       "headword" : "fort",
                       "category" : "adjective"
                     },
+                    "ttsText" : "fort",
                     "ttsKey" : "7e19b62307a5af2c641035ea0c03d0fb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3376,6 +3501,7 @@
                       "headword" : "强",
                       "category" : "adjective"
                     },
+                    "ttsText" : "强",
                     "ttsKey" : "d4df535461496cd6e7c2c5a1e205d429",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3404,6 +3530,7 @@
                       "headword" : "durable",
                       "category" : "adjective"
                     },
+                    "ttsText" : "durable",
                     "ttsKey" : "762611ff3f600b6b5005daeb8206fa04",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3428,6 +3555,7 @@
                       "headword" : "持久",
                       "category" : "adjective"
                     },
+                    "ttsText" : "持久",
                     "ttsKey" : "eb17c8784a752b34e2040afc8fa6912e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3453,6 +3581,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**mégatendance** : **à fort impact** et **durable**",
                     "attributes" : null,
+                    "ttsText" : "mégatendance : à fort impact et durable",
                     "ttsKey" : "117cd8036823d26707db2b0797ac9f3e",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3474,6 +3603,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**大趋势**: **影响力强**且**持久**",
                     "attributes" : null,
+                    "ttsText" : "大趋势: 影响力强且持久",
                     "ttsKey" : "360503e4e77304e26a06d173e856ac4f",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3505,6 +3635,7 @@
                       "headword" : "émergent",
                       "category" : "adjective"
                     },
+                    "ttsText" : "émergent",
                     "ttsKey" : "4f04ce5c8b6d3b57f59f0fded691cc97",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3529,6 +3660,7 @@
                       "headword" : "新兴",
                       "category" : "adjective"
                     },
+                    "ttsText" : "新兴",
                     "ttsKey" : "0570dad7b86134b727899903d4c2ef9a",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3557,6 +3689,7 @@
                       "headword" : "naissant",
                       "category" : "adjective"
                     },
+                    "ttsText" : "naissant",
                     "ttsKey" : "ce23c005c8b56df93c213895d93a8a5c",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3581,6 +3714,7 @@
                       "headword" : "初生的",
                       "category" : "adjective"
                     },
+                    "ttsText" : "初生的",
                     "ttsKey" : "e1c5cc4f77272dcff7d4bf152fea015e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3609,6 +3743,7 @@
                       "headword" : "niche",
                       "category" : "noun"
                     },
+                    "ttsText" : "niche",
                     "ttsKey" : "c38cef0d95253b247daf42f194521912",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3636,6 +3771,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个小众领域",
                     "ttsKey" : "0bf1bb74fbd5e59fa36adc233728a208",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3664,6 +3800,7 @@
                       "headword" : "visible",
                       "category" : "adjective"
                     },
+                    "ttsText" : "visible",
                     "ttsKey" : "4e91fa64d614698194b4ed8eb1d490bb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3688,6 +3825,7 @@
                       "headword" : "可见",
                       "category" : "adjective"
                     },
+                    "ttsText" : "可见",
                     "ttsKey" : "b890574e2ba4c89a29a233caf481ce97",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3716,6 +3854,7 @@
                       "headword" : "potentiel",
                       "category" : "noun"
                     },
+                    "ttsText" : "potentiel",
                     "ttsKey" : "3490078e936ec3cd6fd0aaed74e27b15",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3743,6 +3882,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种潜力",
                     "ttsKey" : "b612d717d82b40931dcc00ae6ecc4889",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3771,6 +3911,7 @@
                       "headword" : "croissance",
                       "category" : "noun"
                     },
+                    "ttsText" : "croissance",
                     "ttsKey" : "d82174e0beb4f35baea750407538b32b",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3798,6 +3939,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个增长",
                     "ttsKey" : "bb03abdc46fad569856453ce77357283",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3823,6 +3965,7 @@
                     "orderedListNumber" : null,
                     "rest" : "tendance **émergente** : **naissante**, **visible dans** des **niches**, **à potentiel de croissance**",
                     "attributes" : null,
+                    "ttsText" : "tendance émergente : naissante, visible dans des niches, à potentiel de croissance",
                     "ttsKey" : "76f285f02e451fe1114123c1f0536a41",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3844,6 +3987,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**新兴**趋势: **初生的**、**在****小众领域**中**可见**、**具有增长潜力**",
                     "attributes" : null,
+                    "ttsText" : "新兴趋势: 初生的、在小众领域中可见、具有增长潜力",
                     "ttsKey" : "2bbf660cc22c04cb707b36108c12b277",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3875,6 +4019,7 @@
                       "headword" : "contre-tendance",
                       "category" : "noun"
                     },
+                    "ttsText" : "contre-tendance",
                     "ttsKey" : "16afa8722aba2e82789ed42c12f7d8f5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3902,6 +4047,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种反趋势",
                     "ttsKey" : "85633d2fd8506c0a4eaf1ea19878ab0e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3930,6 +4076,7 @@
                       "headword" : "durée",
                       "category" : "noun"
                     },
+                    "ttsText" : "durée",
                     "ttsKey" : "dbcb45ac7bd767dedcf43b6a8add3767",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3957,6 +4104,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个持续时间",
                     "ttsKey" : "4955d8ef91285d1ca220b1f96de54276",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -3985,6 +4133,7 @@
                       "headword" : "s'opposer à",
                       "category" : "verb"
                     },
+                    "ttsText" : "s'opposer à",
                     "ttsKey" : "4200126e9f41d267ced160ba8cdb190e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4009,6 +4158,7 @@
                       "headword" : "对抗",
                       "category" : "verb"
                     },
+                    "ttsText" : "对抗",
                     "ttsKey" : "0b4749212b7827e9fff166b03b03c63f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4037,6 +4187,7 @@
                       "headword" : "moindre",
                       "category" : "adjective"
                     },
+                    "ttsText" : "moindre",
                     "ttsKey" : "44362c07d79d58795ea1f9aa915663cf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4061,6 +4212,7 @@
                       "headword" : "较短",
                       "category" : "adjective"
                     },
+                    "ttsText" : "较短",
                     "ttsKey" : "69f536e06f6bc09a826cbd03353c0bc3",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4086,6 +4238,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**contre-tendance** : **s'oppose à** une **mégatendance**, **de moindre durée**",
                     "attributes" : null,
+                    "ttsText" : "contre-tendance : s'oppose à une mégatendance, de moindre durée",
                     "ttsKey" : "33ae7251f9802a6aff8f2b752ecc5ef8",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4107,6 +4260,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**反趋势**: **对抗****大趋势**、**持续时间较短**",
                     "attributes" : null,
+                    "ttsText" : "反趋势: 对抗大趋势、持续时间较短",
                     "ttsKey" : "6843a5556871a5711a437a59a138854e",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4144,6 +4298,7 @@
                       "headword" : "critère",
                       "category" : "noun"
                     },
+                    "ttsText" : "critère",
                     "ttsKey" : "64ed20881a91787d517013eeb518c6b3",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4171,6 +4326,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个标准",
                     "ttsKey" : "615b54a07c7a571843338039bb425530",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4199,6 +4355,7 @@
                       "headword" : "classification",
                       "category" : "noun"
                     },
+                    "ttsText" : "classification",
                     "ttsKey" : "3bd497ed5e38725e903f16edec234329",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4226,6 +4383,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个分类",
                     "ttsKey" : "78866d34fc57e585b7efc7ab2eefdedb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4251,6 +4409,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Critères de classification** des **événements** :",
                     "attributes" : null,
+                    "ttsText" : "critères de classification des événements :",
                     "ttsKey" : "10b6351b9b5d6a0c763b7181ebf8576d",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4272,6 +4431,7 @@
                     "orderedListNumber" : null,
                     "rest" : "事件分类标准:",
                     "attributes" : null,
+                    "ttsText" : "事件分类标准:",
                     "ttsKey" : "dccb3fbb1e0d852edd05ed833c6d917f",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4303,6 +4463,7 @@
                       "headword" : "probabilité",
                       "category" : "noun"
                     },
+                    "ttsText" : "probabilité",
                     "ttsKey" : "ac8ce157687db08054b171d0c54fa1a2",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4330,6 +4491,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个概率",
                     "ttsKey" : "a1180a8ee01d40b45e75ea111016c45c",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4358,6 +4520,7 @@
                       "headword" : "occurrence",
                       "category" : "noun"
                     },
+                    "ttsText" : "occurrence",
                     "ttsKey" : "9280de49d195e578b60f890e83406168",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4385,6 +4548,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个发生",
                     "ttsKey" : "a35bf9926e989df6f58ad89fb8b625f8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4410,6 +4574,7 @@
                     "orderedListNumber" : null,
                     "rest" : "probabilité d'occurrence",
                     "attributes" : null,
+                    "ttsText" : "probabilité doccurrence",
                     "ttsKey" : "061d581809f7f384f503e82fa4c2d90a",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4431,6 +4596,7 @@
                     "orderedListNumber" : null,
                     "rest" : "发生概率",
                     "attributes" : null,
+                    "ttsText" : "发生概率",
                     "ttsKey" : "079d677b34f0b402e77aad658d637eef",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4462,6 +4628,7 @@
                       "headword" : "impact",
                       "category" : "noun"
                     },
+                    "ttsText" : "impact",
                     "ttsKey" : "7813de5d7df8e0190250f210120e6d39",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4489,6 +4656,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个影响",
                     "ttsKey" : "ec017cdb895492687425b2babc6d787f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4514,6 +4682,7 @@
                     "orderedListNumber" : null,
                     "rest" : "impact",
                     "attributes" : null,
+                    "ttsText" : "impact",
                     "ttsKey" : "7813de5d7df8e0190250f210120e6d39",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4535,6 +4704,7 @@
                     "orderedListNumber" : null,
                     "rest" : "影响",
                     "attributes" : null,
+                    "ttsText" : "影响",
                     "ttsKey" : "ca8065dc4e10d7b6dd56afd9589ae2a6",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4572,6 +4742,7 @@
                       "headword" : "type d'événement",
                       "category" : "noun"
                     },
+                    "ttsText" : "type dévénement",
                     "ttsKey" : "2b5759eb3298ddba6eb1ea7c354bd6cd",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4599,6 +4770,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个事件类型",
                     "ttsKey" : "48a6a0ee6447eb4a9be7e5ebbba192d2",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4624,6 +4796,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Types** d'**événements** :",
                     "attributes" : null,
+                    "ttsText" : "types dévénements :",
                     "ttsKey" : "d80ff8980972a0ea0a52229b61cd747b",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4645,6 +4818,7 @@
                     "orderedListNumber" : null,
                     "rest" : "事件类型:",
                     "attributes" : null,
+                    "ttsText" : "事件类型:",
                     "ttsKey" : "f79cd4fb4d12014fbe4e3b20d7313989",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4676,6 +4850,7 @@
                       "headword" : "attendu",
                       "category" : "adjective"
                     },
+                    "ttsText" : "attendu",
                     "ttsKey" : "9e3efbcf971f7914ea493d88778dd2cf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4700,6 +4875,7 @@
                       "headword" : "预期",
                       "category" : "adjective"
                     },
+                    "ttsText" : "预期",
                     "ttsKey" : "4a7c316d9941f470be69b665d38fc46c",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4728,6 +4904,7 @@
                       "headword" : "planifié",
                       "category" : "adjective"
                     },
+                    "ttsText" : "planifié",
                     "ttsKey" : "5270f9a5b2bf97b31218ceaa6fd12418",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4752,6 +4929,7 @@
                       "headword" : "计划",
                       "category" : "adjective"
                     },
+                    "ttsText" : "计划",
                     "ttsKey" : "f40d31da56d7126ded38bbcf21ff15b6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4777,6 +4955,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**attendu** ou **planifié**",
                     "attributes" : null,
+                    "ttsText" : "attendu ou planifié",
                     "ttsKey" : "a2e77ec4ea511e0330cb9e66303f9946",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4798,6 +4977,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**预期**或**计划**",
                     "attributes" : null,
+                    "ttsText" : "预期或计划",
                     "ttsKey" : "00886e837be43e9c5555979598d84024",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4829,6 +5009,7 @@
                       "headword" : "probable",
                       "category" : "adjective"
                     },
+                    "ttsText" : "probable",
                     "ttsKey" : "af228564b11a34b739c5b123ab7322bd",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4853,6 +5034,7 @@
                       "headword" : "可能",
                       "category" : "adjective"
                     },
+                    "ttsText" : "可能",
                     "ttsKey" : "7a4261703b598c0f12c3ccb050273d44",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4878,6 +5060,7 @@
                     "orderedListNumber" : null,
                     "rest" : "probable",
                     "attributes" : null,
+                    "ttsText" : "probable",
                     "ttsKey" : "af228564b11a34b739c5b123ab7322bd",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4899,6 +5082,7 @@
                     "orderedListNumber" : null,
                     "rest" : "可能",
                     "attributes" : null,
+                    "ttsText" : "可能",
                     "ttsKey" : "7a4261703b598c0f12c3ccb050273d44",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4930,6 +5114,7 @@
                       "headword" : "improbable",
                       "category" : "adjective"
                     },
+                    "ttsText" : "improbable",
                     "ttsKey" : "25101cd7cf1a60fb5896ef9b51472e4f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -4954,6 +5139,7 @@
                       "headword" : "不太可能",
                       "category" : "adjective"
                     },
+                    "ttsText" : "不太可能",
                     "ttsKey" : "75dc4ecc1421f1dca3281042f3f7b4fa",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -4979,6 +5165,7 @@
                     "orderedListNumber" : null,
                     "rest" : "improbable",
                     "attributes" : null,
+                    "ttsText" : "improbable",
                     "ttsKey" : "25101cd7cf1a60fb5896ef9b51472e4f",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5000,6 +5187,7 @@
                     "orderedListNumber" : null,
                     "rest" : "不太可能",
                     "attributes" : null,
+                    "ttsText" : "不太可能",
                     "ttsKey" : "75dc4ecc1421f1dca3281042f3f7b4fa",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5031,6 +5219,7 @@
                       "headword" : "perturbation",
                       "category" : "noun"
                     },
+                    "ttsText" : "perturbation",
                     "ttsKey" : "5d7f1581509e3854b6eeab88bd6f4459",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5058,6 +5247,7 @@
                       "classifier" : "种",
                       "category" : "noun"
                     },
+                    "ttsText" : "一种扰动",
                     "ttsKey" : "871a2a384c31f12da7c30e3f5d474cc5",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5086,6 +5276,7 @@
                       "headword" : "changement",
                       "category" : "noun"
                     },
+                    "ttsText" : "changement",
                     "ttsKey" : "88d1fc0cb0c5b1e9fbe4b72f7f99f520",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5113,6 +5304,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个变化",
                     "ttsKey" : "3d7d71733cd87fef738f8e0d14b35fdf",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5141,6 +5333,7 @@
                       "headword" : "radical",
                       "category" : "adjective"
                     },
+                    "ttsText" : "radical",
                     "ttsKey" : "02e7eb7b6b82f5bf7ffc2732e883e110",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5165,6 +5358,7 @@
                       "headword" : "根本性",
                       "category" : "adjective"
                     },
+                    "ttsText" : "根本性",
                     "ttsKey" : "bc8d4eea151aee736b09e8e854fd343e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5190,6 +5384,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**perturbation** : **changement radical**",
                     "attributes" : null,
+                    "ttsText" : "perturbation : changement radical",
                     "ttsKey" : "19fe73c6c19ff15ef152e274aba95f87",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5211,6 +5406,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**扰动**: **根本性变化**",
                     "attributes" : null,
+                    "ttsText" : "扰动: 根本性变化",
                     "ttsKey" : "ced19984a37a5088105bd88ace68f586",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5242,6 +5438,7 @@
                       "headword" : "rare",
                       "category" : "adjective"
                     },
+                    "ttsText" : "rare",
                     "ttsKey" : "725526227e90150af8a358ff3f98a519",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5266,6 +5463,7 @@
                       "headword" : "罕见",
                       "category" : "adjective"
                     },
+                    "ttsText" : "罕见",
                     "ttsKey" : "67de9e487ef501bee48f47fa7971ab59",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5294,6 +5492,7 @@
                       "headword" : "imprévisible",
                       "category" : "adjective"
                     },
+                    "ttsText" : "imprévisible",
                     "ttsKey" : "e110c7230f58997a13065aaedeab34e8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5318,6 +5517,7 @@
                       "headword" : "不可预测",
                       "category" : "adjective"
                     },
+                    "ttsText" : "不可预测",
                     "ttsKey" : "597a4f46bf95ab5d5e9f83bba9953807",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5346,6 +5546,7 @@
                       "headword" : "fort",
                       "category" : "adjective"
                     },
+                    "ttsText" : "fort",
                     "ttsKey" : "7e19b62307a5af2c641035ea0c03d0fb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5370,6 +5571,7 @@
                       "headword" : "大",
                       "category" : "adjective"
                     },
+                    "ttsText" : "大",
                     "ttsKey" : "dd0196cd49e13753312493293072e6f3",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5395,6 +5597,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**cygne noir** : **rare**, **imprévisible**, **à très fort impact**",
                     "attributes" : null,
+                    "ttsText" : "cygne noir : rare, imprévisible, à très fort impact",
                     "ttsKey" : "06dc347927d128685534fcc6ba19cae7",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5416,6 +5619,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**黑天鹅**: **罕见**、**不可预测**、**影响极大**",
                     "attributes" : null,
+                    "ttsText" : "黑天鹅: 罕见、不可预测、影响极大",
                     "ttsKey" : "666bcbaae79447fde11b91eff367373d",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5450,6 +5654,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**Signal** en **prospective** :",
                     "attributes" : null,
+                    "ttsText" : "signal en prospective :",
                     "ttsKey" : "50a6ee32d2fde2153666927990840fe1",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5471,6 +5676,7 @@
                     "orderedListNumber" : null,
                     "rest" : "前瞻性中的信号:",
                     "attributes" : null,
+                    "ttsText" : "前瞻性中的信号:",
                     "ttsKey" : "c4d09f21312b573fb00b742fa5ddf70c",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5502,6 +5708,7 @@
                       "headword" : "indicateur",
                       "category" : "noun"
                     },
+                    "ttsText" : "indicateur",
                     "ttsKey" : "3b505efc62228fc1929af0a4611719f8",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5529,6 +5736,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个指示器",
                     "ttsKey" : "8fe412347073fda06f780e83a26eabcd",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5557,6 +5765,7 @@
                       "headword" : "futur",
                       "category" : "adjective"
                     },
+                    "ttsText" : "futur",
                     "ttsKey" : "992b0d9db1e30d71e3601b0901a7bbfb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5581,6 +5790,7 @@
                       "headword" : "未来",
                       "category" : "adjective"
                     },
+                    "ttsText" : "未来",
                     "ttsKey" : "e0e41f2346398c187b6d03972c350971",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5606,6 +5816,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**indicateur** de **changement futur**",
                     "attributes" : null,
+                    "ttsText" : "indicateur de changement futur",
                     "ttsKey" : "91d9e53fcea1429dcadb8d57502ad9a5",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5627,6 +5838,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**未来变化**的**指示器**",
                     "attributes" : null,
+                    "ttsText" : "未来变化的指示器",
                     "ttsKey" : "c28f7a6f9a533168748e29a15b6ef60f",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5661,6 +5873,7 @@
                     "orderedListNumber" : null,
                     "rest" : "Types de signaux :",
                     "attributes" : null,
+                    "ttsText" : "types de signaux :",
                     "ttsKey" : "52b49c56eeae3096fa9e46377894eced",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5682,6 +5895,7 @@
                     "orderedListNumber" : null,
                     "rest" : "信号类型:",
                     "attributes" : null,
+                    "ttsText" : "信号类型:",
                     "ttsKey" : "40361126abc47db92f2ba36447d34b2a",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5713,6 +5927,7 @@
                       "headword" : "signal faible",
                       "category" : "noun"
                     },
+                    "ttsText" : "signal faible",
                     "ttsKey" : "242d960fa394cee6a216722884e24d6d",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5740,6 +5955,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个弱信号",
                     "ttsKey" : "3739c76109ddc4ee2e081d653a17cb79",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5768,6 +5984,7 @@
                       "headword" : "subtil",
                       "category" : "adjective"
                     },
+                    "ttsText" : "subtil",
                     "ttsKey" : "f52a46adf8f45ac196257ff0bb16deb3",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5794,6 +6011,7 @@
                       "cefrLevel" : "C1",
                       "category" : "adjective"
                     },
+                    "ttsText" : "微妙",
                     "ttsKey" : "80b8c899d5602b1fb6732f1a1dfb9d91",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5822,6 +6040,7 @@
                       "headword" : "difficile à interpréter",
                       "category" : "adjective"
                     },
+                    "ttsText" : "difficile à interpréter",
                     "ttsKey" : "ad5b162ec7912dcefe1a3cb35d6ed39b",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5846,6 +6065,7 @@
                       "headword" : "难以解释",
                       "category" : "adjective"
                     },
+                    "ttsText" : "难以解释",
                     "ttsKey" : "fee9fcf7854eb016d9d3f0ae941d282a",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5874,6 +6094,7 @@
                       "headword" : "précoce",
                       "category" : "adjective"
                     },
+                    "ttsText" : "précoce",
                     "ttsKey" : "642afcfc18efbc099006b60e84c7b06f",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5898,6 +6119,7 @@
                       "headword" : "出现早",
                       "category" : "adjective"
                     },
+                    "ttsText" : "出现早",
                     "ttsKey" : "23aa020194444919e838f66ebdd536d1",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5923,6 +6145,7 @@
                     "orderedListNumber" : null,
                     "rest" : "les **signaux faibles** sont **subtils**, **difficiles à interpréter**, mais **précoces**",
                     "attributes" : null,
+                    "ttsText" : "les signaux faibles sont subtils, difficiles à interpréter, mais précoces",
                     "ttsKey" : "475c92341840e8716b22c6be1440ae6b",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -5944,6 +6167,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**弱信号****微妙**、**难以解释**、但**出现早**",
                     "attributes" : null,
+                    "ttsText" : "弱信号微妙、难以解释、但出现早",
                     "ttsKey" : "17462879935a12134fcf9d6d2f698989",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -5975,6 +6199,7 @@
                       "headword" : "signal fort",
                       "category" : "noun"
                     },
+                    "ttsText" : "signal fort",
                     "ttsKey" : "b72abdf42f1043edec8b907b6aa1b5b6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6002,6 +6227,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个强信号",
                     "ttsKey" : "8d0f2400104e40a3d575fb0b07ac75a6",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6030,6 +6256,7 @@
                       "headword" : "visible",
                       "category" : "adjective"
                     },
+                    "ttsText" : "visible",
                     "ttsKey" : "4e91fa64d614698194b4ed8eb1d490bb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6054,6 +6281,7 @@
                       "headword" : "容易察觉",
                       "category" : "adjective"
                     },
+                    "ttsText" : "容易察觉",
                     "ttsKey" : "63a267b016a71b8c4a345381c4aeae6e",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6082,6 +6310,7 @@
                       "headword" : "entretenir",
                       "category" : "verb"
                     },
+                    "ttsText" : "entretenir",
                     "ttsKey" : "eb9e11b9f8ab674352b5c388c959d4e0",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6106,6 +6335,7 @@
                       "headword" : "维持",
                       "category" : "verb"
                     },
+                    "ttsText" : "维持",
                     "ttsKey" : "81ed15b553ce5fb3c3f0ef7d0dd9188a",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6134,6 +6364,7 @@
                       "headword" : "tendance existante",
                       "category" : "noun"
                     },
+                    "ttsText" : "tendance existante",
                     "ttsKey" : "aab08f55ed53d83c8befe80c1133e721",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6161,6 +6392,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个现有趋势",
                     "ttsKey" : "1259ed87a1fc07a7f5cc801fd56b24b1",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6186,6 +6418,7 @@
                     "orderedListNumber" : null,
                     "rest" : "les **signaux forts** sont facilement **visibles** et **entretiennent** les **tendances existantes**",
                     "attributes" : null,
+                    "ttsText" : "les signaux forts sont facilement visibles et entretiennent les tendances existantes",
                     "ttsKey" : "f4223de19db4540a6c0cd3539e497c5e",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6207,6 +6440,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**强信号**容易**察觉**并**维持****现有趋势**",
                     "attributes" : null,
+                    "ttsText" : "强信号容易察觉并维持现有趋势",
                     "ttsKey" : "efed98431b1f7ef1f0d38539dd754d41",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6238,6 +6472,7 @@
                       "headword" : "signal trompeur",
                       "category" : "noun"
                     },
+                    "ttsText" : "signal trompeur",
                     "ttsKey" : "b0cbb20309f4ff61c5d66768ae79ccd0",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6265,6 +6500,7 @@
                       "classifier" : "个",
                       "category" : "noun"
                     },
+                    "ttsText" : "一个误导性信号",
                     "ttsKey" : "5d3e4ae07312102bb44183a21f1c4eff",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6293,6 +6529,7 @@
                       "headword" : "visible",
                       "category" : "adjective"
                     },
+                    "ttsText" : "visible",
                     "ttsKey" : "4e91fa64d614698194b4ed8eb1d490bb",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6317,6 +6554,7 @@
                       "headword" : "明显",
                       "category" : "adjective"
                     },
+                    "ttsText" : "明显",
                     "ttsKey" : "383b0ee44187cb4757abc78d43dec870",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6345,6 +6583,7 @@
                       "headword" : "sans fondement",
                       "category" : "adjective"
                     },
+                    "ttsText" : "sans fondement",
                     "ttsKey" : "332c0cf2e3bfbe6e22f8a9aabe246006",
                     "ttsFolder" : "vocabulary",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6369,6 +6608,7 @@
                       "headword" : "缺乏依据",
                       "category" : "adjective"
                     },
+                    "ttsText" : "缺乏依据",
                     "ttsKey" : "f1b6df0b5159eff22fb34bf28a4f5c12",
                     "ttsFolder" : "vocabulary",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6394,6 +6634,7 @@
                     "orderedListNumber" : null,
                     "rest" : "les **signaux trompeurs** sont **visibles** mais **sans fondement**",
                     "attributes" : null,
+                    "ttsText" : "les signaux trompeurs sont visibles mais sans fondement",
                     "ttsKey" : "897a9e96f4e361b2e5616b370d78f471",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6415,6 +6656,7 @@
                     "orderedListNumber" : null,
                     "rest" : "**误导性信号****明显**但**缺乏依据**",
                     "attributes" : null,
+                    "ttsText" : "误导性信号明显但缺乏依据",
                     "ttsKey" : "9b740ae9829b7ecf7fa7a34fb901753f",
                     "ttsFolder" : "units/HUSMGTTECPRSU0001",
                     "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6449,6 +6691,7 @@
                   "headword" : "détail",
                   "category" : "noun"
                 },
+                "ttsText" : "détail",
                 "ttsKey" : "7fdcd6b3b982eeb83b75203c8be85ef2",
                 "ttsFolder" : "vocabulary",
                 "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6476,6 +6719,7 @@
                   "classifier" : "份",
                   "category" : "noun"
                 },
+                "ttsText" : "一份详细说明",
                 "ttsKey" : "296a221cb040882bfc2ad0b3f31a434b",
                 "ttsFolder" : "vocabulary",
                 "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6501,6 +6745,7 @@
                 "orderedListNumber" : null,
                 "rest" : "Détails",
                 "attributes" : null,
+                "ttsText" : "détails",
                 "ttsKey" : "132bf19559eb517d9da8677e0fc8b158",
                 "ttsFolder" : "units/HUSMGTTECPRSU0001",
                 "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6522,6 +6767,7 @@
                 "orderedListNumber" : null,
                 "rest" : "详细说明",
                 "attributes" : null,
+                "ttsText" : "详细说明",
                 "ttsKey" : "31ea0ed031e3643de36507d335f4c237",
                 "ttsFolder" : "units/HUSMGTTECPRSU0001",
                 "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6556,6 +6802,7 @@
                 "headword" : "notion",
                 "category" : "noun"
               },
+              "ttsText" : "notion",
               "ttsKey" : "d76e8b04f32cf19325911152b1f389a4",
               "ttsFolder" : "vocabulary",
               "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6583,6 +6830,7 @@
                 "classifier" : "个",
                 "category" : "noun"
               },
+              "ttsText" : "一个概念",
               "ttsKey" : "7aecf3b6cd8c4a461cef7970a3e441e7",
               "ttsFolder" : "vocabulary",
               "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6611,6 +6859,7 @@
                 "headword" : "prospective",
                 "category" : "noun"
               },
+              "ttsText" : "prospective",
               "ttsKey" : "564cbfad63a7e9dd5311550d07f8cb8f",
               "ttsFolder" : "vocabulary",
               "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6637,6 +6886,7 @@
                 "cefrLevel" : "C1",
                 "category" : "noun"
               },
+              "ttsText" : "前瞻性",
               "ttsKey" : "8d2e5ada0f90b2ad6ee021eb170bea9c",
               "ttsFolder" : "vocabulary",
               "voice" : "cmn-CN-Chirp3-HD-Fenrir",
@@ -6662,6 +6912,7 @@
               "orderedListNumber" : null,
               "rest" : "Notions de prospective",
               "attributes" : null,
+              "ttsText" : "notions de prospective",
               "ttsKey" : "7b07d33c7d72b48a300e300a463234c9",
               "ttsFolder" : "units/HUSMGTTECPRSU0001",
               "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -6683,6 +6934,7 @@
               "orderedListNumber" : null,
               "rest" : "前瞻性概念",
               "attributes" : null,
+              "ttsText" : "前瞻性概念",
               "ttsKey" : "aad5c372aab65322653c59f263c841d1",
               "ttsFolder" : "units/HUSMGTTECPRSU0001",
               "voice" : "cmn-CN-Chirp3-HD-Fenrir",

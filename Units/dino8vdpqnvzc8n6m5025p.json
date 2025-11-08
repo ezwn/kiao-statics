@@ -1,0 +1,1143 @@
+{
+  "code" : "dino8vdpqnvzc8n6m5025p",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Modèle fondamental de la sécurité opérationnelle des SI",
+    "sttMapping" : {
+      "Système d'Information" : "SI"
+    }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**SI** sous l'angle de la sécurité :",
+                    "attributes" : null,
+                    "ttsText" : "système dinformation sous langle de la sécurité :",
+                    "ttsKey" : "53c5644ee3b78ec1ecc3326882f3528a",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.888,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "il est **composé d'actifs**",
+                    "attributes" : null,
+                    "ttsText" : "il est composé dactifs",
+                    "ttsKey" : "a44f9276c756e5adcfc4693af3947ee7",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.422,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "il a des **objectifs de sécurité**",
+                    "attributes" : null,
+                    "ttsText" : "il a des objectifs de sécurité",
+                    "ttsKey" : "8bfdc70402ffff3b93074f21733952e6",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.805,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Objectifs** de **sécurité** :",
+                    "attributes" : null,
+                    "ttsText" : "objectifs de sécurité :",
+                    "ttsKey" : "4737d7ff6c73f80d9befa721ea7ae35c",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.846,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**disponibilité** et **résilience**",
+                    "attributes" : null,
+                    "ttsText" : "disponibilité et résilience",
+                    "ttsKey" : "2b4fe44fbe367d27296cd61196e08aae",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.222,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**intégrité** des **données**",
+                    "attributes" : null,
+                    "ttsText" : "intégrité des données",
+                    "ttsKey" : "974458db776b072808ff518c3b566eb0",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.539,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**traçabilité** et **non-répudiation**",
+                    "attributes" : null,
+                    "ttsText" : "traçabilité et non-répudiation",
+                    "ttsKey" : "82cbd48e65376a275235f01f1748682f",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.439,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "confidentialité",
+                    "attributes" : null,
+                    "ttsText" : "confidentialité",
+                    "ttsKey" : "38150546e33245f377547c8f9999afb4",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.983,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "conformité",
+                    "attributes" : null,
+                    "ttsText" : "conformité",
+                    "ttsKey" : "3cece1db503f36c89cab7af967bd2340",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.201,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**restriction** d'**accès** aux **services**",
+                    "attributes" : null,
+                    "ttsText" : "restriction daccès aux services",
+                    "ttsKey" : "5fe56d084240df17d68441fd9ef9e36e",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.182,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 0,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "SI en sécurité",
+                "attributes" : null,
+                "ttsText" : "système dinformation en sécurité",
+                "ttsKey" : "0fe0363ff9009f851a811e71cd41dbbc",
+                "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 2.421,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Impact** en sécurité :",
+                    "attributes" : null,
+                    "ttsText" : "impact en sécurité :",
+                    "ttsKey" : "6b51a10fb8b74c54aff4efbc4341d705",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.464,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**effet négatif** **sur** les **objectifs** de **sécurité**.",
+                    "attributes" : null,
+                    "ttsText" : "effet négatif sur les objectifs de sécurité.",
+                    "ttsKey" : "0cac12aca3ccc1744c23e64f5c192a80",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.91,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Vulnérabilité** en sécurité :",
+                    "attributes" : null,
+                    "ttsText" : "vulnérabilité en sécurité :",
+                    "ttsKey" : "8583acfa2adca640b50c7bfd7f63ec69",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.523,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**faille** **dans** un **actif**,",
+                    "attributes" : null,
+                    "ttsText" : "faille dans un actif,",
+                    "ttsKey" : "d46882423c3207ad2a6deb65cbbd8691",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.825,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "dont l'exploitation peut **provoquer** un **incident**.",
+                    "attributes" : null,
+                    "ttsText" : "dont lexploitation peut provoquer un incident.",
+                    "ttsKey" : "083279020f00c2e2675101c418ac36d3",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.867,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Mécanisme** de création d'impact :",
+                    "attributes" : null,
+                    "ttsText" : "mécanisme de création dimpact :",
+                    "ttsKey" : "e11802103e134dabb247a5ae48f72035",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.53,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'exploitation de **vulnérabilités** d'**actifs**,",
+                    "attributes" : null,
+                    "ttsText" : "lexploitation de vulnérabilités dactifs,",
+                    "ttsKey" : "1b6b5004b6b2a669973b05727070ea96",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.663,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "provoque un **incident** qui a un **impact**.",
+                    "attributes" : null,
+                    "ttsText" : "provoque un incident qui a un impact.",
+                    "ttsKey" : "3d9cb2489b8a8ff439607526adf1b5d7",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.259,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          }, {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Celui-ci **entraîne** un **préjudice** **pour** l'**organisation**.",
+                    "attributes" : null,
+                    "ttsText" : "celui-ci entraîne un préjudice pour lorganisation.",
+                    "ttsKey" : "906cd98ea236e8e003032a353bd771d8",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.63,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 0,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Création d'impact",
+                "attributes" : null,
+                "ttsText" : "création dimpact",
+                "ttsKey" : "f7bdb168f101ab35125173b20abd4bff",
+                "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 1.34,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Risque** de **sécurité** :",
+                    "attributes" : null,
+                    "ttsText" : "risque de sécurité :",
+                    "ttsKey" : "bf7cb1d5e9ad533bd49da3eea0bad1f4",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.633,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Combinaison** de la **vraisemblance** qu'une **menace exploite avec succès** la **vulnérabilité**,",
+                    "attributes" : null,
+                    "ttsText" : "combinaison de la vraisemblance qu'une menace exploite avec succès la vulnérabilité,",
+                    "ttsKey" : "3c64f2a170d4d46399078d6b811666b0",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.34,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "et de l'**impact qui en résulte** **sur** les **objectifs** de sécurité.",
+                    "attributes" : null,
+                    "ttsText" : "et de limpact qui en résulte sur les objectifs de sécurité.",
+                    "ttsKey" : "3f457ff1131f462153bd027d9e262a54",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.353,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Menace** en sécurité :",
+                    "attributes" : null,
+                    "ttsText" : "menace en sécurité :",
+                    "ttsKey" : "0201c3cbff3ef4f0a482ee1cc5d81c72",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.113,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "toute **cause potentielle** d'un **incident indésirable**.",
+                    "attributes" : null,
+                    "ttsText" : "toute cause potentielle dun incident indésirable.",
+                    "ttsKey" : "7f87ec967c0b9dc815d0f02ff5f891d4",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.427,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Quelques **types** **menaces** :",
+                    "attributes" : null,
+                    "ttsText" : "quelques types menaces :",
+                    "ttsKey" : "ead88f78157eed637cd1a9a740bfd99d",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.133,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un **agent** **motivé**, **capable**, et armé d'une **technique** ou d'une **méthode**.",
+                    "attributes" : null,
+                    "ttsText" : "un agent motivé, capable, et armé dune technique ou dune méthode.",
+                    "ttsKey" : "ac2f123f20e3c536c2de3d39322e92c6",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.52,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          }, {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un **événement naturel**",
+                    "attributes" : null,
+                    "ttsText" : "un événement naturel",
+                    "ttsKey" : "c261bcc5a78aa7679a22874537679fe9",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.909,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une **défaillance matérielle**",
+                    "attributes" : null,
+                    "ttsText" : "une défaillance matérielle",
+                    "ttsKey" : "2de74de10ad49704638b14ec8a498062",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.826,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une **erreur humaine**",
+                    "attributes" : null,
+                    "ttsText" : "une erreur humaine",
+                    "ttsKey" : "3a4caafbbf5c1030982aa949c0295986",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.693,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 0,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Risque",
+                "attributes" : null,
+                "ttsText" : "risque",
+                "ttsKey" : "572b742f54bc7e99d5ad46603456aaaa",
+                "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 1.395,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Mesure** de **sécurité** :",
+                    "attributes" : null,
+                    "ttsText" : "mesure de sécurité :",
+                    "ttsKey" : "bdc4aebd88206f942648e7c93c95905e",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.117,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Dispositif** de gestion d'un **risque de sécurité** destiné à **prévenir**, **détecter**, **atténuer** ou **rétablir**.",
+                    "attributes" : null,
+                    "ttsText" : "dispositif de gestion dun risque de sécurité destiné à prévenir, détecter, atténuer ou rétablir.",
+                    "ttsKey" : "493bfa3f37bb10b574e370990df3af08",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 6.262,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 0,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Mesure",
+                "attributes" : null,
+                "ttsText" : "mesure",
+                "ttsKey" : "f216c37db64e33c365298bd6d329d0eb",
+                "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 0.984,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Modèle fondamental de la sécurité opérationnelle des SI",
+              "attributes" : null,
+              "ttsText" : "modèle fondamental de la sécurité opérationnelle des système dinformation",
+              "ttsKey" : "b309de611caaab464d401d0f90f0debc",
+              "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 4.004,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

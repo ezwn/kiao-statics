@@ -2,13 +2,16 @@
   "code" : "HUSPOSGPOXXXU0015",
   "tracks" : [ {
     "lang" : "FR",
-    "title" : "Régimes politiques libéraux"
+    "title" : "Régimes politiques libéraux",
+    "sttMapping" : { }
   }, {
     "lang" : "EN",
-    "title" : "Political Systems"
+    "title" : "Political Systems",
+    "sttMapping" : { }
   }, {
     "lang" : "DE",
-    "title" : "Politische Systeme"
+    "title" : "Politische Systeme",
+    "sttMapping" : { }
   } ],
   "text" : {
     "type" : "text",
@@ -32,6 +35,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Politisches System:",
                   "attributes" : null,
+                  "ttsText" : "politisches system:",
                   "ttsKey" : "e71025b984521e18bb153dc96f259204",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -53,6 +57,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Political system:",
                   "attributes" : null,
+                  "ttsText" : "political system:",
                   "ttsKey" : "53d71d14bd46022cf2bf6f12fa0a816a",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -74,6 +79,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Régime politique :",
                   "attributes" : null,
+                  "ttsText" : "régime politique :",
                   "ttsKey" : "b1adf972bf980c644543771dcb6b21bb",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -107,6 +113,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "die art und weise",
                   "ttsKey" : "ae844b9cb5479d819380cd31828006dd",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -132,6 +139,7 @@
                     "cefrLevel" : "A1",
                     "category" : "noun"
                   },
+                  "ttsText" : "the way",
                   "ttsKey" : "de3bcc7f64290eff22cb5f05fccfd32a",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -158,6 +166,7 @@
                     "cefrLevel" : "A2",
                     "category" : "noun"
                   },
+                  "ttsText" : "une manière",
                   "ttsKey" : "ab2e30c17d29c7908833693dfc558092",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -188,6 +197,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "die macht",
                   "ttsKey" : "9899a28159e5ace4b8607c652e8002f3",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -213,6 +223,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "the power",
                   "ttsKey" : "8305be628e24bc5921efb60af4cf3ff3",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -239,6 +250,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "un pouvoir",
                   "ttsKey" : "3aeffaf8fbf4e63ed0e35745d8bed412",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -269,6 +281,7 @@
                     "cefrLevel" : "A2",
                     "category" : "noun"
                   },
+                  "ttsText" : "der staat",
                   "ttsKey" : "c0608728db256ce96773a81ef14b0c69",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -294,6 +307,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "the state",
                   "ttsKey" : "dbc30d03fab5dc8dbf36d9d6e26e72f9",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -320,6 +334,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "un état",
                   "ttsKey" : "8480962a796335bbdae0c62cb6498576",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -349,6 +364,7 @@
                     "cefrLevel" : "B1",
                     "category" : "verb"
                   },
+                  "ttsText" : "organisieren",
                   "ttsKey" : "e4086964a1548082788a718957d836c3",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -374,6 +390,7 @@
                     "cefrLevel" : "B1",
                     "category" : "verb"
                   },
+                  "ttsText" : "organize",
                   "ttsKey" : "17d39bbdee7a8deb517c841a2847fb69",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -399,6 +416,7 @@
                     "cefrLevel" : "A2",
                     "category" : "verb"
                   },
+                  "ttsText" : "organiser",
                   "ttsKey" : "dfdf4ada61f08326ea32707a0c196534",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -428,6 +446,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "ausüben",
                   "ttsKey" : "1f1ab079cf43fa47be76d9960e968483",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -453,6 +472,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "exercise",
                   "ttsKey" : "c49338e133ae58b3ff42c59be573710f",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -478,6 +498,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "exercer",
                   "ttsKey" : "7eda57e8c5f3468a336a88d714dfc80e",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -503,6 +524,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Art und Weise, wie** die **Macht** im **Staat organisiert** und **ausgeübt** wird.",
                   "attributes" : null,
+                  "ttsText" : "art und weise, wie die macht im staat organisiert und ausgeübt wird.",
                   "ttsKey" : "14807ac2a98fdd73e003d286afc3e997",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -524,6 +546,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**way in which** **power** is **organized** and **exercised** in a state.",
                   "attributes" : null,
+                  "ttsText" : "way in which power is organized and exercised in a state.",
                   "ttsKey" : "1bd7f9f0e4b4a8e5f173115a8fd6d3ad",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -545,6 +568,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**manière dont** le **pouvoir** est **organisé** et **exercé** dans un état.",
                   "attributes" : null,
+                  "ttsText" : "manière dont le pouvoir est organisé et exercé dans un état.",
                   "ttsKey" : "adab83451cc48afd928eaf9bdef35738",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -584,6 +608,7 @@
                     "cefrLevel" : "A2",
                     "category" : "noun"
                   },
+                  "ttsText" : "die art",
                   "ttsKey" : "b172d57837028f8236bc0809217b263c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -609,6 +634,7 @@
                     "cefrLevel" : "A2",
                     "category" : "noun"
                   },
+                  "ttsText" : "the type",
                   "ttsKey" : "53ea31c4a707eb0dee7435c9f4700ab5",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -635,6 +661,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "un type",
                   "ttsKey" : "3e372b5b057f33dd6c23aaaca4e307a9",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -664,6 +691,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "politisch",
                   "ttsKey" : "1290e0426a49f6f60b13ad491ba501e4",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -689,6 +717,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "political",
                   "ttsKey" : "7d1c490cc64d45a6b45db41802e036d6",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -714,6 +743,7 @@
                     "cefrLevel" : "A2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "politique",
                   "ttsKey" : "7f69ccb2d82a63f8283a150e6eddcbe7",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -739,6 +769,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Arten liberaler politischer Systeme:",
                   "attributes" : null,
+                  "ttsText" : "arten liberaler politischer systeme:",
                   "ttsKey" : "b47d432ffa22a8350c105aa645026d00",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -760,6 +791,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Types of liberal political systems:",
                   "attributes" : null,
+                  "ttsText" : "types of liberal political systems:",
                   "ttsKey" : "f866775678eeecab424b1525fa8cf333",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -781,6 +813,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Types** de **régimes politiques** **libéraux** :",
                   "attributes" : null,
+                  "ttsText" : "types de régimes politiques libéraux :",
                   "ttsKey" : "b1690ec11cca7f4ac81a09cd3b294016",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -809,6 +842,7 @@
                   "orderedListNumber" : null,
                   "rest" : "präsidentiell",
                   "attributes" : null,
+                  "ttsText" : "präsidentiell",
                   "ttsKey" : "186845ba5db3e336d2d5bdd4aa8cf55a",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -830,6 +864,7 @@
                   "orderedListNumber" : null,
                   "rest" : "presidential",
                   "attributes" : null,
+                  "ttsText" : "presidential",
                   "ttsKey" : "02bd775e3be61bd89f508407c78ef36e",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -851,6 +886,7 @@
                   "orderedListNumber" : null,
                   "rest" : "présidentiel",
                   "attributes" : null,
+                  "ttsText" : "présidentiel",
                   "ttsKey" : "9804d5911795e5e23fad251bb4864a09",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -879,6 +915,7 @@
                   "orderedListNumber" : null,
                   "rest" : "parlamentarisch",
                   "attributes" : null,
+                  "ttsText" : "parlamentarisch",
                   "ttsKey" : "e1b1d266aff276e202b9feca408f5bf2",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -900,6 +937,7 @@
                   "orderedListNumber" : null,
                   "rest" : "parliamentary",
                   "attributes" : null,
+                  "ttsText" : "parliamentary",
                   "ttsKey" : "f9cf2571b71e6bb1e5e88d4a69f551b1",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -921,6 +959,7 @@
                   "orderedListNumber" : null,
                   "rest" : "parlementaire",
                   "attributes" : null,
+                  "ttsText" : "parlementaire",
                   "ttsKey" : "1db416ddaf7712a384e755bb126658ce",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -949,6 +988,7 @@
                   "orderedListNumber" : null,
                   "rest" : "semi-präsidentiell",
                   "attributes" : null,
+                  "ttsText" : "semi-präsidentiell",
                   "ttsKey" : "bd4bcf2d572b3602423106e304f73b54",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -970,6 +1010,7 @@
                   "orderedListNumber" : null,
                   "rest" : "semi-presidential",
                   "attributes" : null,
+                  "ttsText" : "semi-presidential",
                   "ttsKey" : "0fe81bdc1d095543be31815079b5258b",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -991,6 +1032,7 @@
                   "orderedListNumber" : null,
                   "rest" : "semi-présidentiel",
                   "attributes" : null,
+                  "ttsText" : "semi-présidentiel",
                   "ttsKey" : "976e2f8cf6b149f5e599b519b7486fb7",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1025,6 +1067,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Präsidentielles System:",
                   "attributes" : null,
+                  "ttsText" : "präsidentielles system:",
                   "ttsKey" : "a19bd660c2fed39728451142fec6600f",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1046,6 +1089,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Presidential system:",
                   "attributes" : null,
+                  "ttsText" : "presidential system:",
                   "ttsKey" : "45e27bed5fdbbbbd9b4c4bae26c880f8",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1067,6 +1111,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Régime **présidentiel** :",
                   "attributes" : null,
+                  "ttsText" : "régime présidentiel :",
                   "ttsKey" : "fe1685989fb5122203eb567c0c578888",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1100,6 +1145,7 @@
                     "cefrLevel" : "C1",
                     "category" : "noun"
                   },
+                  "ttsText" : "die exekutivgewalt",
                   "ttsKey" : "a12b91811e60b4c3135262a59f6be398",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1125,6 +1171,7 @@
                     "cefrLevel" : "C1",
                     "category" : "noun"
                   },
+                  "ttsText" : "the executive power",
                   "ttsKey" : "85c3407b19d9bcff5c0fcd3f623b8c06",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1151,6 +1198,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "un pouvoir exécutif",
                   "ttsKey" : "abaa0581f45d76c18ebcd1ae64851060",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1180,6 +1228,7 @@
                     "cefrLevel" : "B1",
                     "category" : "verb"
                   },
+                  "ttsText" : "konzentrieren",
                   "ttsKey" : "0c6e0627e02ac272add7fae0eb104e19",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1205,6 +1254,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "concentrate",
                   "ttsKey" : "d6159cebf4c98ae18804e52aec578f0b",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1230,6 +1280,7 @@
                     "cefrLevel" : "B1",
                     "category" : "verb"
                   },
+                  "ttsText" : "concentrer",
                   "ttsKey" : "765372eb6062c625b5000a6fa2e14d84",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1259,6 +1310,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "gewählt",
                   "ttsKey" : "e46faff7868465b33d508eb6a29400d1",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1284,6 +1336,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "elected",
                   "ttsKey" : "40d0d925395547059af6bafbba6f76f1",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1309,6 +1362,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "élu",
                   "ttsKey" : "136ad00da6a20fd006dc7350596d0571",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1334,6 +1388,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Exekutivgewalt** **konzentriert in** den **Händen** eines **gewählten Präsidenten**",
                   "attributes" : null,
+                  "ttsText" : "exekutivgewalt konzentriert in den händen eines gewählten präsidenten",
                   "ttsKey" : "8b6ab0cd3f7b2a80a7960bfa6a9b9279",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1355,6 +1410,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**executive power** **concentrated in** the **hands** of an **elected president**",
                   "attributes" : null,
+                  "ttsText" : "executive power concentrated in the hands of an elected president",
                   "ttsKey" : "8d231e674407569ad24ecbdc63e555e7",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1376,6 +1432,7 @@
                   "orderedListNumber" : null,
                   "rest" : "pouvoir **exécutif** **concentré entre** les **mains** d'un **président élu**",
                   "attributes" : null,
+                  "ttsText" : "pouvoir exécutif concentré entre les mains dun président élu",
                   "ttsKey" : "4cee743cb3343da3ef295eebda158c95",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1407,6 +1464,7 @@
                     "headword" : "Vereinigte Staaten",
                     "category" : "noun"
                   },
+                  "ttsText" : "vereinigte staaten",
                   "ttsKey" : "54be3602097e493eb0bdf0e9052cf5d1",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1431,6 +1489,7 @@
                     "headword" : "United States",
                     "category" : "noun"
                   },
+                  "ttsText" : "united states",
                   "ttsKey" : "f252feeb1185b6c12ff1e6599617a1dc",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1455,6 +1514,7 @@
                     "headword" : "États-Unis",
                     "category" : "noun"
                   },
+                  "ttsText" : "états-unis",
                   "ttsKey" : "032ca3c226e7e63ce0a055455789ed5c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1483,6 +1543,7 @@
                     "headword" : "Brasilien",
                     "category" : "noun"
                   },
+                  "ttsText" : "brasilien",
                   "ttsKey" : "e472239651b21f2954d841d73631601f",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1507,6 +1568,7 @@
                     "headword" : "Brazil",
                     "category" : "noun"
                   },
+                  "ttsText" : "brazil",
                   "ttsKey" : "ecd702df190ade4d46c1371001e58d6a",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1531,6 +1593,7 @@
                     "headword" : "Brésil",
                     "category" : "noun"
                   },
+                  "ttsText" : "brésil",
                   "ttsKey" : "df1eb081d93ce7cc599f9008c031a466",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1556,6 +1619,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Beispiele: **Vereinigte Staaten**, **Brasilien**",
                   "attributes" : null,
+                  "ttsText" : "beispiele: vereinigte staaten, brasilien",
                   "ttsKey" : "d2d288be72f1258374ac5fb111f3e493",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1577,6 +1641,7 @@
                   "orderedListNumber" : null,
                   "rest" : "examples: **United States**, **Brazil**",
                   "attributes" : null,
+                  "ttsText" : "examples: united states, brazil",
                   "ttsKey" : "3d5225143a91668b1ff61ae94112f61a",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1598,6 +1663,7 @@
                   "orderedListNumber" : null,
                   "rest" : "exemples : **États-Unis**, **Brésil**",
                   "attributes" : null,
+                  "ttsText" : "exemples : états-unis, brésil",
                   "ttsKey" : "874fb48ef1b22cbb82f037c96ae7e738",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1637,6 +1703,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "das parlament",
                   "ttsKey" : "7e4da2c4ef35fc722a4e83357833af88",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1662,6 +1729,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "the parliament",
                   "ttsKey" : "bdd4d9ecd5f4e18f9ea62098d689d5b5",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1688,6 +1756,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "un parlement",
                   "ttsKey" : "0bf0c50f90a3ae7a64ba3429a7cfe08e",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1713,6 +1782,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Parlamentarisches System:",
                   "attributes" : null,
+                  "ttsText" : "parlamentarisches system:",
                   "ttsKey" : "b0f3a94f34a57b562680b229c4f78360",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1734,6 +1804,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Parliamentary system:",
                   "attributes" : null,
+                  "ttsText" : "parliamentary system:",
                   "ttsKey" : "2b9dbe844d9c9da10b0b297284b88cdc",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1755,6 +1826,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Régime **parlementaire** :",
                   "attributes" : null,
+                  "ttsText" : "régime parlementaire :",
                   "ttsKey" : "c70f44c25a7db479ce009676fdc784b4",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1788,6 +1860,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "die regierung",
                   "ttsKey" : "f828df4d51ecaf85036ae9b7209437fc",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1813,6 +1886,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "the government",
                   "ttsKey" : "4060c9d485cce6d405691a09a7cfd47d",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1839,6 +1913,7 @@
                     "cefrLevel" : "B1",
                     "category" : "noun"
                   },
+                  "ttsText" : "un gouvernement",
                   "ttsKey" : "22d7026df879f062dad862fc35b1a0c1",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1868,6 +1943,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "etwas abwählen",
                   "ttsKey" : "71604e095ca292cb016a7555f706569d",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1893,6 +1969,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "dismiss something",
                   "ttsKey" : "80dd3bb7bd08e6f393230be7b941d42c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1918,6 +1995,7 @@
                     "cefrLevel" : "B2",
                     "category" : "verb"
                   },
+                  "ttsText" : "renverser quelque chose",
                   "ttsKey" : "fc1da1cd436cdd6bc8279dda37e3e634",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -1947,6 +2025,7 @@
                     "cefrLevel" : "B1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "verantwortlich",
                   "ttsKey" : "6839672663bc3c22fdb6e7831614df47",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -1972,6 +2051,7 @@
                     "cefrLevel" : "C1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "accountable",
                   "ttsKey" : "a7270685a61924befef754c8c68f669d",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -1997,6 +2077,7 @@
                     "cefrLevel" : "A2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "responsable",
                   "ttsKey" : "95a1ed29f02cd1966d8a8f8ad38403fc",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2022,6 +2103,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Regierung** **verantwortlich gegenüber** dem **Parlament**, das sie **abwählen kann**",
                   "attributes" : null,
+                  "ttsText" : "regierung verantwortlich gegenüber dem parlament, das sie abwählen kann",
                   "ttsKey" : "685b9aeefadd08248537d596a70ff5cf",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2043,6 +2125,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**government** **accountable to** the **parliament** which **can** **dismiss** it",
                   "attributes" : null,
+                  "ttsText" : "government accountable to the parliament which can dismiss it",
                   "ttsKey" : "e2ab6fa38b48c37fd0008bf5a90eeb1a",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2064,6 +2147,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**gouvernement** **responsable devant** le **parlement** qui **peut** le **renverser**",
                   "attributes" : null,
+                  "ttsText" : "gouvernement responsable devant le parlement qui peut le renverser",
                   "ttsKey" : "44b331c42fa3b175d94a343cbbe6475b",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2097,6 +2181,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "das staatsoberhaupt",
                   "ttsKey" : "8976b5142b8a7a8a3cb2b399db3f79b5",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2122,6 +2207,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "the head of state",
                   "ttsKey" : "ee665677a07463d13d48599d5d4b9a09",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2148,6 +2234,7 @@
                     "cefrLevel" : "B2",
                     "category" : "noun"
                   },
+                  "ttsText" : "un chef détat",
                   "ttsKey" : "0cbc5717c0c8794063f7cc7e9a438b3c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2177,6 +2264,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "repräsentativ",
                   "ttsKey" : "b7c6774cde59e488c403fadfbb788867",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2202,6 +2290,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "representative",
                   "ttsKey" : "87afa34b28e8fbad97a777b70c8d3b19",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2227,6 +2316,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "représentatif",
                   "ttsKey" : "9b92f44da2fc9c104e9c98a86ea79985",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2256,6 +2346,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "symbolisch",
                   "ttsKey" : "76dbd6d8a1e9a0f23b1e390c7ed480ad",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2281,6 +2372,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "symbolic",
                   "ttsKey" : "0b8251d8b4a42e3289b4b22354b4f5e7",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2306,6 +2398,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "symbolique",
                   "ttsKey" : "3d76a4a72404c2f400db9dc283ed439d",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2331,6 +2424,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Staatsoberhaupt** **repräsentativ** oder **symbolisch**",
                   "attributes" : null,
+                  "ttsText" : "staatsoberhaupt repräsentativ oder symbolisch",
                   "ttsKey" : "67140f5d727d1850ea6c6e3786390d72",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2352,6 +2446,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**head of state** is **representative** or **symbolic**",
                   "attributes" : null,
+                  "ttsText" : "head of state is representative or symbolic",
                   "ttsKey" : "9357c0135e6cde1e68af4dfd22d62d09",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2373,6 +2468,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**chef d'État** **représentatif** ou **symbolique**",
                   "attributes" : null,
+                  "ttsText" : "chef détat représentatif ou symbolique",
                   "ttsKey" : "322006516704d4e7b0809c6f396ad628",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2404,6 +2500,7 @@
                     "headword" : "Vereinigtes Königreich",
                     "category" : "noun"
                   },
+                  "ttsText" : "vereinigtes königreich",
                   "ttsKey" : "938399d4e90c34310250221d3af49aea",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2428,6 +2525,7 @@
                     "headword" : "United Kingdom",
                     "category" : "noun"
                   },
+                  "ttsText" : "united kingdom",
                   "ttsKey" : "f935e43d7d3f4509d7e053fd1bb457a2",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2452,6 +2550,7 @@
                     "headword" : "Royaume-Uni",
                     "category" : "noun"
                   },
+                  "ttsText" : "royaume-uni",
                   "ttsKey" : "1ed9551ba9f151c9ac81dd6d6d9ebf91",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2480,6 +2579,7 @@
                     "headword" : "Deutschland",
                     "category" : "noun"
                   },
+                  "ttsText" : "deutschland",
                   "ttsKey" : "fdad9eb9f8b80149db4d6b1371d8a8b1",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2504,6 +2604,7 @@
                     "headword" : "Germany",
                     "category" : "noun"
                   },
+                  "ttsText" : "germany",
                   "ttsKey" : "2fcced93a6fd6781e573e04ec3fbd269",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2528,6 +2629,7 @@
                     "headword" : "Allemagne",
                     "category" : "noun"
                   },
+                  "ttsText" : "allemagne",
                   "ttsKey" : "171da88dc9604ecdc969f0517dd3dae9",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2553,6 +2655,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Beispiele: **Vereinigtes Königreich**, **Deutschland**",
                   "attributes" : null,
+                  "ttsText" : "beispiele: vereinigtes königreich, deutschland",
                   "ttsKey" : "dafe1a8b0f9c8da3e08f2b9f72ee18f9",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2574,6 +2677,7 @@
                   "orderedListNumber" : null,
                   "rest" : "examples: **United Kingdom**, **Germany**",
                   "attributes" : null,
+                  "ttsText" : "examples: united kingdom, germany",
                   "ttsKey" : "b56417e015057f39f9de261246555a6e",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2595,6 +2699,7 @@
                   "orderedListNumber" : null,
                   "rest" : "exemples : **Royaume-Uni**, **Allemagne**",
                   "attributes" : null,
+                  "ttsText" : "exemples : royaume-uni, allemagne",
                   "ttsKey" : "676451d8d1d179d85be3f2c4f07ba3f3",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2633,6 +2738,7 @@
                     "cefrLevel" : "C1",
                     "category" : "adjective"
                   },
+                  "ttsText" : "semi",
                   "ttsKey" : "869b840997070c16d9a932e92e5d587c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2658,6 +2764,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "semi",
                   "ttsKey" : "869b840997070c16d9a932e92e5d587c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2683,6 +2790,7 @@
                     "cefrLevel" : "B2",
                     "category" : "adjective"
                   },
+                  "ttsText" : "semi",
                   "ttsKey" : "869b840997070c16d9a932e92e5d587c",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2708,6 +2816,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Semi-präsidentielles System:",
                   "attributes" : null,
+                  "ttsText" : "semi-präsidentielles system:",
                   "ttsKey" : "8f777dd6215821fb31b90282eb4bc44a",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2729,6 +2838,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Semi-presidential system:",
                   "attributes" : null,
+                  "ttsText" : "semi-presidential system:",
                   "ttsKey" : "e4691227d1d788e84a3060c184397396",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2750,6 +2860,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Régime semi-présidentiel :",
                   "attributes" : null,
+                  "ttsText" : "régime semi-présidentiel :",
                   "ttsKey" : "fb131e4d23fdfab6badd76b6f6303915",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2778,6 +2889,7 @@
                   "orderedListNumber" : null,
                   "rest" : "gewählter Präsident",
                   "attributes" : null,
+                  "ttsText" : "gewählter präsident",
                   "ttsKey" : "e5cbdf0b4e2a9be69cfd2c6029c8149d",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2799,6 +2911,7 @@
                   "orderedListNumber" : null,
                   "rest" : "elected president",
                   "attributes" : null,
+                  "ttsText" : "elected president",
                   "ttsKey" : "b1ffd7131654068ba4ad1b18f7636fb9",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2820,6 +2933,7 @@
                   "orderedListNumber" : null,
                   "rest" : "président élu",
                   "attributes" : null,
+                  "ttsText" : "président élu",
                   "ttsKey" : "1b8b3ef4fb3de9986417d7dc91072a93",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2852,6 +2966,7 @@
                     "cefrLevel" : "B1",
                     "category" : "other"
                   },
+                  "ttsText" : "gegenüber",
                   "ttsKey" : "cd9bb0c64ea734f6cedab95dc15f69c3",
                   "ttsFolder" : "vocabulary",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2877,6 +2992,7 @@
                     "cefrLevel" : "A1",
                     "category" : "other"
                   },
+                  "ttsText" : "to",
                   "ttsKey" : "28f11a2299259ab7941e1df34fc61505",
                   "ttsFolder" : "vocabulary",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2902,6 +3018,7 @@
                     "cefrLevel" : "A1",
                     "category" : "other"
                   },
+                  "ttsText" : "devant",
                   "ttsKey" : "ec64647b6985a32ba1104e7622734623",
                   "ttsFolder" : "vocabulary",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2927,6 +3044,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**Regierung** **verantwortlich** **gegenüber** dem **Parlament**",
                   "attributes" : null,
+                  "ttsText" : "regierung verantwortlich gegenüber dem parlament",
                   "ttsKey" : "7fcca8626745126b3ffdcba6cc8db6e1",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -2948,6 +3066,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**government** **accountable** **to** the **parliament**",
                   "attributes" : null,
+                  "ttsText" : "government accountable to the parliament",
                   "ttsKey" : "f1c74f419c798d259f993afde4956959",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -2969,6 +3088,7 @@
                   "orderedListNumber" : null,
                   "rest" : "**gouvernement** **responsable** **devant** le **parlement**",
                   "attributes" : null,
+                  "ttsText" : "gouvernement responsable devant le parlement",
                   "ttsKey" : "2ddca9fc620d4791da67d0521369153e",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -2997,6 +3117,7 @@
                   "orderedListNumber" : null,
                   "rest" : "Beispiel: **Frankreich**",
                   "attributes" : null,
+                  "ttsText" : "beispiel: frankreich",
                   "ttsKey" : "b4ab978b14c89bc9eac0d48403bb5479",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -3018,6 +3139,7 @@
                   "orderedListNumber" : null,
                   "rest" : "example: **France**",
                   "attributes" : null,
+                  "ttsText" : "example: france",
                   "ttsKey" : "55aa562f289c6e5a612e1d69ca099908",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -3039,6 +3161,7 @@
                   "orderedListNumber" : null,
                   "rest" : "exemple : **France**",
                   "attributes" : null,
+                  "ttsText" : "exemple : france",
                   "ttsKey" : "bc6d333583c9c0bff7d0e821afac0eb7",
                   "ttsFolder" : "units/HUSPOSGPOXXXU0015",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
@@ -3070,6 +3193,7 @@
               "orderedListNumber" : null,
               "rest" : "Liberale politische Systeme",
               "attributes" : null,
+              "ttsText" : "liberale politische systeme",
               "ttsKey" : "0f0dd121cb70edc7d969f2fd7e6b0062",
               "ttsFolder" : "units/HUSPOSGPOXXXU0015",
               "voice" : "de-DE-Chirp3-HD-Fenrir",
@@ -3091,6 +3215,7 @@
               "orderedListNumber" : null,
               "rest" : "Liberal Political Systems",
               "attributes" : null,
+              "ttsText" : "liberal political systems",
               "ttsKey" : "e66a03f62a7753d74e802a3c1599f04b",
               "ttsFolder" : "units/HUSPOSGPOXXXU0015",
               "voice" : "en-US-Chirp3-HD-Fenrir",
@@ -3112,6 +3237,7 @@
               "orderedListNumber" : null,
               "rest" : "Régimes politiques libéraux",
               "attributes" : null,
+              "ttsText" : "régimes politiques libéraux",
               "ttsKey" : "f475440de6f71deb20845d570c9ec6a0",
               "ttsFolder" : "units/HUSPOSGPOXXXU0015",
               "voice" : "fr-FR-Chirp3-HD-Puck",
