@@ -1,0 +1,649 @@
+{
+  "code" : "HUSPOSGPOXXXU1110",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Théories des relations internationales",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "3 **principales théories** des **relations internationales** :",
+                  "attributes" : null,
+                  "ttsText" : "3 principales théories des relations internationales :",
+                  "ttsKey" : "11a79fa21a995eb514d205a46937f066",
+                  "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.975,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**réalisme**, **libéralisme** et **constructivisme**",
+                  "attributes" : null,
+                  "ttsText" : "réalisme, libéralisme et constructivisme",
+                  "ttsKey" : "eded661908ff45eaa90373075260bc56",
+                  "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.348,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Nature des relations** internationales selon le **réalisme** :",
+                    "attributes" : null,
+                    "ttsText" : "nature des relations internationales selon le réalisme :",
+                    "ttsKey" : "180883b67bcd41f504895e8fd98c7333",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.854,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**rapports de puissance** **entre États**",
+                    "attributes" : null,
+                    "ttsText" : "rapports de puissance entre états",
+                    "ttsKey" : "d908451a3b6f0d8aa3424f3446c7f1e3",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.926,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**garder le pouvoir**, **augmenter le pouvoir**, **afficher le pouvoir**",
+                    "attributes" : null,
+                    "ttsText" : "garder le pouvoir, augmenter le pouvoir, afficher le pouvoir",
+                    "ttsKey" : "3f315d300519d2df8c8b6d7a6e73f5d8",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.209,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Nature des relations** internationales selon le **libéralisme** :",
+                    "attributes" : null,
+                    "ttsText" : "nature des relations internationales selon le libéralisme :",
+                    "ttsKey" : "fe3d9567453236ed6dc655353d9b6b10",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.242,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**coopération** et **échanges** **entre États**, **guerre en ultime recours**",
+                    "attributes" : null,
+                    "ttsText" : "coopération et échanges entre états, guerre en ultime recours",
+                    "ttsKey" : "70f123f6cc0e70cd1457dc05482ea6b2",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.829,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "les **institutions internationales** sont là **pour défendre les intérêts communs**",
+                    "attributes" : null,
+                    "ttsText" : "les institutions internationales sont là pour défendre les intérêts communs",
+                    "ttsKey" : "06b2e425bf825db6d4be591e30c77834",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.623,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Nature des relations** internationales selon le **constructivisme** :",
+                    "attributes" : null,
+                    "ttsText" : "nature des relations internationales selon le constructivisme :",
+                    "ttsKey" : "bca690fcfe8bab224cd8a36ff46659d2",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.418,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "rapports **dictés par** l'**identité** et les **représentations** des états",
+                    "attributes" : null,
+                    "ttsText" : "rapports dictés par lidentité et les représentations des états",
+                    "ttsKey" : "51284e1c55d369321bac10872c2a076e",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.544,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "exemple : **choix** des **alliés**, **rivaux** et **ennemis**",
+                    "attributes" : null,
+                    "ttsText" : "exemple : choix des alliés, rivaux et ennemis",
+                    "ttsKey" : "5966e048060b6f2aee6092a1c16c4dd4",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.373,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Nature des relations internationales",
+                "attributes" : null,
+                "ttsText" : "nature des relations internationales",
+                "ttsKey" : "6d5e5defacb78b640c97117f13c896fe",
+                "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 2.254,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Fondements de** la **paix** et de la **stabilité** pour le **réalisme** :",
+                    "attributes" : null,
+                    "ttsText" : "fondements de la paix et de la stabilité pour le réalisme :",
+                    "ttsKey" : "f40aa68460494309f50dc10df8241868",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.143,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**équilibre des puissances** ou **hégémonie**",
+                    "attributes" : null,
+                    "ttsText" : "équilibre des puissances ou hégémonie",
+                    "ttsKey" : "c0b2580fdff8f16dc277b94541afe48a",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.425,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Fondements de** la **paix** et de la **stabilité** pour le **libéralisme** :",
+                    "attributes" : null,
+                    "ttsText" : "fondements de la paix et de la stabilité pour le libéralisme :",
+                    "ttsKey" : "22a5b5baabb2c1d30400f613e98cd777",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.461,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**interdépendance** et **intégration**",
+                    "attributes" : null,
+                    "ttsText" : "interdépendance et intégration",
+                    "ttsKey" : "01ae4d667c354beb9cbe5e7bad9d38ce",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.9,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Fondements de** la **paix** et de la **stabilité** pour le **constructivisme** :",
+                    "attributes" : null,
+                    "ttsText" : "fondements de la paix et de la stabilité pour le constructivisme :",
+                    "ttsKey" : "05756676e8cdc809b53d2e9137aa7825",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.203,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**équilibre des puissances**, **intégration**, **coopération culturelle**",
+                    "attributes" : null,
+                    "ttsText" : "équilibre des puissances, intégration, coopération culturelle",
+                    "ttsKey" : "fdbc4a3935820a5b5f768f35e6d8e351",
+                    "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.866,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Fondements de la paix et de la stabilité",
+                "attributes" : null,
+                "ttsText" : "fondements de la paix et de la stabilité",
+                "ttsKey" : "0843bfe4e8529467283c048811a6232d",
+                "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 2.458,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Théories des relations internationales",
+              "attributes" : null,
+              "ttsText" : "théories des relations internationales",
+              "ttsKey" : "2f50e2c604df91104d465285bcf9bb4b",
+              "ttsFolder" : "units/HUSPOSGPOXXXU1110",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.501,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
