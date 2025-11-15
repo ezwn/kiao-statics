@@ -1328,14 +1328,43 @@
                     "titleLevel" : 0,
                     "exclamationCount" : 0,
                     "orderedListNumber" : null,
-                    "rest" : "**Dispositif** de gestion d'un **risque de sécurité** destiné à **prévenir**, **détecter**, **atténuer** ou **rétablir**.",
+                    "rest" : "**Dispositif** de gestion d'un **risque de sécurité**,",
                     "attributes" : null,
-                    "ttsText" : "dispositif de gestion dun risque de sécurité destiné à prévenir, détecter, atténuer ou rétablir.",
-                    "ttsKey" : "493bfa3f37bb10b574e370990df3af08",
+                    "ttsText" : "dispositif de gestion dun risque de sécurité,",
+                    "ttsKey" : "290c658050efb341134db9b10f06fea6",
                     "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
                     "voice" : "fr-FR-Chirp3-HD-Puck",
                     "speakingRates" : [ 1.0, 1.4 ],
-                    "duration" : 6.262,
+                    "duration" : 3.374,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "visant à **prévenir**, **détecter**, **atténuer** ou **rétablir**.",
+                    "attributes" : null,
+                    "ttsText" : "visant à prévenir, détecter, atténuer ou rétablir.",
+                    "ttsKey" : "71a036ba7ae0a04ff8394d2ae0f92f5c",
+                    "ttsFolder" : "units/dino8vdpqnvzc8n6m5025p",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.264,
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
