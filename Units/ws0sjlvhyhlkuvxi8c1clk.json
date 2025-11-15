@@ -1,0 +1,3946 @@
+{
+  "code" : "ws0sjlvhyhlkuvxi8c1clk",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Tactiques MITRE ATT&CK®",
+    "sttMapping" : {
+      "ATT&CK®" : "attaque"
+    }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une classe",
+                  "attributes" : {
+                    "headword" : "classe",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une classe",
+                  "ttsKey" : "32c89228b9a28be6d73423bcd7482b3b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.003,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un objectif",
+                  "attributes" : {
+                    "headword" : "objectif",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un objectif",
+                  "ttsKey" : "4a4409346680cedfd22daca74b7c8c79",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.217,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un attaquant",
+                  "attributes" : {
+                    "headword" : "attaquant",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un attaquant",
+                  "ttsKey" : "e0846cc1add30a62b5e3a93fc6fa0ae2",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.28,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un modèle",
+                  "attributes" : {
+                    "headword" : "modèle",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un modèle",
+                  "ttsKey" : "938a5c34d3cff438487d98489d73e6c6",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.229,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Classes d'objectifs** des **attaquants**, selon le modèle MITRE :",
+                  "attributes" : null,
+                  "ttsText" : "classes dobjectifs des attaquants, selon le modèle MITRE :",
+                  "ttsKey" : "32310de0379c6e6346fe10772d52e2eb",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.05,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une reconnaissance",
+                  "attributes" : {
+                    "headword" : "reconnaissance",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une reconnaissance",
+                  "ttsKey" : "29b48a49cceb814d9170d064f857ef7f",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.265,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Reconnaissance",
+                  "attributes" : null,
+                  "ttsText" : "reconnaissance",
+                  "ttsKey" : "f9e883d9da9b270c01deb38a5e7ed4d8",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.184,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un développement",
+                  "attributes" : {
+                    "headword" : "développement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un développement",
+                  "ttsKey" : "4ccfa4e10814798484beea3a80f20ae6",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.466,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une ressource",
+                  "attributes" : {
+                    "headword" : "ressource",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une ressource",
+                  "ttsKey" : "fc28147a63a50f4bf491901f342ac7ab",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.797,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Développement de ressources",
+                  "attributes" : null,
+                  "ttsText" : "développement de ressources",
+                  "ttsKey" : "be2c249dbe3f1a7b9ccf65847a56d6bb",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.113,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un accès",
+                  "attributes" : {
+                    "headword" : "accès",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un accès",
+                  "ttsKey" : "7c77cb4096d254f988ee6b15427a6ac9",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.904,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "initial",
+                  "attributes" : {
+                    "headword" : "initial",
+                    "cefrLevel" : "B1",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "initial",
+                  "ttsKey" : "bfceb4c2b97d46be97fc2ee4e85902c0",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.45,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Accès initial",
+                  "attributes" : null,
+                  "ttsText" : "accès initial",
+                  "ttsKey" : "b1410c64c561efa7c0d3b26dff69f58a",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.658,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une exécution",
+                  "attributes" : {
+                    "headword" : "exécution",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une exécution",
+                  "ttsKey" : "ca5337f2ce89ad5ba2244afe06010a5f",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.345,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Exécution",
+                  "attributes" : null,
+                  "ttsText" : "exécution",
+                  "ttsKey" : "729d44e0bfb787bd2db1c69f4773b643",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.928,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un maintien",
+                  "attributes" : {
+                    "headword" : "maintien",
+                    "gender" : "masculine",
+                    "cefrLevel" : "C1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un maintien",
+                  "ttsKey" : "d5f5759d138a3233287fb14c434c4468",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.397,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "maintenir",
+                  "attributes" : {
+                    "headword" : "maintenir",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "maintenir",
+                  "ttsKey" : "2add701e5925e699b5499c3c14129d63",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.332,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Maintien",
+                  "attributes" : null,
+                  "ttsText" : "maintien",
+                  "ttsKey" : "1e20c09fe3f55b1450f825e49fcf41fd",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.535,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un privilège",
+                  "attributes" : {
+                    "headword" : "privilège",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un privilège",
+                  "ttsKey" : "d53fd717d892ee90af6279f9e30a866b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.442,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une élévation",
+                  "attributes" : {
+                    "headword" : "élévation",
+                    "gender" : "feminine",
+                    "cefrLevel" : "C1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une élévation",
+                  "ttsKey" : "1685e548e9d2e79764ca2efa4bdf9d1d",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.35,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Élévation de privilèges",
+                  "attributes" : null,
+                  "ttsText" : "élévation de privilèges",
+                  "ttsKey" : "89e69287fa6a46cf42ae780feabcc10b",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.655,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un contournement",
+                  "attributes" : {
+                    "headword" : "contournement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un contournement",
+                  "ttsKey" : "b6deda253a6adc660d28a2be935cf02e",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.185,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une défense",
+                  "attributes" : {
+                    "headword" : "défense",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une défense",
+                  "ttsKey" : "b764e6f7b4afc11dab8b3e3d302e9888",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.901,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "contourner",
+                  "attributes" : {
+                    "headword" : "contourner",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "contourner",
+                  "ttsKey" : "4dd9c59071217dd267f7705ee09fea74",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.341,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "défendre",
+                  "attributes" : {
+                    "headword" : "défendre",
+                    "cefrLevel" : "A2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "défendre",
+                  "ttsKey" : "baa9e9f7208d8b86ee4c6bf48e1a1d2a",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.643,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Contournement des défenses",
+                  "attributes" : null,
+                  "ttsText" : "contournement des défenses",
+                  "ttsKey" : "56b3f875536ed331d9c81fda8305f8d8",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.146,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un identifiant",
+                  "attributes" : {
+                    "headword" : "identifiant",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un identifiant",
+                  "ttsKey" : "d6b35d142bd41b62377f482051cbe1a9",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.947,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Accès aux identifiants",
+                  "attributes" : null,
+                  "ttsText" : "accès aux identifiants",
+                  "ttsKey" : "38e4011c5b767d983dd6423e8234aa0b",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.417,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une découverte",
+                  "attributes" : {
+                    "headword" : "découverte",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une découverte",
+                  "ttsKey" : "175805531c322b0097dc4d2afbd6cf02",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.628,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Découverte",
+                  "attributes" : null,
+                  "ttsText" : "découverte",
+                  "ttsKey" : "f2a04a476843456a537edf86d5a2e112",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.819,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un mouvement",
+                  "attributes" : {
+                    "headword" : "mouvement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un mouvement",
+                  "ttsKey" : "b41eba28dd61fe08b88b0bffb64bb3b6",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.318,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "latéral",
+                  "attributes" : {
+                    "headword" : "latéral",
+                    "cefrLevel" : "B2",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "latéral",
+                  "ttsKey" : "36d97e1e968db6665cf68f18fecd7c07",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.922,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Mouvement latéral",
+                  "attributes" : null,
+                  "ttsText" : "mouvement latéral",
+                  "ttsKey" : "dfd733a8a719e514a0c9aad694e06013",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.937,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une collecte",
+                  "attributes" : {
+                    "headword" : "collecte",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une collecte",
+                  "ttsKey" : "3d53906991a46f0c9ec447ad8b9ef1f5",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.702,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Collecte",
+                  "attributes" : null,
+                  "ttsText" : "collecte",
+                  "ttsKey" : "4340740ec7c809507e294c1e55969b13",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.064,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un commandement",
+                  "attributes" : {
+                    "headword" : "commandement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "C1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un commandement",
+                  "ttsKey" : "d762b21230f634f3338c4a19096f3847",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.704,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un contrôle",
+                  "attributes" : {
+                    "headword" : "contrôle",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un contrôle",
+                  "ttsKey" : "19f069e9dab3156ddc9872728353e387",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.58,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Commandement et contrôle",
+                  "attributes" : null,
+                  "ttsText" : "commandement et contrôle",
+                  "ttsKey" : "3952021473a96c43836f7421f24d266c",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.516,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une exfiltration",
+                  "attributes" : {
+                    "headword" : "exfiltration",
+                    "gender" : "feminine",
+                    "cefrLevel" : "C2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une exfiltration",
+                  "ttsKey" : "741c4f56612c8cc977f57a9b8b3336ff",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 2.015,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Exfiltration",
+                  "attributes" : null,
+                  "ttsText" : "exfiltration",
+                  "ttsKey" : "1d8212add1ce7354441b2d1085825ba8",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.879,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un impact",
+                  "attributes" : {
+                    "headword" : "impact",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un impact",
+                  "ttsKey" : "afb427281f82eceed018511d68a0c3ee",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.997,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Impact",
+                  "attributes" : null,
+                  "ttsText" : "impact",
+                  "ttsKey" : "7813de5d7df8e0190250f210120e6d39",
+                  "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.341,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Reconnaissance :",
+                    "attributes" : null,
+                    "ttsText" : "reconnaissance :",
+                    "ttsKey" : "f9e883d9da9b270c01deb38a5e7ed4d8",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.184,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "vouloir",
+                    "attributes" : {
+                      "headword" : "vouloir",
+                      "cefrLevel" : "A1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "vouloir",
+                    "ttsKey" : "a63a2186307df732b5db610b513d149a",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.702,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "recueillir",
+                    "attributes" : {
+                      "headword" : "recueillir",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "recueillir",
+                    "ttsKey" : "bc6a4befbed24a5a26e4dc7819ef3e2a",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.303,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une information",
+                    "attributes" : {
+                      "headword" : "information",
+                      "gender" : "feminine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une information",
+                    "ttsKey" : "0415bf10b7e228203a92ff314c20c890",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.697,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une attaque",
+                    "attributes" : {
+                      "headword" : "attaque",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une attaque",
+                    "ttsKey" : "368a780ce2c5a2ca90730cfd3603a903",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.42,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "avant",
+                    "attributes" : {
+                      "headword" : "avant",
+                      "cefrLevel" : "A1",
+                      "category" : "other"
+                    },
+                    "ttsText" : "avant",
+                    "ttsKey" : "91589c458a1e4c2bb9d364aac6a4575a",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.242,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **recueillir des informations** **avant l'attaque**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut recueillir des informations avant lattaque.",
+                    "ttsKey" : "6c2d146fb27ea51b1f59d3b4c06ee991",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.299,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Développement de ressources :",
+                    "attributes" : null,
+                    "ttsText" : "développement de ressources :",
+                    "ttsKey" : "be2c249dbe3f1a7b9ccf65847a56d6bb",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.113,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "se procurer quelque chose",
+                    "attributes" : {
+                      "headword" : "se procurer quelque chose",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "se procurer quelque chose",
+                    "ttsKey" : "9e2c7edfcdda0683863742d8973bbd8f",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.486,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "fabriquer",
+                    "attributes" : {
+                      "headword" : "fabriquer",
+                      "cefrLevel" : "A2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "fabriquer",
+                    "ttsKey" : "c708b5d1f9488d59655a5adeab0e85ad",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.514,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "nécessaire",
+                    "attributes" : {
+                      "headword" : "nécessaire",
+                      "cefrLevel" : "A2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "nécessaire",
+                    "ttsKey" : "7468dbaaff120d536e06608eaa4386f0",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.438,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **se procurer** ou **fabriquer** les **ressources** nécessaires à l'attaque.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut se procurer ou fabriquer les ressources nécessaires à lattaque.",
+                    "ttsKey" : "e8d57868a931b4c8e42906f886bbc562",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.366,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Accès initial :",
+                    "attributes" : null,
+                    "ttsText" : "accès initial :",
+                    "ttsKey" : "b1410c64c561efa7c0d3b26dff69f58a",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.658,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "vouloir",
+                    "attributes" : {
+                      "headword" : "vouloir",
+                      "cefrLevel" : "A1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "vouloir",
+                    "ttsKey" : "a63a2186307df732b5db610b513d149a",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.702,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "pénétrer dans quelque chose",
+                    "attributes" : {
+                      "headword" : "pénétrer dans quelque chose",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "pénétrer dans quelque chose",
+                    "ttsKey" : "9ad96332bf01d292a772cb6d82163407",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.586,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un système",
+                    "attributes" : {
+                      "headword" : "système",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un système",
+                    "ttsKey" : "64c61b795d752543dcd082466e29aa71",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.466,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **pénétrer dans** le **système**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut pénétrer dans le système.",
+                    "ttsKey" : "a24e80c94a3a48c50f32cb5c2ea7a11a",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.227,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Exécution :",
+                    "attributes" : null,
+                    "ttsText" : "exécution :",
+                    "ttsKey" : "729d44e0bfb787bd2db1c69f4773b643",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.928,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "exécuter",
+                    "attributes" : {
+                      "headword" : "exécuter",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "exécuter",
+                    "ttsKey" : "b9a37b4f12dc19b964e53aa09c9a8d9d",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.985,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un code",
+                    "attributes" : {
+                      "headword" : "code",
+                      "gender" : "masculine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un code",
+                    "ttsKey" : "94f67dfe27d9450b1f2613d155cff8a7",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.224,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "malveillant",
+                    "attributes" : {
+                      "headword" : "malveillant",
+                      "cefrLevel" : "C1",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "malveillant",
+                    "ttsKey" : "d3601673f70b009060e5150202fe395a",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.09,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "compromis",
+                    "attributes" : {
+                      "headword" : "compromis",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "compromis",
+                    "ttsKey" : "0e0b330e184c85718870b24fe240fe55",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.635,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **exécuter du code** malveillant dans le système compromis.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut exécuter du code malveillant dans le système compromis.",
+                    "ttsKey" : "abec0b304c272dc2958c0f8653bf8b8c",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.623,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Maintien :",
+                    "attributes" : null,
+                    "ttsText" : "maintien :",
+                    "ttsKey" : "1e20c09fe3f55b1450f825e49fcf41fd",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.535,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "maintenir",
+                    "attributes" : {
+                      "headword" : "maintenir",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "maintenir",
+                    "ttsKey" : "2add701e5925e699b5499c3c14129d63",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.332,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **maintenir** un **accès** au système,",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut maintenir un accès au système,",
+                    "ttsKey" : "e456d170de1672343152a60f920871b0",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.702,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un redémarrage",
+                    "attributes" : {
+                      "headword" : "redémarrage",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un redémarrage",
+                    "ttsKey" : "7156bd166a6cc3823d7ad6f2f55abff2",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.421,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un changement",
+                    "attributes" : {
+                      "headword" : "changement",
+                      "gender" : "masculine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un changement",
+                    "ttsKey" : "b3e26f1700e97af08bb403c7fda344b7",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.43,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "après",
+                    "attributes" : {
+                      "headword" : "après",
+                      "cefrLevel" : "A1",
+                      "category" : "other"
+                    },
+                    "ttsText" : "après",
+                    "ttsKey" : "95f25f9276e57e3067b7cf194b0b5ddd",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.423,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "ou",
+                    "attributes" : {
+                      "headword" : "ou",
+                      "cefrLevel" : "A1",
+                      "category" : "other"
+                    },
+                    "ttsText" : "ou",
+                    "ttsKey" : "8355290295be4214d00cc307bbbc45cd",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.173,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "même",
+                    "attributes" : {
+                      "headword" : "même",
+                      "cefrLevel" : "A1",
+                      "category" : "other"
+                    },
+                    "ttsText" : "même",
+                    "ttsKey" : "66a69ca682cc6f8638a249ce8c38980f",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.054,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "même **après** **redémarrage** ou **changement** des **identifiants**.",
+                    "attributes" : null,
+                    "ttsText" : "même après redémarrage ou changement des identifiants.",
+                    "ttsKey" : "10be5ddeec22a254549025837b27a119",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.075,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Élévation de privilèges :",
+                    "attributes" : null,
+                    "ttsText" : "élévation de privilèges :",
+                    "ttsKey" : "89e69287fa6a46cf42ae780feabcc10b",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.655,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "obtenir",
+                    "attributes" : {
+                      "headword" : "obtenir",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "obtenir",
+                    "ttsKey" : "e20a8a5be73edae70e7c70830ff879d8",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.597,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un droit",
+                    "attributes" : {
+                      "headword" : "droit",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un droit",
+                    "ttsKey" : "67a572120ee49a3a69b22d73db2ead23",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.182,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "élevé",
+                    "attributes" : {
+                      "headword" : "élevé",
+                      "cefrLevel" : "A2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "élevé",
+                    "ttsKey" : "f685c5d7ba35790a007ee0dd42aeaa63",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.902,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "compromis",
+                    "attributes" : {
+                      "headword" : "compromis",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "compromis",
+                    "ttsKey" : "0e0b330e184c85718870b24fe240fe55",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.635,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **obtenir** des **droits plus élevés** que ceux déjà compromis.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut obtenir des droits plus élevés que ceux déjà compromis.",
+                    "ttsKey" : "d2ba8fb56c027eb4e537921b56b46012",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.522,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Contournement des défenses :",
+                    "attributes" : null,
+                    "ttsText" : "contournement des défenses :",
+                    "ttsKey" : "56b3f875536ed331d9c81fda8305f8d8",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.146,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "contourner",
+                    "attributes" : {
+                      "headword" : "contourner",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "contourner",
+                    "ttsKey" : "4dd9c59071217dd267f7705ee09fea74",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.341,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "désactiver",
+                    "attributes" : {
+                      "headword" : "désactiver",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "désactiver",
+                    "ttsKey" : "58062bdeb95ba2c8ebedfad904f44141",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.212,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un mécanisme de sécurité",
+                    "attributes" : {
+                      "headword" : "mécanisme de sécurité",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un mécanisme de sécurité",
+                    "ttsKey" : "eb792d40e0c2057e1d75d454e6574c76",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 2.225,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **se dissimuler**, en **masquant ses traces** ou en **désactivant** les **mécanismes de sécurité**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut se dissimuler, en masquant ses traces ou en désactivant les mécanismes de sécurité.",
+                    "ttsKey" : "c91ae60ac284e4abb013426ff9e5aab9",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 5.958,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Accès aux identifiants :",
+                    "attributes" : null,
+                    "ttsText" : "accès aux identifiants :",
+                    "ttsKey" : "38e4011c5b767d983dd6423e8234aa0b",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.417,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "voler quelque chose",
+                    "attributes" : {
+                      "headword" : "voler quelque chose",
+                      "cefrLevel" : "A2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "voler quelque chose",
+                    "ttsKey" : "813e6521194d91b0732dd29b4a0490c7",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.631,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **voler** des **identifiants**,",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut voler des identifiants,",
+                    "ttsKey" : "d6e61a6d7beb1468779ef2ba39b89643",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.156,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un nom d'utilisateur",
+                    "attributes" : {
+                      "headword" : "nom d'utilisateur",
+                      "gender" : "masculine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un nom dutilisateur",
+                    "ttsKey" : "3e055b0e0ded948c63448d24a537074b",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.746,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un mot de passe",
+                    "attributes" : {
+                      "headword" : "mot de passe",
+                      "gender" : "masculine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un mot de passe",
+                    "ttsKey" : "4bed9e94bd0483a99d588affdaa294a9",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.572,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "par exemple",
+                    "attributes" : {
+                      "headword" : "par exemple",
+                      "cefrLevel" : "A2",
+                      "category" : "other"
+                    },
+                    "ttsText" : "par exemple",
+                    "ttsKey" : "db1e5645b65df206cc3606307576033c",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.297,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "par exemple des **noms d'utilisateurs** ou des **mots de passe**.",
+                    "attributes" : null,
+                    "ttsText" : "par exemple des noms dutilisateurs ou des mots de passe.",
+                    "ttsKey" : "7fae2fa492989cca28eafd5a34403f0d",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.027,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Découverte :",
+                    "attributes" : null,
+                    "ttsText" : "découverte :",
+                    "ttsKey" : "f2a04a476843456a537edf86d5a2e112",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.819,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "comprendre",
+                    "attributes" : {
+                      "headword" : "comprendre",
+                      "cefrLevel" : "A1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "comprendre",
+                    "ttsKey" : "fbfaad0877bb2e8d292469ff3c7a902e",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.24,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un environnement",
+                    "attributes" : {
+                      "headword" : "environnement",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un environnement",
+                    "ttsKey" : "b541d2316d2e9eaef8eac26cc24cc705",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.474,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "compromis",
+                    "attributes" : {
+                      "headword" : "compromis",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "compromis",
+                    "ttsKey" : "0e0b330e184c85718870b24fe240fe55",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.635,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "cibler",
+                    "attributes" : {
+                      "headword" : "cibler",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "cibler",
+                    "ttsKey" : "b4d159f879cd86be5d2ed7bf3b48125d",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.594,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **comprendre** l'**environnement compromis** pour mieux **cibler l’attaque**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut comprendre lenvironnement compromis pour mieux cibler l’attaque.",
+                    "ttsKey" : "ecc715e4eeba4a309d8b97635c3c1fbe",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.683,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Mouvement latéral :",
+                    "attributes" : null,
+                    "ttsText" : "mouvement latéral :",
+                    "ttsKey" : "dfd733a8a719e514a0c9aad694e06013",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.937,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "se déplacer",
+                    "attributes" : {
+                      "headword" : "se déplacer",
+                      "cefrLevel" : "A2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "se déplacer",
+                    "ttsKey" : "edcfc9c1d12d2fcc8cbeeea7ba052993",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.666,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une machine",
+                    "attributes" : {
+                      "headword" : "machine",
+                      "gender" : "feminine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une machine",
+                    "ttsKey" : "6d5883c54113f12717ba1d8f989d45c4",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.668,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un service",
+                    "attributes" : {
+                      "headword" : "service",
+                      "gender" : "masculine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un service",
+                    "ttsKey" : "6c6f7c4b7fd2e57c3902d468b13a09a0",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.337,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "autre",
+                    "attributes" : {
+                      "headword" : "autre",
+                      "cefrLevel" : "A1",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "autre",
+                    "ttsKey" : "e199c6ded33d94a84bf22959fe280090",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.93,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **se déplacer** **vers** d’**autres** **machines** ou **services** du système compromis.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut se déplacer vers d’autres machines ou services du système compromis.",
+                    "ttsKey" : "3e00dc84eb583830cbe63238c6e29e6f",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.291,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Collecte :",
+                    "attributes" : null,
+                    "ttsText" : "collecte :",
+                    "ttsKey" : "4340740ec7c809507e294c1e55969b13",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.064,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "rassembler",
+                    "attributes" : {
+                      "headword" : "rassembler",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "rassembler",
+                    "ttsKey" : "2c58cabac9a30506bccab9e794cd6c60",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.215,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une donnée",
+                    "attributes" : {
+                      "headword" : "donnée",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une donnée",
+                    "ttsKey" : "ee8f954360a9446c87cf9eda01ed2b58",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.318,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "sensible",
+                    "attributes" : {
+                      "headword" : "sensible",
+                      "cefrLevel" : "B1",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "sensible",
+                    "ttsKey" : "0017242b31c2cb199d67f4a487e732ce",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.815,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "pertinent",
+                    "attributes" : {
+                      "headword" : "pertinent",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "pertinent",
+                    "ttsKey" : "490d851ac3015c7db5db96019f1271c0",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.9,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **rassembler des données** **sensibles** ou pertinentes **pour ses objectifs**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut rassembler des données sensibles ou pertinentes pour ses objectifs.",
+                    "ttsKey" : "717d3e198ffdb04af019d764686332f0",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.91,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Commandement et contrôle :",
+                    "attributes" : null,
+                    "ttsText" : "commandement et contrôle :",
+                    "ttsKey" : "3952021473a96c43836f7421f24d266c",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.516,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "communiquer avec",
+                    "attributes" : {
+                      "headword" : "communiquer avec",
+                      "cefrLevel" : "A2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "communiquer avec",
+                    "ttsKey" : "d2ac2eb2e772de6eb571f143d46a35d5",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.381,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "discrètement",
+                    "attributes" : {
+                      "headword" : "discrètement",
+                      "cefrLevel" : "B2",
+                      "category" : "other"
+                    },
+                    "ttsText" : "discrètement",
+                    "ttsKey" : "19d1c4b1caefd8d897261f327fe4471d",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.758,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "contrôler",
+                    "attributes" : {
+                      "headword" : "contrôler",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "contrôler",
+                    "ttsKey" : "f68b65fe2be863c9f497406f303f2593",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.985,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **communiquer discrètement** **avec** les **systèmes compromis** pour les **contrôler**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut communiquer discrètement avec les systèmes compromis pour les contrôler.",
+                    "ttsKey" : "01de54cc8e19bb03d4a4b91bf4f278f9",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.814,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Exfiltration :",
+                    "attributes" : null,
+                    "ttsText" : "exfiltration :",
+                    "ttsKey" : "1d8212add1ce7354441b2d1085825ba8",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.879,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "transférer",
+                    "attributes" : {
+                      "headword" : "transférer",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "transférer",
+                    "ttsKey" : "9652a59f0b1c1ad5f0eac0ec61903742",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.466,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un système externe",
+                    "attributes" : {
+                      "headword" : "système externe",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un système externe",
+                    "ttsKey" : "b8ae81fe2eb677d7c550bc64a66b837d",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.595,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **transférer des données** **vers** un **système externe**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut transférer des données vers un système externe.",
+                    "ttsKey" : "6f6b08ee977202e2f1ad2b63c1c051b6",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.254,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Impact :",
+                    "attributes" : null,
+                    "ttsText" : "impact :",
+                    "ttsKey" : "7813de5d7df8e0190250f210120e6d39",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.341,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "perturber",
+                    "attributes" : {
+                      "headword" : "perturber",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "perturber",
+                    "ttsKey" : "1afa0769bae067afb773ceea3a46bb67",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.904,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "détruire",
+                    "attributes" : {
+                      "headword" : "détruire",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "détruire",
+                    "ttsKey" : "90b9f0fe57094273fbfe995890e0c65e",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.891,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "altérer",
+                    "attributes" : {
+                      "headword" : "altérer",
+                      "cefrLevel" : "C1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "altérer",
+                    "ttsKey" : "502e4f980ce8504baf6ec5120ec8150e",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.466,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "L'attaquant veut **perturber**, **détruire** ou **altérer** des **données** ou un **système**.",
+                    "attributes" : null,
+                    "ttsText" : "lattaquant veut perturber, détruire ou altérer des données ou un système.",
+                    "ttsKey" : "b368779b69bb9b46c28a24e412ae9edf",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.855,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 0,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 0,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "une définition",
+                "attributes" : {
+                  "headword" : "définition",
+                  "gender" : "feminine",
+                  "cefrLevel" : "A2",
+                  "category" : "noun"
+                },
+                "ttsText" : "une définition",
+                "ttsKey" : "672ab50990bc626306d68d2f6eac621a",
+                "ttsFolder" : "vocabulary",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                "duration" : 1.266,
+                "disabled" : false,
+                "vocabulary" : true,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          }, {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Définitions",
+                "attributes" : null,
+                "ttsText" : "définitions",
+                "ttsKey" : "cd57380e91c8addb6e1ae9413ade927d",
+                "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 1.285,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une tactique",
+              "attributes" : {
+                "headword" : "tactique",
+                "gender" : "feminine",
+                "cefrLevel" : "B2",
+                "category" : "noun"
+              },
+              "ttsText" : "une tactique",
+              "ttsKey" : "018433418e624d1e269d509daea145f4",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.418,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Tactiques MITRE ATT&CK®",
+              "attributes" : null,
+              "ttsText" : "tactiques MITRE attaque",
+              "ttsKey" : "1c8158884ac3d48a5e32fa653fffe2c1",
+              "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 2.642,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

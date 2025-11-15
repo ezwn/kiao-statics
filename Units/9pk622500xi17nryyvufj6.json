@@ -1,0 +1,1653 @@
+{
+  "code" : "9pk622500xi17nryyvufj6",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Introduction à l'économie",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une question",
+                  "attributes" : {
+                    "headword" : "question",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une question",
+                  "ttsKey" : "79ebe22ae62427531f45e405df5d5fbb",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.343,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "fondamental",
+                  "attributes" : {
+                    "headword" : "fondamental",
+                    "cefrLevel" : "B2",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "fondamental",
+                  "ttsKey" : "b67424e474fcb60553fe0c0a3d9c4e45",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.534,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un problème",
+                  "attributes" : {
+                    "headword" : "problème",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un problème",
+                  "ttsKey" : "9e39b512d1558b4749523bff70eb6249",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.022,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "économique",
+                  "attributes" : {
+                    "headword" : "économique",
+                    "cefrLevel" : "B1",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "économique",
+                  "ttsKey" : "b8101d5d627b5cc75f7b4b4f4ce55580",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.12,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**3 questions fondamentales** du problème économique :",
+                  "attributes" : null,
+                  "ttsText" : "3 questions fondamentales du problème économique :",
+                  "ttsKey" : "099fbf24f671cfeb8b8a0641a2ac996a",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.893,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une production",
+                  "attributes" : {
+                    "headword" : "production",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une production",
+                  "ttsKey" : "8b78b5e11e88ae3b51d77d895e14bc4b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.809,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "produire",
+                  "attributes" : {
+                    "headword" : "produire",
+                    "cefrLevel" : "B1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "produire",
+                  "ttsKey" : "f96d5c4559fe69f88ee149220ca54a60",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.226,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "obtenir",
+                  "attributes" : {
+                    "headword" : "obtenir",
+                    "cefrLevel" : "B1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "obtenir",
+                  "ttsKey" : "e20a8a5be73edae70e7c70830ff879d8",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.597,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Que produire** ? **Comment le produire** ? **Qui obtient la production** ?",
+                  "attributes" : null,
+                  "ttsText" : "que produire ? comment le produire ? qui obtient la production ?",
+                  "ttsKey" : "ac88b5f0475d62d9f83d0828bf3c4104",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.029,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une catégorie",
+                  "attributes" : {
+                    "headword" : "catégorie",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une catégorie",
+                  "ttsKey" : "1466fde36357d4ea0a5d34e1ed84fb63",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.273,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "principal",
+                  "attributes" : {
+                    "headword" : "principal",
+                    "cefrLevel" : "A2",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "principal",
+                  "ttsKey" : "bceca27539d4a82422b3a79b6bae587b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.578,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une ressource",
+                  "attributes" : {
+                    "headword" : "ressource",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une ressource",
+                  "ttsKey" : "fc28147a63a50f4bf491901f342ac7ab",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.797,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**3** **principales** **catégories** de **ressources** économiques :",
+                  "attributes" : null,
+                  "ttsText" : "3 principales catégories de ressources économiques :",
+                  "ttsKey" : "832577aa382533b8836f674aa0b14b34",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.049,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une terre",
+                  "attributes" : {
+                    "headword" : "terre",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une terre",
+                  "ttsKey" : "0d02b4abe3e439813d0238447fc45927",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.466,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un travail",
+                  "attributes" : {
+                    "headword" : "travail",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un travail",
+                  "ttsKey" : "9b6b0e8e74a9725efa553275da3c43b9",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.007,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un capital",
+                  "attributes" : {
+                    "headword" : "capital",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un capital",
+                  "ttsKey" : "08e62cbc505efaf4c0729ddfd539e647",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.8,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Terres**, **travail** et **capital**",
+                  "attributes" : null,
+                  "ttsText" : "terres, travail et capital",
+                  "ttsKey" : "9fc26153d2c7d5b5f23b5150ea1afaff",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.873,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "comprendre",
+                  "attributes" : {
+                    "headword" : "comprendre",
+                    "cefrLevel" : "A1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "comprendre",
+                  "ttsKey" : "fbfaad0877bb2e8d292469ff3c7a902e",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.24,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Ce que comprend** la **ressource** économique \"**terre**\" :",
+                  "attributes" : null,
+                  "ttsText" : "ce que comprend la ressource économique \"terre\" :",
+                  "ttsKey" : "afe9163bb5333d9957056fb075f7484b",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.489,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un minéral",
+                  "attributes" : {
+                    "headword" : "minéral",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un minéral",
+                  "ttsKey" : "a77a54ff0c7ead476dddf6b9619a7d36",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.026,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une ressource alimentaire",
+                  "attributes" : {
+                    "headword" : "ressource alimentaire",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une ressource alimentaire",
+                  "ttsKey" : "bf4004664ad25b7ce9fadd2cd6dbf0ce",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.62,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une énergie",
+                  "attributes" : {
+                    "headword" : "énergie",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une énergie",
+                  "ttsKey" : "44072f4c01a48dc43a3f012a38e1115d",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.902,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Minéraux**, **ressources alimentaires** et **énergies**",
+                  "attributes" : null,
+                  "ttsText" : "minéraux, ressources alimentaires et énergies",
+                  "ttsKey" : "96938acb28b9ab40e0a9cbd14a9fb4ed",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.11,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Capital** en économie :",
+                  "attributes" : null,
+                  "ttsText" : "capital en économie :",
+                  "ttsKey" : "66dd92de77624f65e8c0a1646d042a3f",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.879,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un équipement",
+                  "attributes" : {
+                    "headword" : "équipement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un équipement",
+                  "ttsKey" : "14ac5eaacb65cf913e862867c399ddb9",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.131,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une infrastructure",
+                  "attributes" : {
+                    "headword" : "infrastructure",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une infrastructure",
+                  "ttsKey" : "dc734d2e13a24a2ac336b44026f60b03",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.472,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un bien",
+                  "attributes" : {
+                    "headword" : "bien",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un bien",
+                  "ttsKey" : "3808d1bd56ee4f90e202916198af6c33",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.096,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "utiliser",
+                  "attributes" : {
+                    "headword" : "utiliser",
+                    "cefrLevel" : "A2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "utiliser",
+                  "ttsKey" : "41b564319bbf51f9f001fb9d235bc344",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.413,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Équipements**, **infrastructures** et **biens** **utilisés pour produire**",
+                  "attributes" : null,
+                  "ttsText" : "équipements, infrastructures et biens utilisés pour produire",
+                  "ttsKey" : "abab7ee4226ecb9e8fade0309fe29119",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.939,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une rareté",
+                  "attributes" : {
+                    "headword" : "rareté",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une rareté",
+                  "ttsKey" : "cc3a4dfec26a12dfb83da93edbfe5af9",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.466,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Rareté** en économique :",
+                  "attributes" : null,
+                  "ttsText" : "rareté en économique :",
+                  "ttsKey" : "e7eb91e647a9acbe0df51e02737db17f",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.621,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "insuffisant",
+                  "attributes" : {
+                    "headword" : "insuffisant",
+                    "cefrLevel" : "B1",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "insuffisant",
+                  "ttsKey" : "daaa89fb2a37a4af49b1eb90c7a8f7ed",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.268,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "satisfaire quelque chose",
+                  "attributes" : {
+                    "headword" : "satisfaire quelque chose",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "satisfaire quelque chose",
+                  "ttsKey" : "a01ff89780292e19329696cd9da87832",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.635,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un désir",
+                  "attributes" : {
+                    "headword" : "désir",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un désir",
+                  "ttsKey" : "0cb4c07dc1461ed3c266fc110f6b246c",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.394,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "humain",
+                  "attributes" : {
+                    "headword" : "humain",
+                    "cefrLevel" : "A2",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "humain",
+                  "ttsKey" : "e9d24a72e97b8079d5717194a14487ac",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.168,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un fait",
+                  "attributes" : {
+                    "headword" : "fait",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un fait",
+                  "ttsKey" : "845481ea1d1a1fe699af1bcbb0f59c5b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.641,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Fait que les **ressources** sont **insuffisantes** **pour satisfaire tous** les **désirs** humains",
+                  "attributes" : null,
+                  "ttsText" : "fait que les ressources sont insuffisantes pour satisfaire tous les désirs humains",
+                  "ttsKey" : "aa508a849fadb731aa5332f08fde585f",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.253,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un niveau",
+                  "attributes" : {
+                    "headword" : "niveau",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un niveau",
+                  "ttsKey" : "e19a74c4cd4bef5ba319e4ac6c9c663c",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.757,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une analyse",
+                  "attributes" : {
+                    "headword" : "analyse",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une analyse",
+                  "ttsKey" : "e76a526813a3e3517eb5097f2f4b68d1",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.554,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**3 niveaux d'analyse** en économie :",
+                  "attributes" : null,
+                  "ttsText" : "3 niveaux danalyse en économie :",
+                  "ttsKey" : "539c13eb44bfd03b3225c1a0bd874acb",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.474,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une décision",
+                  "attributes" : {
+                    "headword" : "décision",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une décision",
+                  "ttsKey" : "963c5d1dbed0b7f85a76a35e94124371",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.933,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "individuel",
+                  "attributes" : {
+                    "headword" : "individuel",
+                    "cefrLevel" : "B1",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "individuel",
+                  "ttsKey" : "b80c808a55b071b9c85aa17d200ec64b",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.094,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**décisions** **individuelles**",
+                  "attributes" : null,
+                  "ttsText" : "décisions individuelles",
+                  "ttsKey" : "a0220ccfbed400cac2db57f8ede5be7d",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.897,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une interaction",
+                  "attributes" : {
+                    "headword" : "interaction",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une interaction",
+                  "ttsKey" : "6f91fc6a24ed4384ff7741bafe553c50",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.935,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un acteur économique",
+                  "attributes" : {
+                    "headword" : "acteur économique",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un acteur économique",
+                  "ttsKey" : "5e247182e092e2e1225318d05e7976ac",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.709,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "économique",
+                  "attributes" : {
+                    "headword" : "économique",
+                    "cefrLevel" : "B1",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "économique",
+                  "ttsKey" : "b8101d5d627b5cc75f7b4b4f4ce55580",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.12,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**interactions** **entre** **acteurs économiques**",
+                  "attributes" : null,
+                  "ttsText" : "interactions entre acteurs économiques",
+                  "ttsKey" : "fec83a06751ced494e0ef2f84efc5410",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.562,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un phénomène",
+                  "attributes" : {
+                    "headword" : "phénomène",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un phénomène",
+                  "ttsKey" : "8833afa437266cd453ec829c3645f787",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.95,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "global",
+                  "attributes" : {
+                    "headword" : "global",
+                    "cefrLevel" : "B2",
+                    "category" : "adjective"
+                  },
+                  "ttsText" : "global",
+                  "ttsKey" : "08ceba4316189106c152f204f149d166",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.878,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**phénomènes** **économiques** **globaux**",
+                  "attributes" : null,
+                  "ttsText" : "phénomènes économiques globaux",
+                  "ttsKey" : "6dce476c44c08b4356e5feb906332c0c",
+                  "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.314,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une introduction",
+              "attributes" : {
+                "headword" : "introduction",
+                "gender" : "feminine",
+                "cefrLevel" : "A2",
+                "category" : "noun"
+              },
+              "ttsText" : "une introduction",
+              "ttsKey" : "df8b7979e18c68056ba98f8b13ed9c36",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.237,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une économie",
+              "attributes" : {
+                "headword" : "économie",
+                "gender" : "feminine",
+                "cefrLevel" : "B1",
+                "category" : "noun"
+              },
+              "ttsText" : "une économie",
+              "ttsKey" : "d51b9403ad3f3fc26ca2b0810281a409",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.542,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 1,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Introduction à l'économie",
+              "attributes" : null,
+              "ttsText" : "introduction à léconomie",
+              "ttsKey" : "412282ad6413951ad0ed9a75b98ccf76",
+              "ttsFolder" : "units/9pk622500xi17nryyvufj6",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.543,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

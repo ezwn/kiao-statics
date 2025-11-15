@@ -1,0 +1,811 @@
+{
+  "code" : "HUSPSYEMOXXXU1005",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Intelligence Émotionnelle",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une définition",
+                  "attributes" : {
+                    "headword" : "définition",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une définition",
+                  "ttsKey" : "672ab50990bc626306d68d2f6eac621a",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.266,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Définition de l'**intelligence émotionnelle** :",
+                  "attributes" : null,
+                  "ttsText" : "définition de lintelligence émotionnelle :",
+                  "ttsKey" : "cc193743b1e710f61f25edff52b588c1",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.685,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une capacité",
+                  "attributes" : {
+                    "headword" : "capacité",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une capacité",
+                  "ttsKey" : "867b47a5e156c851beeca0d0aace2e41",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.224,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "percevoir",
+                  "attributes" : {
+                    "headword" : "percevoir",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "percevoir",
+                  "ttsKey" : "8b54d5c40a66f6341ad5b78df5ad6840",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.538,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "comprendre",
+                  "attributes" : {
+                    "headword" : "comprendre",
+                    "cefrLevel" : "A1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "comprendre",
+                  "ttsKey" : "fbfaad0877bb2e8d292469ff3c7a902e",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.24,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "gérer",
+                  "attributes" : {
+                    "headword" : "gérer",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "gérer",
+                  "ttsKey" : "69455e770e75e8d8d00131d7b21b4f4e",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.693,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "exprimer",
+                  "attributes" : {
+                    "headword" : "exprimer",
+                    "cefrLevel" : "B1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "exprimer",
+                  "ttsKey" : "3f787a2c2e3fbc2281f28285429c817a",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.519,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une émotion",
+                  "attributes" : {
+                    "headword" : "émotion",
+                    "gender" : "feminine",
+                    "cefrLevel" : "A2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une émotion",
+                  "ttsKey" : "34dd142bcd569a0b8a8daa419b4be129",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.387,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**capacité** à **percevoir**, **comprendre**, **gérer** et **exprimer** ses **émotions**,",
+                  "attributes" : null,
+                  "ttsText" : "capacité à percevoir, comprendre, gérer et exprimer ses émotions,",
+                  "ttsKey" : "3ed4d03a4019b02eaebc0af1f80c0918",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 5.427,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "ainsi que **celles des autres**",
+                  "attributes" : null,
+                  "ttsText" : "ainsi que celles des autres",
+                  "ttsKey" : "53b3c707dfbb869f238fcdaee32e750d",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.565,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "résoudre",
+                  "attributes" : {
+                    "headword" : "résoudre",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "résoudre",
+                  "ttsKey" : "86f205a152a9498e9793946675e8cc38",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 0.654,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un problème",
+                  "attributes" : {
+                    "headword" : "problème",
+                    "gender" : "masculine",
+                    "cefrLevel" : "A1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un problème",
+                  "ttsKey" : "9e39b512d1558b4749523bff70eb6249",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.022,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "réguler",
+                  "attributes" : {
+                    "headword" : "réguler",
+                    "cefrLevel" : "B2",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "réguler",
+                  "ttsKey" : "6dec949585b46f656f59fee26881b784",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.056,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un comportement",
+                  "attributes" : {
+                    "headword" : "comportement",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B1",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un comportement",
+                  "ttsKey" : "84cd4e8dd9fe37237cc28084ef8b4d72",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.314,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "pour **résoudre les problèmes** et **réguler les comportements**",
+                  "attributes" : null,
+                  "ttsText" : "pour résoudre les problèmes et réguler les comportements",
+                  "ttsKey" : "ee6eaa9c7ebb759cbbcfa57874ba19a8",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.258,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une empathie",
+                  "attributes" : {
+                    "headword" : "empathie",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une empathie",
+                  "ttsKey" : "ba9f24b54044b1766b397026e38e7019",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.142,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Définition de l'**empathie** :",
+                  "attributes" : null,
+                  "ttsText" : "définition de lempathie :",
+                  "ttsKey" : "e090b781d376e6e4483aba55976c7c3b",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.106,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "adopter",
+                  "attributes" : {
+                    "headword" : "adopter",
+                    "cefrLevel" : "B1",
+                    "category" : "verb"
+                  },
+                  "ttsText" : "adopter",
+                  "ttsKey" : "dc34688fafbc17a5d7720b0c68d843cd",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.302,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une perspective",
+                  "attributes" : {
+                    "headword" : "perspective",
+                    "gender" : "feminine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "une perspective",
+                  "ttsKey" : "f3aed66af264e017fb64d2d22886f04c",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.496,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**capacité** à **adopter la perspective de l'autre**",
+                  "attributes" : null,
+                  "ttsText" : "capacité à adopter la perspective de lautre",
+                  "ttsKey" : "56ba6e5c79e1c99b132f9e74a0cfe4db",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.626,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un ressenti",
+                  "attributes" : {
+                    "headword" : "ressenti",
+                    "gender" : "masculine",
+                    "cefrLevel" : "B2",
+                    "category" : "noun"
+                  },
+                  "ttsText" : "un ressenti",
+                  "ttsKey" : "e4e3160a7da9a0a8a28c3ba55de0a7fe",
+                  "ttsFolder" : "vocabulary",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                  "duration" : 1.143,
+                  "disabled" : false,
+                  "vocabulary" : true,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            }, {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "pour **percevoir** et **comprendre** **son ressenti**.",
+                  "attributes" : null,
+                  "ttsText" : "pour percevoir et comprendre son ressenti.",
+                  "ttsKey" : "c5f763b15dbc4b2aadfc6a2ac7e2ac06",
+                  "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.617,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une intelligence",
+              "attributes" : {
+                "headword" : "intelligence",
+                "gender" : "feminine",
+                "cefrLevel" : "B1",
+                "category" : "noun"
+              },
+              "ttsText" : "une intelligence",
+              "ttsKey" : "2b7b5c792529dae94c56c6d4e42837cc",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.303,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "émotionnel",
+              "attributes" : {
+                "headword" : "émotionnel",
+                "cefrLevel" : "B2",
+                "category" : "adjective"
+              },
+              "ttsText" : "émotionnel",
+              "ttsKey" : "fe9f4dd5e1370b59faeabfdf91bac7f8",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 0.904,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une intelligence émotionnelle",
+              "attributes" : {
+                "headword" : "intelligence émotionnelle",
+                "gender" : "feminine",
+                "cefrLevel" : "C1",
+                "category" : "noun"
+              },
+              "ttsText" : "une intelligence émotionnelle",
+              "ttsKey" : "80e0c0bb82496d5dca079ae5b303376b",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.621,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Intelligence Émotionnelle",
+              "attributes" : null,
+              "ttsText" : "intelligence émotionnelle",
+              "ttsKey" : "e71b78760ea34328cb2075b6c899c6db",
+              "ttsFolder" : "units/HUSPSYEMOXXXU1005",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.746,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

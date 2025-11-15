@@ -1,0 +1,1554 @@
+{
+  "code" : "9eou5dbirjjbki1utulcgo",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Définitions de la puissance",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "selon",
+                    "attributes" : {
+                      "headword" : "selon",
+                      "cefrLevel" : "A2",
+                      "category" : "other"
+                    },
+                    "ttsText" : "selon",
+                    "ttsKey" : "61e50e551b188d3537c7ecc56e79ed29",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.804,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Puissance** selon Joseph Nye :",
+                    "attributes" : null,
+                    "ttsText" : "puissance selon joseph nye :",
+                    "ttsKey" : "1d73aad7b53c494b829d27cc071242da",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.184,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une capacité",
+                    "attributes" : {
+                      "headword" : "capacité",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une capacité",
+                    "ttsKey" : "867b47a5e156c851beeca0d0aace2e41",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.224,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une situation",
+                    "attributes" : {
+                      "headword" : "situation",
+                      "gender" : "feminine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une situation",
+                    "ttsKey" : "f2edd8e90173755e5d6b2a2e42673e86",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.595,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Capacité**, **dans une situation**,",
+                    "attributes" : null,
+                    "ttsText" : "capacité, dans une situation,",
+                    "ttsKey" : "52143bee4c1843ca1629e531b8be41f3",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.207,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "agir",
+                    "attributes" : {
+                      "headword" : "agir",
+                      "cefrLevel" : "A2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "agir",
+                    "ttsKey" : "8feb19a0e9cd793dd6afe05a9f6cb864",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.465,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un effet",
+                    "attributes" : {
+                      "headword" : "effet",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un effet",
+                    "ttsKey" : "fce45c8f350056c9e3536016a6c2ee16",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.78,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "avoir un effet sur",
+                    "attributes" : {
+                      "headword" : "avoir un effet sur",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "avoir un effet sur",
+                    "ttsKey" : "2451d396db432438a0031ae9efd3c0f6",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.108,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un autrui",
+                    "attributes" : {
+                      "headword" : "autrui",
+                      "gender" : "masculine",
+                      "cefrLevel" : "C1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un autrui",
+                    "ttsKey" : "fce2d1af5c72723c825f7127249445ea",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.317,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "d'**agir**, d'**avoir** un **effet sur autrui**,",
+                    "attributes" : null,
+                    "ttsText" : "dagir, davoir un effet sur autrui,",
+                    "ttsKey" : "79b60cd25b557c8570cc7f8eb2404ad3",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.217,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "atteindre",
+                    "attributes" : {
+                      "headword" : "atteindre",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "atteindre",
+                    "ttsKey" : "c99ec03abb34bf1184215d42fddcf760",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.186,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un objectif",
+                    "attributes" : {
+                      "headword" : "objectif",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un objectif",
+                    "ttsKey" : "4a4409346680cedfd22daca74b7c8c79",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.217,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "et d'**atteindre ses objectifs**.",
+                    "attributes" : null,
+                    "ttsText" : "et datteindre ses objectifs.",
+                    "ttsKey" : "850d421efe89de03c0508ecba48dc655",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.898,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une caractéristique",
+                    "attributes" : {
+                      "headword" : "caractéristique",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une caractéristique",
+                    "ttsKey" : "f70e212d07311e4319699cac170dba09",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.824,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Caractéristiques** de la **puissance** selon Joseph Nye :",
+                    "attributes" : null,
+                    "ttsText" : "caractéristiques de la puissance selon joseph nye :",
+                    "ttsKey" : "b5e40bbcd506467cf2e3c40e1066e502",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.887,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "lié à",
+                    "attributes" : {
+                      "headword" : "lié à",
+                      "cefrLevel" : "B1",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "lié à",
+                    "ttsKey" : "c7a3a019be3125ed9775fdd8c39f71e4",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.903,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "liée à une situation",
+                    "attributes" : null,
+                    "ttsText" : "liée à une situation",
+                    "ttsKey" : "186835142a6043bea55d57f8d0df57b8",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.58,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une nature",
+                    "attributes" : {
+                      "headword" : "nature",
+                      "gender" : "feminine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une nature",
+                    "ttsKey" : "1ccdf69ac2939cace4b2d996d5aaee38",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.091,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "relationnel",
+                    "attributes" : {
+                      "headword" : "relationnel",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "relationnel",
+                    "ttsKey" : "bea06322f7f42e26bc96c928dbaa86da",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.293,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "de **nature relationnelle**",
+                    "attributes" : null,
+                    "ttsText" : "de nature relationnelle",
+                    "ttsKey" : "7de05e7b6290b74cdcc90ad64d04caf7",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.072,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "opérationnel",
+                    "attributes" : {
+                      "headword" : "opérationnel",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "opérationnel",
+                    "ttsKey" : "aacf5ca86bbc2249104594dcc965e423",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.224,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "stratégique",
+                    "attributes" : {
+                      "headword" : "stratégique",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "stratégique",
+                    "ttsKey" : "4cda4b4c41a366f98843ce2f5253702e",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.574,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "en partie",
+                    "attributes" : {
+                      "headword" : "en partie",
+                      "cefrLevel" : "B1",
+                      "category" : "other"
+                    },
+                    "ttsText" : "en partie",
+                    "ttsKey" : "9cce0ba4515c9f9f39b46f5f8aaf065d",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.464,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "et en partie **opératoire** et **stratégique**",
+                    "attributes" : null,
+                    "ttsText" : "et en partie opératoire et stratégique",
+                    "ttsKey" : "834a500fb2c95daf8bfa1d8822117723",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.406,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une structure",
+                    "attributes" : {
+                      "headword" : "structure",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une structure",
+                    "ttsKey" : "305359f7ad95aecebc307492c22450e6",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.473,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "structurel",
+                    "attributes" : {
+                      "headword" : "structurel",
+                      "cefrLevel" : "C1",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "structurel",
+                    "ttsKey" : "eb16c38bcfa3c612c6516dd382fb2ae0",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.027,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 1,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 2,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Puissance structurelle",
+                    "attributes" : null,
+                    "ttsText" : "puissance structurelle",
+                    "ttsKey" : "101cb9b2557de2f5662b1aa18b4f7487",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.495,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un type",
+                    "attributes" : {
+                      "headword" : "type",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un type",
+                    "ttsKey" : "3e372b5b057f33dd6c23aaaca4e307a9",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.461,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "distinguer",
+                    "attributes" : {
+                      "headword" : "distinguer",
+                      "cefrLevel" : "B1",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "distinguer",
+                    "ttsKey" : "9533e4df4b6e98e7690b8ecda6156609",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.834,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Deux** **types** de **puissance** distingués par Suzanne Strange :",
+                    "attributes" : null,
+                    "ttsText" : "deux types de puissance distingués par suzanne strange :",
+                    "ttsKey" : "3ec2f70d621056a5c4de8d8bb71bb1b7",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.873,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un pouvoir",
+                    "attributes" : {
+                      "headword" : "pouvoir",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un pouvoir",
+                    "ttsKey" : "3aeffaf8fbf4e63ed0e35745d8bed412",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.901,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "relationnel",
+                    "attributes" : {
+                      "headword" : "relationnel",
+                      "cefrLevel" : "B2",
+                      "category" : "adjective"
+                    },
+                    "ttsText" : "relationnel",
+                    "ttsKey" : "bea06322f7f42e26bc96c928dbaa86da",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.293,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "puissance **relationnelle**",
+                    "attributes" : null,
+                    "ttsText" : "puissance relationnelle",
+                    "ttsKey" : "b0d407fa8fef12fb07fa8cedb0625c2c",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.529,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "et puissance **structurelle**",
+                    "attributes" : null,
+                    "ttsText" : "et puissance structurelle",
+                    "ttsKey" : "f947a8c6c3ae557762724cf050fbf887",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.218,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Puissance structurelle :",
+                    "attributes" : null,
+                    "ttsText" : "puissance structurelle :",
+                    "ttsKey" : "101cb9b2557de2f5662b1aa18b4f7487",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.495,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "façonner",
+                    "attributes" : {
+                      "headword" : "façonner",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "façonner",
+                    "ttsKey" : "93491d9d80673981636fdb575e6f33ac",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.948,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un cadre",
+                    "attributes" : {
+                      "headword" : "cadre",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un cadre",
+                    "ttsKey" : "1c041a5bae81d0f0b26ba72d6ec6a4d4",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 0.815,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "structurer",
+                    "attributes" : {
+                      "headword" : "structurer",
+                      "cefrLevel" : "B2",
+                      "category" : "verb"
+                    },
+                    "ttsText" : "structurer",
+                    "ttsKey" : "6613972436b7fa096aad099a656ba744",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.427,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une relation",
+                    "attributes" : {
+                      "headword" : "relation",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une relation",
+                    "ttsKey" : "1edf7fb035c0e66a98f04475a1b58381",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.568,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "un domaine",
+                    "attributes" : {
+                      "headword" : "domaine",
+                      "gender" : "masculine",
+                      "cefrLevel" : "B2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "un domaine",
+                    "ttsKey" : "9fdc660e971b8c236957caba412b7600",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.083,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Capacité à façonner** le **cadre structurant** les relations dans **4 domaines**,",
+                    "attributes" : null,
+                    "ttsText" : "capacité à façonner le cadre structurant les relations dans 4 domaines,",
+                    "ttsKey" : "62c56ec4a9c9a71a0cc0039273fd173d",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.961,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une finance",
+                    "attributes" : {
+                      "headword" : "finance",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une finance",
+                    "ttsKey" : "5de4075e658c0234b927231161ae1b5c",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.278,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une production",
+                    "attributes" : {
+                      "headword" : "production",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une production",
+                    "ttsKey" : "8b78b5e11e88ae3b51d77d895e14bc4b",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.809,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une connaissance",
+                    "attributes" : {
+                      "headword" : "connaissance",
+                      "gender" : "feminine",
+                      "cefrLevel" : "B1",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une connaissance",
+                    "ttsKey" : "c863e834aec4f464031acbaced6eee6f",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.627,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "une sécurité",
+                    "attributes" : {
+                      "headword" : "sécurité",
+                      "gender" : "feminine",
+                      "cefrLevel" : "A2",
+                      "category" : "noun"
+                    },
+                    "ttsText" : "une sécurité",
+                    "ttsKey" : "7c901d39d2c032349bb8fba7915a105b",
+                    "ttsFolder" : "vocabulary",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 0.6, 1.0, 1.4 ],
+                    "duration" : 1.742,
+                    "disabled" : false,
+                    "vocabulary" : true,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              }, {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "la **finance**, la **production**, la **connaissance**, et la **sécurité**.",
+                    "attributes" : null,
+                    "ttsText" : "la finance, la production, la connaissance, et la sécurité.",
+                    "ttsKey" : "85ff691725d166b66373abbb171d629c",
+                    "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.977,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "writtenExercise" : false,
+                    "writtenSection" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Puissance",
+                "attributes" : null,
+                "ttsText" : "puissance",
+                "ttsKey" : "a2871dd2b6293165e2a2892986cedf4a",
+                "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 1.343,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "writtenExercise" : false,
+                "writtenSection" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une définition",
+              "attributes" : {
+                "headword" : "définition",
+                "gender" : "feminine",
+                "cefrLevel" : "B1",
+                "category" : "noun"
+              },
+              "ttsText" : "une définition",
+              "ttsKey" : "672ab50990bc626306d68d2f6eac621a",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.266,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 0,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "une puissance",
+              "attributes" : {
+                "headword" : "puissance",
+                "gender" : "feminine",
+                "cefrLevel" : "B2",
+                "category" : "noun"
+              },
+              "ttsText" : "une puissance",
+              "ttsKey" : "07d08319e2fd61a9096c960b3fee15ea",
+              "ttsFolder" : "vocabulary",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 0.6, 1.0, 1.4 ],
+              "duration" : 1.581,
+              "disabled" : false,
+              "vocabulary" : true,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        }, {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Définitions de la puissance",
+              "attributes" : null,
+              "ttsText" : "définitions de la puissance",
+              "ttsKey" : "2a4757a8fa8fcb36301daf7a5e03ea57",
+              "ttsFolder" : "units/9eou5dbirjjbki1utulcgo",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.989,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
