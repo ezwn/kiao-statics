@@ -1,0 +1,366 @@
+{
+  "code" : "COSARCXXXXXXU0030",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Architecture hexagonale",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Organisation** prônée par l'**architecture hexagonale** :",
+                  "attributes" : null,
+                  "ttsText" : "organisation prônée par larchitecture hexagonale :",
+                  "ttsKey" : "4c30a4a14ddf8c19c31ab2180d73c243",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.036,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Un **cœur** applicatif entouré de **ports** sur lesquels des **adaptateurs** peuvent être branchés.",
+                  "attributes" : null,
+                  "ttsText" : "un cœur applicatif entouré de ports sur lesquels des adaptateurs peuvent être branchés.",
+                  "ttsKey" : "4f4068b9763f96288fa970a4d15d2df4",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.359,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Contenu** du **cœur** applicatif dans l'architecture hexagonale :",
+                  "attributes" : null,
+                  "ttsText" : "contenu du cœur applicatif dans larchitecture hexagonale :",
+                  "ttsKey" : "4d8b112fb65f68f5109e3ed984d4e9a2",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.201,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "La **logique métier** **pure**, et la **définition** des **ports** sous la forme d'interfaces.",
+                  "attributes" : null,
+                  "ttsText" : "la logique métier pure, et la définition des ports sous la forme dinterfaces.",
+                  "ttsKey" : "8606a22f4fd0349697b9a60f29896e4f",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.224,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Fonction** des **adaptateurs** dans l'architecture hexagonale :",
+                  "attributes" : null,
+                  "ttsText" : "fonction des adaptateurs dans larchitecture hexagonale :",
+                  "ttsKey" : "4fa17e1f6a3736ec38ee62087db15b9b",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.918,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Connecter** le **cœur** aux **systèmes externes** à l'application.",
+                  "attributes" : null,
+                  "ttsText" : "connecter le cœur aux systèmes externes à lapplication.",
+                  "ttsKey" : "690df01d1fed1702f1ca437a1afbce1e",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.021,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Propriétés** des **adaptateurs** :",
+                  "attributes" : null,
+                  "ttsText" : "propriétés des adaptateurs :",
+                  "ttsKey" : "9f59b0c74291142fbcee27c8da76eb88",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.485,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "ils sont **modulaires** et **interchangeables**.",
+                  "attributes" : null,
+                  "ttsText" : "ils sont modulaires et interchangeables.",
+                  "ttsKey" : "82859eb8eb911bc84c9161b402ec69f2",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.906,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Ce qui **rend** les **adaptateurs** **compatibles** **avec** le **cœur** :",
+                  "attributes" : null,
+                  "ttsText" : "ce qui rend les adaptateurs compatibles avec le cœur :",
+                  "ttsKey" : "5e84060f618352cebe5bc72504f2a3b7",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.982,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Ils **implémentent** les **ports**.",
+                  "attributes" : null,
+                  "ttsText" : "ils implémentent les ports.",
+                  "ttsKey" : "89c46b1886c7bb0e2f26cdc5aa61c576",
+                  "ttsFolder" : "units/COSARCXXXXXXU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.869,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "writtenExercise" : false,
+                  "writtenSection" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 1,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Architecture hexagonale",
+              "attributes" : null,
+              "ttsText" : "architecture hexagonale",
+              "ttsKey" : "f87c7638e7c7b3e68195e934cd798fe1",
+              "ttsFolder" : "units/COSARCXXXXXXU0030",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.399,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "writtenExercise" : false,
+              "writtenSection" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

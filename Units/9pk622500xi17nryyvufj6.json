@@ -890,7 +890,7 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "**Équipements**, **infrastructures** et **biens** **utilisés pour produire**",
+                  "rest" : "**Équipements**, **infrastructures** et **biens** utilisés **pour produire**",
                   "attributes" : null,
                   "ttsText" : "équipements, infrastructures et biens utilisés pour produire",
                   "ttsKey" : "abab7ee4226ecb9e8fade0309fe29119",
