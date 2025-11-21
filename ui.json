@@ -19,8 +19,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -41,8 +39,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -63,8 +59,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -85,8 +79,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -107,8 +99,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -129,8 +119,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -151,8 +139,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -173,8 +159,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     }
   },
@@ -198,8 +182,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -220,8 +202,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -242,8 +222,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -264,8 +242,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -286,8 +262,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -308,8 +282,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -330,8 +302,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -352,8 +322,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     }
   },
@@ -377,8 +345,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -399,8 +365,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -421,8 +385,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -443,8 +405,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -465,8 +425,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -487,8 +445,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -509,8 +465,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -531,8 +485,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     }
   },
@@ -556,8 +508,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -578,8 +528,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -600,8 +548,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -622,8 +568,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -644,8 +588,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -666,8 +608,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -688,8 +628,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -710,8 +648,6 @@
       "disabled" : false,
       "vocabulary" : false,
       "question" : false,
-      "writtenExercise" : false,
-      "writtenSection" : false,
       "unorderedListItem" : false
     }
   }
