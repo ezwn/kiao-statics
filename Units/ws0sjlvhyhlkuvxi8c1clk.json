@@ -38,8 +38,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : true,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -67,8 +65,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -96,8 +92,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -125,8 +119,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -154,8 +146,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -183,8 +173,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -212,8 +200,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -241,8 +227,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -270,8 +254,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -299,8 +281,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -328,8 +308,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -357,8 +335,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -386,8 +362,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -415,8 +389,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -444,8 +416,6 @@
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -481,8 +451,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -510,8 +478,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -542,8 +508,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -571,8 +535,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -600,8 +562,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -629,8 +589,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -658,8 +616,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -687,8 +643,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -716,8 +670,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -751,8 +703,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -780,9 +730,64 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          }, {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Contre-mesure :",
+                    "attributes" : null,
+                    "ttsText" : "contre-mesure :",
+                    "ttsKey" : "c409d4bdc1edf66c6e0b0ab296094ce4",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.974,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Suivre** les **marchés** **underground**",
+                    "attributes" : null,
+                    "ttsText" : "suivre les marchés underground",
+                    "ttsKey" : "04d674d1776b0a7a801208b16601c135",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.396,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
                   }
                 }
               } ]
@@ -815,8 +820,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -844,8 +847,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -879,8 +880,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -908,8 +907,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -940,9 +937,61 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**empêcher** la **livraison** : **filtrage**, **blocage**, **sensibilisation**",
+                    "attributes" : null,
+                    "ttsText" : "empêcher la livraison : filtrage, blocage, sensibilisation",
+                    "ttsKey" : "b5f6b57721c06ca0448d471d9f56ec89",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 4.985,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**limiter** les **droits**",
+                    "attributes" : null,
+                    "ttsText" : "limiter les droits",
+                    "ttsKey" : "c1d5ddf4753bb473d3e66e0470778104",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.581,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
                   }
                 }
               } ]
@@ -969,8 +1018,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1004,8 +1051,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1033,8 +1078,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1062,8 +1105,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1097,8 +1138,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1126,8 +1165,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1161,8 +1198,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1190,8 +1225,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1222,8 +1255,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1251,8 +1282,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1280,8 +1309,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1309,8 +1336,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1338,8 +1363,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1373,8 +1396,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1402,8 +1423,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1431,8 +1450,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1466,8 +1483,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1495,8 +1510,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1530,8 +1543,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1559,8 +1570,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1591,8 +1600,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1620,8 +1627,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1649,8 +1654,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : true
                   }
                 }
@@ -1684,8 +1687,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1713,8 +1714,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1748,8 +1747,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1777,9 +1774,118 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          }, {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Contre-mesures :",
+                    "attributes" : null,
+                    "ttsText" : "contre-mesures :",
+                    "ttsKey" : "5f2a42d57f1080195657637d9b057332",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.822,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**inspecter** les **paquets** réseau **en profondeur**",
+                    "attributes" : null,
+                    "ttsText" : "inspecter les paquets réseau en profondeur",
+                    "ttsKey" : "e7e6eb8fa1d0a399cbcc83ada7c7fbd8",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.462,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "isoler",
+                    "attributes" : null,
+                    "ttsText" : "isoler",
+                    "ttsKey" : "36eb065be81d73c26c14bd773cddebe6",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.781,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**bloquer** les **IP**",
+                    "attributes" : null,
+                    "ttsText" : "bloquer les IP",
+                    "ttsKey" : "82e9ac71cd78b588e5e40c27ef068b43",
+                    "ttsFolder" : "units/ws0sjlvhyhlkuvxi8c1clk",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.184,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
                   }
                 }
               } ]
@@ -1812,8 +1918,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1841,8 +1945,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1876,8 +1978,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : true,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1905,8 +2005,6 @@
                     "disabled" : false,
                     "vocabulary" : false,
                     "question" : false,
-                    "writtenExercise" : false,
-                    "writtenSection" : false,
                     "unorderedListItem" : false
                   }
                 }
@@ -1937,8 +2035,6 @@
                 "disabled" : false,
                 "vocabulary" : false,
                 "question" : false,
-                "writtenExercise" : false,
-                "writtenSection" : false,
                 "unorderedListItem" : false
               }
             }
@@ -1969,8 +2065,6 @@
               "disabled" : false,
               "vocabulary" : false,
               "question" : false,
-              "writtenExercise" : false,
-              "writtenSection" : false,
               "unorderedListItem" : false
             }
           }
