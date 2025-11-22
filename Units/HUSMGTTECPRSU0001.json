@@ -421,7 +421,7 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "Il existe souvent des **dépendances entre variables**.",
+                  "rest" : "Il existe souvent des **dépendances entre** **variables**.",
                   "attributes" : null,
                   "ttsText" : "il existe souvent des dépendances entre variables.",
                   "ttsKey" : "69792f9cd0f4e2116006c6b8049faecd",
@@ -481,14 +481,14 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "C'est **évolution** **à long terme** **dans une direction donnée**.",
+                  "rest" : "C'est une **évolution** **à long terme** **dans une direction donnée**.",
                   "attributes" : null,
-                  "ttsText" : "c'est évolution à long terme dans une direction donnée.",
-                  "ttsKey" : "f96808a7dec58958ed6d177f4faf79a8",
+                  "ttsText" : "c'est une évolution à long terme dans une direction donnée.",
+                  "ttsKey" : "a8cf98f23a2a6099f887e92e511a01ec",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
-                  "duration" : 3.267,
+                  "duration" : 2.995,
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
@@ -603,6 +603,93 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 4.425,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Acteur** en **prospective** :",
+                  "attributes" : null,
+                  "ttsText" : "acteur en prospective :",
+                  "ttsKey" : "ce9ceaca6ffea915874ecb6a25d291cc",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.662,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Personne**, **groupe** ou **organisme** **concerné** **par** certaines **variables**,",
+                  "attributes" : null,
+                  "ttsText" : "personne, groupe ou organisme concerné par certaines variables,",
+                  "ttsKey" : "42dfba6d50b6658aa5296a4259ecd937",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.904,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**parce** qu'il les **influence** ou les **subit**.",
+                  "attributes" : null,
+                  "ttsText" : "parce qu'il les influence ou les subit.",
+                  "ttsKey" : "08f561d85273ca3d8f10bd242dd9ab39",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.541,
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,

@@ -1,0 +1,500 @@
+{
+  "code" : "URBXXXXXXXXXU0005",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Rudiments d'urbanisme",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Urbanisme :",
+                  "attributes" : null,
+                  "ttsText" : "urbanisme :",
+                  "ttsKey" : "acd07c3e1fc9572157e9aeed8bc144e4",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.343,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**pratiques**, **règles** et **techniques** d'**aménagement** des villes, villages et territoires",
+                  "attributes" : null,
+                  "ttsText" : "pratiques, règles et techniques daménagement des villes, villages et territoires",
+                  "ttsKey" : "274f6a0ff29579fe528a7579098e6528",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.98,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "pour **répondre aux besoins des habitants**",
+                  "attributes" : null,
+                  "ttsText" : "pour répondre aux besoins des habitants",
+                  "ttsKey" : "7a3dd8294119ba7c9cb8800c3f6fc9d6",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.056,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Cadres contraignant** l'**urbanisme** :",
+                  "attributes" : null,
+                  "ttsText" : "cadres contraignant lurbanisme :",
+                  "ttsKey" : "75eac615d4eb9e7a8c9601d8c9c63d8d",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.058,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "l'**environnement**, l'**économie**, le **patrimoine**.",
+                  "attributes" : null,
+                  "ttsText" : "lenvironnement, léconomie, le patrimoine.",
+                  "ttsKey" : "5c8100f34da4f9b5228f821d39d895a6",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.269,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Objectifs** de l'**urbanisme** :",
+                  "attributes" : null,
+                  "ttsText" : "objectifs de lurbanisme :",
+                  "ttsKey" : "b9353ea0c0933aec8e90d9239d06c1b4",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.054,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**organiser** l'**espace**",
+                  "attributes" : null,
+                  "ttsText" : "organiser lespace",
+                  "ttsKey" : "8fa2e6f2a54228a1b1fb7b27e505610a",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.572,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**faciliter** la **mobilité**",
+                  "attributes" : null,
+                  "ttsText" : "faciliter la mobilité",
+                  "ttsKey" : "61a0248b8604a3176f9a592332f630a4",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.749,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "assurer la **mixité**",
+                  "attributes" : null,
+                  "ttsText" : "assurer la mixité",
+                  "ttsKey" : "a54ce68d65d5563d7281a18a68cf0347",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.336,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**protéger** l'**environnement**",
+                  "attributes" : null,
+                  "ttsText" : "protéger lenvironnement",
+                  "ttsKey" : "5fb3a291ca941f522fa86826ba2ebb2e",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.518,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "garantir la **qualité de vie**",
+                  "attributes" : null,
+                  "ttsText" : "garantir la qualité de vie",
+                  "ttsKey" : "b9f107bb3429639fa3bb5757b4007e2a",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.997,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Principaux **outils** de l'**urbanisme** :",
+                  "attributes" : null,
+                  "ttsText" : "principaux outils de lurbanisme :",
+                  "ttsKey" : "0401681189244507deeba73fff59e568",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.794,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Les **plans locaux** qui **définissent** les **règles d'utilisation du sol**",
+                  "attributes" : null,
+                  "ttsText" : "les plans locaux qui définissent les règles dutilisation du sol",
+                  "ttsKey" : "0621f38353d53a4a2199473485dd73d3",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.07,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Les **permis** de **construire** ou **transformer**",
+                  "attributes" : null,
+                  "ttsText" : "les permis de construire ou transformer",
+                  "ttsKey" : "57d60d5546cbea09cf1b9c70bce72bf0",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.18,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Les **schémas directeurs** qui **planifient** le **développement** à **grande échelle**",
+                  "attributes" : null,
+                  "ttsText" : "les schémas directeurs qui planifient le développement à grande échelle",
+                  "ttsKey" : "1e56ea9d6313f1cebede02bedbd91bf8",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.257,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Le **zonage** qui délimite les usages",
+                  "attributes" : null,
+                  "ttsText" : "le zonage qui délimite les usages",
+                  "ttsKey" : "816980f0c1bfde6c58ca0655459e0c0a",
+                  "ttsFolder" : "units/URBXXXXXXXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.347,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 1,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Rudiments d'urbanisme",
+              "attributes" : null,
+              "ttsText" : "rudiments durbanisme",
+              "ttsKey" : "7b5807b41ca1e1ff98114534ce1ed975",
+              "ttsFolder" : "units/URBXXXXXXXXXU0005",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.581,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

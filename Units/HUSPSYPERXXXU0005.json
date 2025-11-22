@@ -1,0 +1,224 @@
+{
+  "code" : "HUSPSYPERXXXU0005",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Modèle de la personnalité \"Océan\"",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**5 facteurs** de **personnalité** et **fourchettes de variation** selon le modèle Océan :",
+                  "attributes" : null,
+                  "ttsText" : "5 facteurs de personnalité et fourchettes de variation selon le modèle océan :",
+                  "ttsKey" : "da49117da3eb57fe8b7d77295be43579",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.832,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**ouverture** : du **conformisme** et de la **préférence pour la routine** à la **créativité** et à la **préférence pour la variété**.",
+                  "attributes" : null,
+                  "ttsText" : "ouverture : du conformisme et de la préférence pour la routine à la créativité et à la préférence pour la variété.",
+                  "ttsKey" : "d971eef72055032abebbeb4016c4a311",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 6.957,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**conscience** : de la **désorganisation** et de la **négligence** à l'**organisation** et à la **discipline**.",
+                  "attributes" : null,
+                  "ttsText" : "conscience : de la désorganisation et de la négligence à lorganisation et à la discipline.",
+                  "ttsKey" : "b63b07389f1b50b015b23fd63b5d7040",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 5.344,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**extraversion** : du **retrait** à la **sociabilité**.",
+                  "attributes" : null,
+                  "ttsText" : "extraversion : du retrait à la sociabilité.",
+                  "ttsKey" : "e11d8ec2e5c2fed5f46dc065cfba9bc8",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.503,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**amabilité** : de la **suspicion** et de l'**opposition** à la **confiance** et au **soutien**.",
+                  "attributes" : null,
+                  "ttsText" : "amabilité : de la suspicion et de lopposition à la confiance et au soutien.",
+                  "ttsKey" : "8cb2f98dd9027ca6d35d429b36abf5ff",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 5.381,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "neuroticisme ou **instabilité émotionnelle** : du **calme** et de l'**assurance** à **l'anxiété** et à l'**insécurité**.",
+                  "attributes" : null,
+                  "ttsText" : "neuroticisme ou instabilité émotionnelle : du calme et de lassurance à lanxiété et à linsécurité.",
+                  "ttsKey" : "d1cbdcf480d565d0248b2e0acb6dbe46",
+                  "ttsFolder" : "units/HUSPSYPERXXXU0005",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 6.052,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Modèle de la personnalité \"Océan\"",
+              "attributes" : null,
+              "ttsText" : "modèle de la personnalité \"océan\"",
+              "ttsKey" : "f2b238c39e814362b0c9ed051b18abcd",
+              "ttsFolder" : "units/HUSPSYPERXXXU0005",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.848,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

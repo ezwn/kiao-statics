@@ -1,0 +1,603 @@
+{
+  "code" : "7fa4ngn6xmiaxd3hx78jix",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Théorie de la décision et valeur espérée",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Éléments** du modèle de la **théorie de la décision** :",
+                    "attributes" : null,
+                    "ttsText" : "éléments du modèle de la théorie de la décision :",
+                    "ttsKey" : "4ca74f7b7c4207a0bf2c33397b9aa1d3",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.5,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "alternatives d'action",
+                    "attributes" : null,
+                    "ttsText" : "alternatives daction",
+                    "ttsKey" : "e61f52a8270c2abf3866b5c1a327ce34",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.29,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "états de l'environnement",
+                    "attributes" : null,
+                    "ttsText" : "états de lenvironnement",
+                    "ttsKey" : "bad54bb0c45203b8564a8f7b5bf82505",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.158,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "résultats",
+                    "attributes" : null,
+                    "ttsText" : "résultats",
+                    "ttsKey" : "5dbaf2133016a517b68060c114d64cc2",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.219,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Représentation** typique d'un **problème de décision** :",
+                    "attributes" : null,
+                    "ttsText" : "représentation typique dun problème de décision :",
+                    "ttsKey" : "30cd0f6d56b25f424f4c7269f6a33f97",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.521,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "matrice de résultats",
+                    "attributes" : null,
+                    "ttsText" : "matrice de résultats",
+                    "ttsKey" : "433d39e2d12280c3a49c93530676612a",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 0.984,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "dont les **lignes** sont les **alternatives d'action**",
+                    "attributes" : null,
+                    "ttsText" : "dont les lignes sont les alternatives daction",
+                    "ttsKey" : "bd5b9804b35b876796fba327ffb2e9ac",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.924,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "et les **colonnes** les **états** que peut prendre l'**environnement**",
+                    "attributes" : null,
+                    "ttsText" : "et les colonnes les états que peut prendre lenvironnement",
+                    "ttsKey" : "91f8131ceec114bd990d7b1b34092cdf",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.304,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : true
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Effet recherché** de la **décision** :",
+                    "attributes" : null,
+                    "ttsText" : "effet recherché de la décision :",
+                    "ttsKey" : "9d78a19002a3bb0836c092b1ac5e5190",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 1.954,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**minimiser** ou **maximiser** le **résultat**",
+                    "attributes" : null,
+                    "ttsText" : "minimiser ou maximiser le résultat",
+                    "ttsKey" : "feb8c80dd9f01dae2a8f2f4e86651c39",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.288,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Domination** d'une **alternative** sur une autre :",
+                    "attributes" : null,
+                    "ttsText" : "domination dune alternative sur une autre :",
+                    "ttsKey" : "e1212ff56e8ad1489dfcf0d9ed23081a",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.146,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "son **résultat** est **meilleur** **pour tous** les **états de l'environnement**",
+                    "attributes" : null,
+                    "ttsText" : "son résultat est meilleur pour tous les états de lenvironnement",
+                    "ttsKey" : "7d2fe39fe14631c9c3dc42e5403d4e22",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.435,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        }, {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "Opération de **simplification** triviale du **problème** :",
+                    "attributes" : null,
+                    "ttsText" : "opération de simplification triviale du problème :",
+                    "ttsKey" : "d0e9320d5e5cf06eb1630df682216fc5",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 3.425,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**éliminer** les **alternatives d'action** **dominées**",
+                    "attributes" : null,
+                    "ttsText" : "éliminer les alternatives daction dominées",
+                    "ttsKey" : "c5c1a344f3d7a0bca609f95d5b627cd9",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.498,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Théorie de la décision",
+                "attributes" : null,
+                "ttsText" : "théorie de la décision",
+                "ttsKey" : "3d21f454b506697fe449c876d90f631f",
+                "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 1.334,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      }, {
+        "type" : "section",
+        "parts" : [ {
+          "type" : "paragraph",
+          "parts" : [ {
+            "type" : "sentence",
+            "parts" : [ {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : true,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**Valeur espérée** d'une **alternative d'action** :",
+                    "attributes" : null,
+                    "ttsText" : "valeur espérée dune alternative daction :",
+                    "ttsKey" : "861a124a360d447ed3fd8af1164d3bab",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.503,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : true,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**moyenne** de ses **résultats** **pour chaque** **état de l'environnement**,",
+                    "attributes" : null,
+                    "ttsText" : "moyenne de ses résultats pour chaque état de lenvironnement,",
+                    "ttsKey" : "676668b5a8e898583f8ff9bca3492944",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.635,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            }, {
+              "type" : "syntagma",
+              "parts" : [ {
+                "type" : "mltoken",
+                "parts" : {
+                  "FR" : {
+                    "lang" : "FR",
+                    "percentCount" : 0,
+                    "hasOptionalPrefix" : false,
+                    "titleLevel" : 0,
+                    "exclamationCount" : 0,
+                    "orderedListNumber" : null,
+                    "rest" : "**pondérée** par la **probabilité d'occurrence** de celui-ci.",
+                    "attributes" : null,
+                    "ttsText" : "pondérée par la probabilité doccurrence de celui-ci.",
+                    "ttsKey" : "d09f6260e56e1dfb4d0c0eaa2235c111",
+                    "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                    "voice" : "fr-FR-Chirp3-HD-Puck",
+                    "speakingRates" : [ 1.0, 1.4 ],
+                    "duration" : 2.933,
+                    "disabled" : false,
+                    "vocabulary" : false,
+                    "question" : false,
+                    "unorderedListItem" : false
+                  }
+                }
+              } ]
+            } ]
+          } ]
+        } ],
+        "title" : {
+          "type" : "syntagma",
+          "parts" : [ {
+            "type" : "mltoken",
+            "parts" : {
+              "FR" : {
+                "lang" : "FR",
+                "percentCount" : 1,
+                "hasOptionalPrefix" : false,
+                "titleLevel" : 2,
+                "exclamationCount" : 0,
+                "orderedListNumber" : null,
+                "rest" : "Valeur espérée (ou critère de Bayes)",
+                "attributes" : null,
+                "ttsText" : "valeur espérée (ou critère de bayes)",
+                "ttsKey" : "86ad34be10ba76d66e27ff1cc936a718",
+                "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+                "voice" : "fr-FR-Chirp3-HD-Puck",
+                "speakingRates" : [ 1.0, 1.4 ],
+                "duration" : 2.461,
+                "disabled" : false,
+                "vocabulary" : false,
+                "question" : false,
+                "unorderedListItem" : false
+              }
+            }
+          } ]
+        },
+        "level" : 2
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Théorie de la décision et valeur espérée",
+              "attributes" : null,
+              "ttsText" : "théorie de la décision et valeur espérée",
+              "ttsKey" : "4b420491ab88f0677c49af36a7165c69",
+              "ttsFolder" : "units/7fa4ngn6xmiaxd3hx78jix",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 2.37,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
