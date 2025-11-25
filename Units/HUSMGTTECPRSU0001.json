@@ -52,14 +52,14 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "La prospective se concentre sur des **systèmes**,",
+                  "rest" : "La prospective définit des **systèmes**,",
                   "attributes" : null,
-                  "ttsText" : "la prospective se concentre sur des systèmes,",
-                  "ttsKey" : "aca3e16720ac511b839567c2fbcea464",
+                  "ttsText" : "la prospective définit des systèmes,",
+                  "ttsKey" : "6b71cb3910ba64942aef061702b81805",
                   "ttsFolder" : "units/HUSMGTTECPRSU0001",
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
-                  "duration" : 2.776,
+                  "duration" : 2.338,
                   "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
@@ -481,7 +481,7 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "C'est une **évolution** **à long terme** **dans une direction donnée**.",
+                  "rest" : "C'est une **évolution** **à long terme** **dans** une **direction donnée**.",
                   "attributes" : null,
                   "ttsText" : "c'est une évolution à long terme dans une direction donnée.",
                   "ttsKey" : "a8cf98f23a2a6099f887e92e511a01ec",
@@ -607,6 +607,180 @@
                   "vocabulary" : false,
                   "question" : false,
                   "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Signal** en **prospective** :",
+                  "attributes" : null,
+                  "ttsText" : "signal en prospective :",
+                  "ttsKey" : "50a6ee32d2fde2153666927990840fe1",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.229,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "c'est une observation **indiquant** un **changement** **futur**",
+                  "attributes" : null,
+                  "ttsText" : "c'est une observation indiquant un changement futur",
+                  "ttsKey" : "ad8d9f8540a8f08f54c964a2cb5dc55a",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.058,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Types** de **signaux** :",
+                  "attributes" : null,
+                  "ttsText" : "types de signaux :",
+                  "ttsKey" : "52b49c56eeae3096fa9e46377894eced",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.588,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "les **signaux faibles** (**germes de changement**), **subtils** et **difficiles à interpréter**",
+                  "attributes" : null,
+                  "ttsText" : "les signaux faibles (germes de changement), subtils et difficiles à interpréter",
+                  "ttsKey" : "70d62c12b4932c3db8087e2bcce28864",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.78,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "les **signaux forts**, **manifestes** et **entretenant** les **tendances existantes**",
+                  "attributes" : null,
+                  "ttsText" : "les signaux forts, manifestes et entretenant les tendances existantes",
+                  "ttsKey" : "56fd6465a45d97dd6be8562d9b0e260e",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.789,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "les **signaux trompeurs**, **visibles** mais **sans fondement**",
+                  "attributes" : null,
+                  "ttsText" : "les signaux trompeurs, visibles mais sans fondement",
+                  "ttsKey" : "3ee8d81fb31a7d9e57c2ed634f4f7747",
+                  "ttsFolder" : "units/HUSMGTTECPRSU0001",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.683,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
                 }
               }
             } ]
