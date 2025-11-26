@@ -1,0 +1,556 @@
+{
+  "code" : "COSARCTOGAFXU0010",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Méthode de développement d'architecture (TOGAF)",
+    "sttMapping" : {
+      "méthode de développement d'architecture" : "MDA"
+    }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Dispositif** de la **MDA** :",
+                  "attributes" : null,
+                  "ttsText" : "dispositif de la méthode de développement darchitecture :",
+                  "ttsKey" : "d6e8c0a0483a24c1f910eb0fb2aa1359",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.96,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une **phase préliminaire**",
+                  "attributes" : null,
+                  "ttsText" : "une phase préliminaire",
+                  "ttsKey" : "3108991b1cf6bd85c2887abd85c27beb",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.781,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un **processus continu** de **gestion** des **exigences**",
+                  "attributes" : null,
+                  "ttsText" : "un processus continu de gestion des exigences",
+                  "ttsKey" : "1b682275ad4b3bd2294986de02ed9b77",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.023,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "un **cycle** **itératif** de **8 phases**",
+                  "attributes" : null,
+                  "ttsText" : "un cycle itératif de 8 phases",
+                  "ttsKey" : "a6002a3a2df30efb0d69ab2d347e499b",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.987,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**But** de la **phase** **préliminaire** de la **MDA** :",
+                  "attributes" : null,
+                  "ttsText" : "but de la phase préliminaire de la méthode de développement darchitecture :",
+                  "ttsKey" : "f3f667bf5f550bfabbeacb7c0a0eaffb",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.182,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Préparer** le **cadre d'architecture** et les **principes**",
+                  "attributes" : null,
+                  "ttsText" : "préparer le cadre darchitecture et les principes",
+                  "ttsKey" : "ee7c0c6f73736992b8a2b726a9548eb7",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.114,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Phases** du **cycle** **itératif** de la **MDA** :",
+                  "attributes" : null,
+                  "ttsText" : "phases du cycle itératif de la méthode de développement darchitecture :",
+                  "ttsKey" : "d3a66765451d1876b020beae58a2d7f5",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.224,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Vision",
+                  "attributes" : null,
+                  "ttsText" : "vision",
+                  "ttsKey" : "2725d7b133bdcce3b7a27ee1a4cca50a",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.038,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Architecture métier** (actuelle et cible)",
+                  "attributes" : null,
+                  "ttsText" : "architecture métier (actuelle et cible)",
+                  "ttsKey" : "43dbbc1a8cfa8011a523d73840a743d2",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.466,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Architecture des systèmes d'informations** (actuelle et cible)",
+                  "attributes" : null,
+                  "ttsText" : "architecture des systèmes dinformations (actuelle et cible)",
+                  "ttsKey" : "a0dfd959a6abdff32167aeb50d4e8544",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.496,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Architecture technique** (actuelle et cible)",
+                  "attributes" : null,
+                  "ttsText" : "architecture technique (actuelle et cible)",
+                  "ttsKey" : "84e6c09357e066ecd6afffdb86339fe8",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.463,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Opportunités** et **solutions**",
+                  "attributes" : null,
+                  "ttsText" : "opportunités et solutions",
+                  "ttsKey" : "5b97cc67d58a1389a0b4cbfa7df841bb",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.902,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Plan de migration",
+                  "attributes" : null,
+                  "ttsText" : "plan de migration",
+                  "ttsKey" : "cd17a29592a560ef7923197b1c55865d",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.345,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Gouvernance** de l'**implémentation**",
+                  "attributes" : null,
+                  "ttsText" : "gouvernance de limplémentation",
+                  "ttsKey" : "b50da799925028f06f519eb72b9e6709",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.041,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Gestion** des **changements** d'**architecture**",
+                  "attributes" : null,
+                  "ttsText" : "gestion des changements darchitecture",
+                  "ttsKey" : "ef037a4b03d004b2f35e8a4bd49ff8a8",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.188,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Objectif du processus de **gestion des exigences** de la **MDA** :",
+                  "attributes" : null,
+                  "ttsText" : "objectif du processus de gestion des exigences de la méthode de développement darchitecture :",
+                  "ttsKey" : "974ee22ac61592a87c76dc9a5f81dc1f",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.61,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**mettre à jour** les **exigences** **métier**, **fonctionnelles** et **techniques**",
+                  "attributes" : null,
+                  "ttsText" : "mettre à jour les exigences métier, fonctionnelles et techniques",
+                  "ttsKey" : "7064ecddec33e84406318fa7d7f56929",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.487,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "pour que l'**architecture** **reste en adéquation** **avec** les **besoins**",
+                  "attributes" : null,
+                  "ttsText" : "pour que larchitecture reste en adéquation avec les besoins",
+                  "ttsKey" : "219d33ed28cb5d3abe4f69152dff4b67",
+                  "ttsFolder" : "units/COSARCTOGAFXU0010",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.776,
+                  "disabled" : false,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Méthode de développement d'architecture (TOGAF)",
+              "attributes" : null,
+              "ttsText" : "méthode de développement darchitecture (TOGAF)",
+              "ttsKey" : "a86436ac53728dd75919a4d6e487e2ea",
+              "ttsFolder" : "units/COSARCTOGAFXU0010",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 3.419,
+              "disabled" : false,
+              "vocabulary" : false,
+              "question" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
