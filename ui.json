@@ -16,9 +16,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.716,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -36,9 +36,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.429,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -56,9 +56,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.003,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -76,9 +76,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.927,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -96,9 +96,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.516,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -116,9 +116,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.544,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -136,9 +136,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.865,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -156,9 +156,9 @@
       "voice" : "de-DE-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.741,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     }
   },
@@ -179,9 +179,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.816,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -199,9 +199,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.639,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -219,9 +219,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.619,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -239,9 +239,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.622,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -259,9 +259,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.34,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -279,9 +279,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.427,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -299,9 +299,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.851,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -319,9 +319,9 @@
       "voice" : "en-US-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.271,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     }
   },
@@ -342,9 +342,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.098,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -362,9 +362,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.134,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -382,9 +382,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.63,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -402,9 +402,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.941,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -422,9 +422,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.566,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -442,9 +442,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 2.011,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -462,9 +462,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 2.682,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -482,9 +482,9 @@
       "voice" : "fr-FR-Chirp3-HD-Puck",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.975,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     }
   },
@@ -505,9 +505,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.65,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "pronounce" : {
@@ -525,9 +525,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.641,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "complete" : {
@@ -545,9 +545,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.719,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInEnglish" : {
@@ -565,9 +565,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.252,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInGerman" : {
@@ -585,9 +585,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.18,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "howToSayInChinese" : {
@@ -605,9 +605,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 1.362,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "repeatTheTranslationOf" : {
@@ -625,9 +625,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.912,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     },
     "correct" : {
@@ -645,9 +645,9 @@
       "voice" : "cmn-CN-Chirp3-HD-Fenrir",
       "speakingRates" : [ 1.4 ],
       "duration" : 0.605,
-      "disabled" : false,
       "vocabulary" : false,
       "question" : false,
+      "disabled" : false,
       "unorderedListItem" : false
     }
   }

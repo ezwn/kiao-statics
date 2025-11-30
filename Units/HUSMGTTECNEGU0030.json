@@ -1,0 +1,780 @@
+{
+  "code" : "HUSMGTTECNEGU0030",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Responsabilité Sociale des Entreprises",
+    "sttMapping" : {
+      "responsabilité sociale des entreprises" : "RSE",
+      "organisation internationale de normalisation" : "ISO",
+      "responsabilité sociétale des entreprises" : "RSE"
+    }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "RSE :",
+                  "attributes" : null,
+                  "ttsText" : "responsabilité sociale des entreprises :",
+                  "ttsKey" : "d1259fd38b375d3f4fe0f02b36aefb4c",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.544,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**démarche** des entreprises",
+                  "attributes" : null,
+                  "ttsText" : "démarche des entreprises",
+                  "ttsKey" : "c4ef815f6219561ea381360dc74b8a3c",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.239,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**pour** intégrer des **enjeux sociétaux** dans leur activité.",
+                  "attributes" : null,
+                  "ttsText" : "pour intégrer des enjeux sociétaux dans leur activité.",
+                  "ttsKey" : "4ceed14a511084dd8402d2f0aa934340",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.691,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Norme** directrice de la **RSE** :",
+                  "attributes" : null,
+                  "ttsText" : "norme directrice de la responsabilité sociale des entreprises :",
+                  "ttsKey" : "f7625fd79a3d45ad98451a9f6c3258eb",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.998,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "ISO 26000",
+                  "attributes" : null,
+                  "ttsText" : "organisation internationale de normalisation 26000",
+                  "ttsKey" : "148cc7fd48fc43412d4309dd03f1ffd3",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.986,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Enjeux** **pris en compte** par la **RSE** :",
+                  "attributes" : null,
+                  "ttsText" : "enjeux pris en compte par la responsabilité sociale des entreprises :",
+                  "ttsKey" : "419a0367bcb541ba36104b71a3530216",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.19,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "sociaux",
+                  "attributes" : null,
+                  "ttsText" : "sociaux",
+                  "ttsKey" : "e9aaa589188895919d07fedc50a262dd",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.458,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "environnementaux",
+                  "attributes" : null,
+                  "ttsText" : "environnementaux",
+                  "ttsKey" : "939548a4a04b36f839b7213523a84b2b",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.06,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "éthiques",
+                  "attributes" : null,
+                  "ttsText" : "éthiques",
+                  "ttsKey" : "c7d303f95429f517d5127ac120a7b1dc",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.839,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "économiques",
+                  "attributes" : null,
+                  "ttsText" : "économiques",
+                  "ttsKey" : "81bed6f4333d7517374645cc15b418c0",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.178,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "7 **piliers** (ou thématiques) de la **RSE** :",
+                  "attributes" : null,
+                  "ttsText" : "7 piliers (ou thématiques) de la responsabilité sociale des entreprises :",
+                  "ttsKey" : "81d4e34684e5a53775cbe39d2c8c9fa9",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.504,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**gouvernance** de l'**organisation**",
+                  "attributes" : null,
+                  "ttsText" : "gouvernance de lorganisation",
+                  "ttsKey" : "2b6e10be5c3ece621be86c1277d8b041",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.812,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**droits** de l'**homme**",
+                  "attributes" : null,
+                  "ttsText" : "droits de lhomme",
+                  "ttsKey" : "515d00e78486160c529c73b828bee0fe",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.562,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**conditions** de **travail**",
+                  "attributes" : null,
+                  "ttsText" : "conditions de travail",
+                  "ttsKey" : "f6fafabb97115c6cfb8441828e4853a6",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.469,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "environnement",
+                  "attributes" : null,
+                  "ttsText" : "environnement",
+                  "ttsKey" : "ee2d4b19f7d9ac89b93cdcbbaa92fd81",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.798,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**loyauté** des **pratiques**",
+                  "attributes" : null,
+                  "ttsText" : "loyauté des pratiques",
+                  "ttsKey" : "5bb3924e4de5231b43bf7c574b1ff7e8",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.572,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "consommateurs",
+                  "attributes" : null,
+                  "ttsText" : "consommateurs",
+                  "ttsKey" : "91bde75b578a8f437337c0af3b9f8283",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.086,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**communautés** et **développement local**",
+                  "attributes" : null,
+                  "ttsText" : "communautés et développement local",
+                  "ttsKey" : "1d5ca1c41f37d733527db47ab52b6a28",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.946,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "7 **principes de conduite** de la **RSE** :",
+                  "attributes" : null,
+                  "ttsText" : "7 principes de conduite de la responsabilité sociale des entreprises :",
+                  "ttsKey" : "d09b375cdd0151f2f9b118bef24d58f6",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.952,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "responsabilité",
+                  "attributes" : null,
+                  "ttsText" : "responsabilité",
+                  "ttsKey" : "e80eb548227502c391241b2a72f6d6b6",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.234,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "transparence",
+                  "attributes" : null,
+                  "ttsText" : "transparence",
+                  "ttsKey" : "750e45807658b6c4e64814da9219b48c",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.547,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "comportement éthique",
+                  "attributes" : null,
+                  "ttsText" : "comportement éthique",
+                  "ttsKey" : "72ae3e43b17a499e4f0c5b79bc7e0d32",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.422,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**respect** des **intérêts** des **parties prenantes**",
+                  "attributes" : null,
+                  "ttsText" : "respect des intérêts des parties prenantes",
+                  "ttsKey" : "56100e2a61e0f69822714299be82a455",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.9,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**respect** des **lois**",
+                  "attributes" : null,
+                  "ttsText" : "respect des lois",
+                  "ttsKey" : "8e75eb6ae0e4282f2caf9df93add006c",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.075,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**respect** des **normes internationales** de **comportement**",
+                  "attributes" : null,
+                  "ttsText" : "respect des normes internationales de comportement",
+                  "ttsKey" : "0189ecdb75a4864cacc90ccfd91e367d",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.269,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**respect** des **droits** de l'**homme**",
+                  "attributes" : null,
+                  "ttsText" : "respect des droits de lhomme",
+                  "ttsKey" : "2ab002f4ff3c2c0646d9cb0c581f8f70",
+                  "ttsFolder" : "units/HUSMGTTECNEGU0030",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.591,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 1,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Responsabilité Sociale des Entreprises",
+              "attributes" : null,
+              "ttsText" : "responsabilité sociale des entreprises",
+              "ttsKey" : "d1259fd38b375d3f4fe0f02b36aefb4c",
+              "ttsFolder" : "units/HUSMGTTECNEGU0030",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 2.544,
+              "vocabulary" : false,
+              "question" : false,
+              "disabled" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
