@@ -38,11 +38,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.266,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -64,11 +62,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 2.685,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : true,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -98,11 +94,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.224,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -128,11 +122,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.538,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -158,11 +150,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.24,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -188,11 +178,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 0.693,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -218,11 +206,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.519,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -249,11 +235,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.387,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -275,11 +259,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 5.427,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -304,11 +286,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 1.565,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -337,11 +317,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 0.654,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -368,11 +346,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.022,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -398,11 +374,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.056,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -429,11 +403,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.314,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -447,7 +419,7 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "pour **résoudre les problèmes** et **réguler les comportements**",
+                  "rest" : "pour **résoudre** les **problèmes** et **réguler** les **comportements**",
                   "attributes" : null,
                   "ttsText" : "pour résoudre les problèmes et réguler les comportements",
                   "ttsKey" : "ee6eaa9c7ebb759cbbcfa57874ba19a8",
@@ -455,11 +427,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 3.258,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -495,11 +465,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.142,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -521,11 +489,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 1.106,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : true,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -554,11 +520,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.302,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -585,11 +549,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.496,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -603,7 +565,7 @@
                   "titleLevel" : 0,
                   "exclamationCount" : 0,
                   "orderedListNumber" : null,
-                  "rest" : "**capacité** à **adopter la perspective de l'autre**",
+                  "rest" : "**capacité** à **adopter** la **perspective** de l'**autre**",
                   "attributes" : null,
                   "ttsText" : "capacité à adopter la perspective de lautre",
                   "ttsKey" : "56ba6e5c79e1c99b132f9e74a0cfe4db",
@@ -611,11 +573,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 2.626,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -645,11 +605,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 0.6, 1.0, 1.4 ],
                   "duration" : 1.143,
-                  "disabled" : false,
                   "vocabulary" : true,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : false
                 }
               }
@@ -671,11 +629,9 @@
                   "voice" : "fr-FR-Chirp3-HD-Puck",
                   "speakingRates" : [ 1.0, 1.4 ],
                   "duration" : 2.617,
-                  "disabled" : false,
                   "vocabulary" : false,
                   "question" : false,
-                  "writtenExercise" : false,
-                  "writtenSection" : false,
+                  "disabled" : false,
                   "unorderedListItem" : true
                 }
               }
@@ -708,11 +664,9 @@
               "voice" : "fr-FR-Chirp3-HD-Puck",
               "speakingRates" : [ 0.6, 1.0, 1.4 ],
               "duration" : 1.303,
-              "disabled" : false,
               "vocabulary" : true,
               "question" : false,
-              "writtenExercise" : false,
-              "writtenSection" : false,
+              "disabled" : false,
               "unorderedListItem" : false
             }
           }
@@ -738,11 +692,9 @@
               "voice" : "fr-FR-Chirp3-HD-Puck",
               "speakingRates" : [ 0.6, 1.0, 1.4 ],
               "duration" : 0.904,
-              "disabled" : false,
               "vocabulary" : true,
               "question" : false,
-              "writtenExercise" : false,
-              "writtenSection" : false,
+              "disabled" : false,
               "unorderedListItem" : false
             }
           }
@@ -769,11 +721,9 @@
               "voice" : "fr-FR-Chirp3-HD-Puck",
               "speakingRates" : [ 0.6, 1.0, 1.4 ],
               "duration" : 1.621,
-              "disabled" : false,
               "vocabulary" : true,
               "question" : false,
-              "writtenExercise" : false,
-              "writtenSection" : false,
+              "disabled" : false,
               "unorderedListItem" : false
             }
           }
@@ -795,11 +745,9 @@
               "voice" : "fr-FR-Chirp3-HD-Puck",
               "speakingRates" : [ 1.0, 1.4 ],
               "duration" : 1.746,
-              "disabled" : false,
               "vocabulary" : false,
               "question" : false,
-              "writtenExercise" : false,
-              "writtenSection" : false,
+              "disabled" : false,
               "unorderedListItem" : false
             }
           }
