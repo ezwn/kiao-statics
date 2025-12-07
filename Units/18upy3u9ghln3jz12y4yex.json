@@ -1,0 +1,1041 @@
+{
+  "code" : "18upy3u9ghln3jz12y4yex",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Génération Augmentée par Recherche",
+    "sttMapping" : {
+      "rague" : "RAG",
+      "large language model" : "LLM"
+    }
+  }, {
+    "lang" : "EN",
+    "title" : "Retrieval-Augmented Generation",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Benefits** of RAG in designing an agent:",
+                  "attributes" : null,
+                  "ttsText" : "benefits of retrieval augmented generation in designing an agent:",
+                  "ttsKey" : "723dd319a88be8a359b345dc7889ac34",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.626,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Intérêts** de la RAG dans la conception d'un agent :",
+                  "attributes" : null,
+                  "ttsText" : "intérêts de la rague dans la conception dun agent :",
+                  "ttsKey" : "390454ad72959826f80603096c4e2f6d",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.77,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**reduce** its **hallucinations**",
+                  "attributes" : null,
+                  "ttsText" : "reduce its hallucinations",
+                  "ttsKey" : "f666233890f30934471137d1fbd2fae1",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.037,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**diminuer** ses **hallucinations**",
+                  "attributes" : null,
+                  "ttsText" : "diminuer ses hallucinations",
+                  "ttsKey" : "65f28574c82315130f65a3d2608049ec",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.054,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "provide it with **recent data** at **lower cost**",
+                  "attributes" : null,
+                  "ttsText" : "provide it with recent data at lower cost",
+                  "ttsKey" : "4626bb0eb3b67a68ffb289f51d0f5f1d",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.549,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "lui fournir des **données récentes** à **moindre coût**",
+                  "attributes" : null,
+                  "ttsText" : "lui fournir des données récentes à moindre coût",
+                  "ttsKey" : "b728f14382988ef3f834c7bc28d14d2c",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.862,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "be able to **modify** / **delete** its **information** **easily**",
+                  "attributes" : null,
+                  "ttsText" : "be able to modify / delete its information easily",
+                  "ttsKey" : "5c36021f28bc9f347a00915b4e1cfc13",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.025,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "pouvoir **modifier** / **supprimer** **facilement** ses **informations**",
+                  "attributes" : null,
+                  "ttsText" : "pouvoir modifier / supprimer facilement ses informations",
+                  "ttsKey" : "60ff07eb50a7cfc5a4e155dbcf5b157a",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.017,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Principle** of RAG:",
+                  "attributes" : null,
+                  "ttsText" : "principle of retrieval augmented generation:",
+                  "ttsKey" : "d8b7ad2e8ed456feb0eb066484d8d7fd",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.354,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Principe** de la RAG :",
+                  "attributes" : null,
+                  "ttsText" : "principe de la rague :",
+                  "ttsKey" : "bba5be328ea6db31765f70475f3455a6",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.576,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**retrieve** **passages** from **documents**",
+                  "attributes" : null,
+                  "ttsText" : "retrieve passages from documents",
+                  "ttsKey" : "71948a0f71a77133b2b36eec28c61496",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.959,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**récupérer** des **passages** de **documents**,",
+                  "attributes" : null,
+                  "ttsText" : "récupérer des passages de documents,",
+                  "ttsKey" : "dc5d8d1474105f3428f18056a311435b",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.983,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "that are **close** to the **semantic context** of a **prompt**",
+                  "attributes" : null,
+                  "ttsText" : "that are close to the semantic context of a prompt",
+                  "ttsKey" : "064947ac1fe3ec768ca3f7c1ca017cd6",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.592,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**proches** du **contexte sémantique** d'un **prompt**,",
+                  "attributes" : null,
+                  "ttsText" : "proches du contexte sémantique dun prompt,",
+                  "ttsKey" : "3f2fdb7d5f52b3c85671bf29470a2566",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.98,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "and **send** them **with** the **prompt** **to** an **LLM** for generation.",
+                  "attributes" : null,
+                  "ttsText" : "and send them with the prompt to an large language model for generation.",
+                  "ttsKey" : "dc63ef6e84f77c44610fc1da1492f979",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.833,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "et les **envoyer** **avec** le **prompt** **à** un **LLM** pour génération.",
+                  "attributes" : null,
+                  "ttsText" : "et les envoyer avec le prompt à un LLM pour génération.",
+                  "ttsKey" : "a40830f9a34dc44df2f2c30125e79baf",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.428,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Preparation** of the **documents**:",
+                  "attributes" : null,
+                  "ttsText" : "preparation of the documents:",
+                  "ttsKey" : "e9561aaf3f6b5ae9d9cc0371d9570ca7",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.477,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Préparation** des **documents** :",
+                  "attributes" : null,
+                  "ttsText" : "préparation des documents :",
+                  "ttsKey" : "05618547497b63a74cbba03ad3908990",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.986,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "we **split** them **into passages**, according to a controlled strategy",
+                  "attributes" : null,
+                  "ttsText" : "we split them into passages, according to a controlled strategy",
+                  "ttsKey" : "16654ab9edb6e01cf149234685bb5bf8",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.034,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "on les **découpe** **en passages**, selon une stratégie contrôlée",
+                  "attributes" : null,
+                  "ttsText" : "on les découpe en passages, selon une stratégie contrôlée",
+                  "ttsKey" : "6935f6bc16ccf352e0e29489f19591a1",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.588,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "we **convert** each passage **into** **a vector**",
+                  "attributes" : null,
+                  "ttsText" : "we convert each passage into a vector",
+                  "ttsKey" : "78da73e2681c92658a03f08053ee4f61",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.077,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "on **converti** chaque passage **en** **un vecteur**",
+                  "attributes" : null,
+                  "ttsText" : "on converti chaque passage en un vecteur",
+                  "ttsKey" : "0dbefa8e1becf6f2598eca93c81dad53",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.016,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "we **store**:",
+                  "attributes" : null,
+                  "ttsText" : "we store:",
+                  "ttsKey" : "05d80cbd43fd2d1f70c35dda3bba4478",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.635,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "on **stocke** :",
+                  "attributes" : null,
+                  "ttsText" : "on stocke :",
+                  "ttsKey" : "ac3eb440e84d7317976c216c49ebb6e6",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.941,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "the **text**",
+                  "attributes" : null,
+                  "ttsText" : "the text",
+                  "ttsKey" : "71521e8d9e963137b2947271f5bcedc9",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.592,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "le **texte**",
+                  "attributes" : null,
+                  "ttsText" : "le texte",
+                  "ttsKey" : "9801025ce1af2d1c0d56b866277b1284",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 0.632,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "the **vectors** and the **information** needed to **retrieve** the **passages**",
+                  "attributes" : null,
+                  "ttsText" : "the vectors and the information needed to retrieve the passages",
+                  "ttsKey" : "6628f50631093494991e4f00a6471636",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.359,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "les **vecteurs** et les **informations** de **récupération** des **passages**",
+                  "attributes" : null,
+                  "ttsText" : "les vecteurs et les informations de récupération des passages",
+                  "ttsKey" : "7514c1114b30f06931530fa09da55b5a",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.308,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Relevant **passages retrieval** mechanism:",
+                  "attributes" : null,
+                  "ttsText" : "relevant passages retrieval mechanism:",
+                  "ttsKey" : "f445562b85d77e676a73f7434773135d",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.031,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Mécanisme de **récupération des passages** pertinents :",
+                  "attributes" : null,
+                  "ttsText" : "mécanisme de récupération des passages pertinents :",
+                  "ttsKey" : "dc097a5cbd80b195c8d30c6a2ea9cbcb",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.589,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**vector** **search** (also called **semantic** search):",
+                  "attributes" : null,
+                  "ttsText" : "vector search (also called semantic search):",
+                  "ttsKey" : "d217d2a08dc9a9749cf65167db5f3f8e",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.582,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**recherche** **vectorielle** (aussi appelée recherche **sémantique**) :",
+                  "attributes" : null,
+                  "ttsText" : "recherche vectorielle (aussi appelée recherche sémantique) :",
+                  "ttsKey" : "c059b79525b87f7cff77a45e20edbf32",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.898,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "their vectors are **close** to the vector of the prompt to be completed.",
+                  "attributes" : null,
+                  "ttsText" : "their vectors are close to the vector of the prompt to be completed.",
+                  "ttsKey" : "82015c84a8596211cdc1c7c5391ccfae",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.954,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "leurs vecteurs sont **proches** du vecteur du prompt à compléter.",
+                  "attributes" : null,
+                  "ttsText" : "leurs vecteurs sont proches du vecteur du prompt à compléter.",
+                  "ttsKey" : "0dc1f29360894b9c2ff0f5ce18b192a8",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.305,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Mechanism for **sending to the LLM**:",
+                  "attributes" : null,
+                  "ttsText" : "mechanism for sending to the large language model:",
+                  "ttsKey" : "15ff50ec7d2763f561ae0f98a9ceac4f",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.679,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Mécanisme de **transmission au LLM** :",
+                  "attributes" : null,
+                  "ttsText" : "mécanisme de transmission au LLM :",
+                  "ttsKey" : "eb037448323a8a8df4aa5d963ce6d245",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.311,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "the **text** of the passages is **added to the initial prompt**",
+                  "attributes" : null,
+                  "ttsText" : "the text of the passages is added to the initial prompt",
+                  "ttsKey" : "88ca07c06f0f79cb3856b17b5e0d71bc",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.318,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "le **texte** des passages est **ajouté au prompt** initial",
+                  "attributes" : null,
+                  "ttsText" : "le texte des passages est ajouté au prompt initial",
+                  "ttsKey" : "e552fc84d57d76ce5972fe96e2875551",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.201,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "EN" : {
+                  "lang" : "EN",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "everything is **sent** to the LLM **as** a **standard** **prompt**.",
+                  "attributes" : null,
+                  "ttsText" : "everything is sent to the large language model as a standard prompt.",
+                  "ttsKey" : "6fa3031fb5223e32cca8d0a8b323c8fa",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "en-US-Chirp3-HD-Fenrir",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.418,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                },
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "le tout est **envoyé** au LLM **comme** un **prompt** **classique**.",
+                  "attributes" : null,
+                  "ttsText" : "le tout est envoyé au LLM comme un prompt classique.",
+                  "ttsKey" : "fa9c344a1538661cb5302d06d0396e93",
+                  "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.57,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "EN" : {
+              "lang" : "EN",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Retrieval-Augmented Generation",
+              "attributes" : null,
+              "ttsText" : "retrieval-augmented generation",
+              "ttsKey" : "3db8c0c4058c8b177b0f6d82a8c1ad46",
+              "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+              "voice" : "en-US-Chirp3-HD-Fenrir",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.957,
+              "vocabulary" : false,
+              "question" : false,
+              "disabled" : false,
+              "unorderedListItem" : false
+            },
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Génération Augmentée par Recherche",
+              "attributes" : null,
+              "ttsText" : "génération augmentée par recherche",
+              "ttsKey" : "4e55e45319549804c209c864bf65a4eb",
+              "ttsFolder" : "units/18upy3u9ghln3jz12y4yex",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.985,
+              "vocabulary" : false,
+              "question" : false,
+              "disabled" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
