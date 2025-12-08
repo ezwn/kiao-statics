@@ -1,0 +1,391 @@
+{
+  "code" : "j2jeysw7u5bu8k3licaxi0",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Chaîne d'Attaque Unifiée",
+    "sttMapping" : {
+      "attaque" : "ATT&CK"
+    }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Phase** dans le modèle de la **Chaîne d'Attaque Unifiée** :",
+                  "attributes" : null,
+                  "ttsText" : "phase dans le modèle de la chaîne dattaque unifiée :",
+                  "ttsKey" : "f367901ef9c1f2214074f986b457b5dd",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.31,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "étape d'une attaque,",
+                  "attributes" : null,
+                  "ttsText" : "étape dune attaque,",
+                  "ttsKey" : "fd01192f38e81eed20344916d64ac00c",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.946,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "destinée à **atteindre** un **objectif** **fondamental**,",
+                  "attributes" : null,
+                  "ttsText" : "destinée à atteindre un objectif fondamental,",
+                  "ttsKey" : "8b18250a4ffbb09236f8695f5aa9a4d8",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.096,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "en **utilisant** une ou plusieurs **techniques**.",
+                  "attributes" : null,
+                  "ttsText" : "en utilisant une ou plusieurs techniques.",
+                  "ttsKey" : "91a32ebaf13a0519b6239c4e97586e80",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.223,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        }, {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "correspond à une **tactique** dans **ATT&CK**.",
+                  "attributes" : null,
+                  "ttsText" : "correspond à une tactique dans attaque.",
+                  "ttsKey" : "907bda08aa7a1da9729347976c555994",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.995,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Cycle** dans le modèle de la **Chaîne d'Attaque Unifiée** :",
+                  "attributes" : null,
+                  "ttsText" : "cycle dans le modèle de la chaîne dattaque unifiée :",
+                  "ttsKey" : "79c5801164125045dc8bddd52d9452aa",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.931,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**enchaînement** cohérent **de phases**",
+                  "attributes" : null,
+                  "ttsText" : "enchaînement cohérent de phases",
+                  "ttsKey" : "4520676146a42ca3258f4318fa066f01",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.744,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "permettant à l'attaquant d'**atteindre** un **objectif** **stratégique**",
+                  "attributes" : null,
+                  "ttsText" : "permettant à lattaquant datteindre un objectif stratégique",
+                  "ttsKey" : "145a7b71a8def70635a4a8c0fd66e78a",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.503,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "Les **3 cycles** dans le modèle de la **Chaîne d'Attaque Unifiée** et leur **but** :",
+                  "attributes" : null,
+                  "ttsText" : "les 3 cycles dans le modèle de la chaîne dattaque unifiée et leur but :",
+                  "ttsKey" : "fb4c443ba753184d3627a683ba18ea72",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.565,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**intrusion** : **entrer**, **consolider sa position**, puis **enclencher** le cycle d'**expansion**",
+                  "attributes" : null,
+                  "ttsText" : "intrusion : entrer, consolider sa position, puis enclencher le cycle dexpansion",
+                  "ttsKey" : "d7bfe2dc2df9b52c6a705b977d41d4f9",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 5.056,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**expansion** : **accéder** aux **ressources**, obtenir les **privilèges** puis **enclencher** le cycle d'**exploitation**",
+                  "attributes" : null,
+                  "ttsText" : "expansion : accéder aux ressources, obtenir les privilèges puis enclencher le cycle dexploitation",
+                  "ttsKey" : "a0f1c1d6df1d5accae7b5dccfa5abc0e",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 6.174,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**exploitation** : **accomplir la mission** finale",
+                  "attributes" : null,
+                  "ttsText" : "exploitation : accomplir la mission finale",
+                  "ttsKey" : "74757c9f2b58fb0d4ad02a432a575aa6",
+                  "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.967,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 0,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Chaîne d'Attaque Unifiée",
+              "attributes" : null,
+              "ttsText" : "chaîne dattaque unifiée",
+              "ttsKey" : "c2263409a7b335c87bec61ceab116c2e",
+              "ttsFolder" : "units/j2jeysw7u5bu8k3licaxi0",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 1.577,
+              "vocabulary" : false,
+              "question" : false,
+              "disabled" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}

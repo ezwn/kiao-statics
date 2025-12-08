@@ -1,0 +1,332 @@
+{
+  "code" : "3l7dk71hj78vt7xl1qa0s6",
+  "tracks" : [ {
+    "lang" : "FR",
+    "title" : "Besoins humains et accomplissement selon Maslow",
+    "sttMapping" : { }
+  } ],
+  "text" : {
+    "type" : "text",
+    "parts" : [ {
+      "type" : "section",
+      "parts" : [ {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Structure** des **besoins humains** selon Maslow :",
+                  "attributes" : null,
+                  "ttsText" : "structure des besoins humains selon maslow :",
+                  "ttsKey" : "e1501c4508f36f155c0fa17c92ba3617",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.979,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "une **hiérarchie**, dont **chaque niveau** **soutien** le **suivant**.",
+                  "attributes" : null,
+                  "ttsText" : "une hiérarchie, dont chaque niveau soutien le suivant.",
+                  "ttsKey" : "3b173d2770b75ba301188c3bf38cbed2",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 3.224,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Niveaux de besoins** selon Maslow :",
+                  "attributes" : null,
+                  "ttsText" : "niveaux de besoins selon maslow :",
+                  "ttsKey" : "28fb2b33cb3f52cf531e0627680af18b",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.929,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**physiologique**, **sécurité**, **affection**, **estime de soi** et **accomplissement**.",
+                  "attributes" : null,
+                  "ttsText" : "physiologique, sécurité, affection, estime de soi et accomplissement.",
+                  "ttsKey" : "1ba8c45caa4a07e46cc41331e9465bb8",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 4.45,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          } ]
+        } ]
+      }, {
+        "type" : "paragraph",
+        "parts" : [ {
+          "type" : "sentence",
+          "parts" : [ {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : true,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**Caractéristiques** des **personnes accomplies** selon Maslow :",
+                  "attributes" : null,
+                  "ttsText" : "caractéristiques des personnes accomplies selon maslow :",
+                  "ttsKey" : "e86222795cf4eecaaaee50d94affb086",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.742,
+                  "vocabulary" : false,
+                  "question" : true,
+                  "disabled" : false,
+                  "unorderedListItem" : false
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**conscience** et **acceptation** **de soi**",
+                  "attributes" : null,
+                  "ttsText" : "conscience et acceptation de soi",
+                  "ttsKey" : "04ff497be12f1db1675c2ca1c0143ae0",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.22,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "solidité de convictions",
+                  "attributes" : null,
+                  "ttsText" : "solidité de convictions",
+                  "ttsKey" : "cb8293186edb1c08dfa9531bfefcad8a",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.515,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "orientation vers l'action",
+                  "attributes" : null,
+                  "ttsText" : "orientation vers laction",
+                  "ttsKey" : "f6e4f9a481a1309cc4d80249ad582942",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.619,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "**ouverture** aux **expériences** **nouvelles**",
+                  "attributes" : null,
+                  "ttsText" : "ouverture aux expériences nouvelles",
+                  "ttsKey" : "4e3e6c37ef3d6c9258dff9c33015eb84",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 2.273,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          }, {
+            "type" : "syntagma",
+            "parts" : [ {
+              "type" : "mltoken",
+              "parts" : {
+                "FR" : {
+                  "lang" : "FR",
+                  "percentCount" : 0,
+                  "hasOptionalPrefix" : false,
+                  "titleLevel" : 0,
+                  "exclamationCount" : 0,
+                  "orderedListNumber" : null,
+                  "rest" : "dévouement à une **mission**",
+                  "attributes" : null,
+                  "ttsText" : "dévouement à une mission",
+                  "ttsKey" : "f39b67d78ae6a72b9afaf6b337339efe",
+                  "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+                  "voice" : "fr-FR-Chirp3-HD-Puck",
+                  "speakingRates" : [ 1.0, 1.4 ],
+                  "duration" : 1.538,
+                  "vocabulary" : false,
+                  "question" : false,
+                  "disabled" : false,
+                  "unorderedListItem" : true
+                }
+              }
+            } ]
+          } ]
+        } ]
+      } ],
+      "title" : {
+        "type" : "syntagma",
+        "parts" : [ {
+          "type" : "mltoken",
+          "parts" : {
+            "FR" : {
+              "lang" : "FR",
+              "percentCount" : 1,
+              "hasOptionalPrefix" : false,
+              "titleLevel" : 1,
+              "exclamationCount" : 0,
+              "orderedListNumber" : null,
+              "rest" : "Besoins humains et accomplissement selon Maslow",
+              "attributes" : null,
+              "ttsText" : "besoins humains et accomplissement selon maslow",
+              "ttsKey" : "0e6f395bfdd98554edd1c2fe4609d312",
+              "ttsFolder" : "units/3l7dk71hj78vt7xl1qa0s6",
+              "voice" : "fr-FR-Chirp3-HD-Puck",
+              "speakingRates" : [ 1.0, 1.4 ],
+              "duration" : 3.237,
+              "vocabulary" : false,
+              "question" : false,
+              "disabled" : false,
+              "unorderedListItem" : false
+            }
+          }
+        } ]
+      },
+      "level" : 1
+    } ]
+  }
+}
